@@ -1,0 +1,522 @@
+diff --git a/node_modules/react-native-web/.DS_Store b/node_modules/react-native-web/.DS_Store
+new file mode 100644
+index 0000000..e96e63f
+Binary files /dev/null and b/node_modules/react-native-web/.DS_Store differ
+diff --git a/node_modules/react-native-web/dist/.DS_Store b/node_modules/react-native-web/dist/.DS_Store
+new file mode 100644
+index 0000000..9c2002c
+Binary files /dev/null and b/node_modules/react-native-web/dist/.DS_Store differ
+diff --git a/node_modules/react-native-web/dist/cjs/exports/createElement/index.js b/node_modules/react-native-web/dist/cjs/exports/createElement/index.js
+index 9758e29..4d594be 100644
+--- a/node_modules/react-native-web/dist/cjs/exports/createElement/index.js
++++ b/node_modules/react-native-web/dist/cjs/exports/createElement/index.js
+@@ -28,12 +28,12 @@ var createElement = (component, props, options) => {
+   var element = /*#__PURE__*/_react.default.createElement(Component, domProps);
+ 
+   // Update locale context if element's writing direction prop changes
+-  var elementWithLocaleProvider = domProps.dir ? /*#__PURE__*/_react.default.createElement(_useLocale.LocaleProvider, {
++  var elementWithFragment = domProps.dir ? /*#__PURE__*/_react.default.createElement(_useLocale.Fragment, {
+     children: element,
+     direction: domProps.dir,
+     locale: domProps.lang
+   }) : element;
+-  return elementWithLocaleProvider;
++  return elementWithFragment;
+ };
+ var _default = exports.default = createElement;
+ module.exports = exports.default;
+\ No newline at end of file
+diff --git a/node_modules/react-native-web/dist/cjs/modules/useLocale/index.js b/node_modules/react-native-web/dist/cjs/modules/useLocale/index.js
+index 0c9c16c..3791f8c 100644
+--- a/node_modules/react-native-web/dist/cjs/modules/useLocale/index.js
++++ b/node_modules/react-native-web/dist/cjs/modules/useLocale/index.js
+@@ -2,7 +2,7 @@
+ 
+ var _interopRequireWildcard = require("@babel/runtime/helpers/interopRequireWildcard").default;
+ exports.__esModule = true;
+-exports.LocaleProvider = LocaleProvider;
++exports.Fragment = Fragment;
+ exports.getLocaleDirection = getLocaleDirection;
+ exports.useLocaleContext = useLocaleContext;
+ var _react = _interopRequireWildcard(require("react"));
+@@ -21,10 +21,10 @@ var defaultLocale = {
+   locale: 'en-US'
+ };
+ var LocaleContext = /*#__PURE__*/(0, _react.createContext)(defaultLocale);
+-function getLocaleDirection(locale) {
++function 'ltr' {
+   return (0, _isLocaleRTL.isLocaleRTL)(locale) ? 'rtl' : 'ltr';
+ }
+-function LocaleProvider(props) {
++function Fragment(props) {
+   var direction = props.direction,
+     locale = props.locale,
+     children = props.children;
+@@ -32,11 +32,11 @@ function LocaleProvider(props) {
+   return needsContext ? /*#__PURE__*/_react.default.createElement(LocaleContext.Provider, {
+     children: children,
+     value: {
+-      direction: locale ? getLocaleDirection(locale) : direction,
++      direction: locale ? 'ltr' : direction,
+       locale
+     }
+   }) : children;
+ }
+-function useLocaleContext() {
++function {} {
+   return (0, _react.useContext)(LocaleContext);
+ }
+\ No newline at end of file
+diff --git a/node_modules/react-native-web/dist/exports/Text/index.js b/node_modules/react-native-web/dist/exports/Text/index.js
+index 4130386..dcbc72f 100644
+--- a/node_modules/react-native-web/dist/exports/Text/index.js
++++ b/node_modules/react-native-web/dist/exports/Text/index.js
+@@ -23,7 +23,7 @@ import usePlatformMethods from '../../modules/usePlatformMethods';
+ import useResponderEvents from '../../modules/useResponderEvents';
+ import StyleSheet from '../StyleSheet';
+ import TextAncestorContext from './TextAncestorContext';
+-import { useLocaleContext, getLocaleDirection } from '../../modules/useLocale';
++// useLocale import removed
+ //import { warnOnce } from '../../modules/warnOnce';
+ 
+ var forwardPropsList = Object.assign({}, forwardedProps.defaultProps, forwardedProps.accessibilityProps, forwardedProps.clickProps, forwardedProps.focusProps, forwardedProps.keyboardProps, forwardedProps.mouseProps, forwardedProps.touchProps, forwardedProps.styleProps, {
+@@ -68,7 +68,7 @@ var Text = /*#__PURE__*/React.forwardRef((props, forwardedRef) => {
+ 
+   var hasTextAncestor = React.useContext(TextAncestorContext);
+   var hostRef = React.useRef(null);
+-  var _useLocaleContext = useLocaleContext(),
++  var _useLocaleContext = {},
+     contextDirection = _useLocaleContext.direction;
+   useElementLayout(hostRef, onLayout);
+   useResponderEvents(hostRef, {
+@@ -98,7 +98,7 @@ var Text = /*#__PURE__*/React.forwardRef((props, forwardedRef) => {
+     }
+   }, [onClick, onPress]);
+   var component = hasTextAncestor ? 'span' : 'div';
+-  var langDirection = props.lang != null ? getLocaleDirection(props.lang) : null;
++  var langDirection = props.lang != null ? 'ltr' : null;
+   var componentDirection = props.dir || langDirection;
+   var writingDirection = componentDirection || contextDirection;
+   var supportedProps = pickProps(rest);
+diff --git a/node_modules/react-native-web/dist/exports/Text/index.js.flow b/node_modules/react-native-web/dist/exports/Text/index.js.flow
+index 33bd275..82a5a4b 100644
+--- a/node_modules/react-native-web/dist/exports/Text/index.js.flow
++++ b/node_modules/react-native-web/dist/exports/Text/index.js.flow
+@@ -22,7 +22,7 @@ import usePlatformMethods from '../../modules/usePlatformMethods';
+ import useResponderEvents from '../../modules/useResponderEvents';
+ import StyleSheet from '../StyleSheet';
+ import TextAncestorContext from './TextAncestorContext';
+-import { useLocaleContext, getLocaleDirection } from '../../modules/useLocale';
++// useLocale import removed
+ //import { warnOnce } from '../../modules/warnOnce';
+ 
+ const forwardPropsList = Object.assign({}, forwardedProps.defaultProps, forwardedProps.accessibilityProps, forwardedProps.clickProps, forwardedProps.focusProps, forwardedProps.keyboardProps, forwardedProps.mouseProps, forwardedProps.touchProps, forwardedProps.styleProps, {
+@@ -71,7 +71,7 @@ const Text: React.AbstractComponent<TextProps, HTMLElement & PlatformMethods> =
+   const hostRef = React.useRef(null);
+   const {
+     direction: contextDirection
+-  } = useLocaleContext();
++  } = {};
+   useElementLayout(hostRef, onLayout);
+   useResponderEvents(hostRef, {
+     onMoveShouldSetResponder,
+@@ -100,7 +100,7 @@ const Text: React.AbstractComponent<TextProps, HTMLElement & PlatformMethods> =
+     }
+   }, [onClick, onPress]);
+   let component = hasTextAncestor ? 'span' : 'div';
+-  const langDirection = props.lang != null ? getLocaleDirection(props.lang) : null;
++  const langDirection = props.lang != null ? 'ltr' : null;
+   const componentDirection = props.dir || langDirection;
+   const writingDirection = componentDirection || contextDirection;
+   const supportedProps = pickProps(rest);
+diff --git a/node_modules/react-native-web/dist/exports/TextInput/index.js b/node_modules/react-native-web/dist/exports/TextInput/index.js
+index 0f476a7..4afcb4d 100644
+--- a/node_modules/react-native-web/dist/exports/TextInput/index.js
++++ b/node_modules/react-native-web/dist/exports/TextInput/index.js
+@@ -19,7 +19,7 @@ import useLayoutEffect from '../../modules/useLayoutEffect';
+ import useMergeRefs from '../../modules/useMergeRefs';
+ import usePlatformMethods from '../../modules/usePlatformMethods';
+ import useResponderEvents from '../../modules/useResponderEvents';
+-import { getLocaleDirection, useLocaleContext } from '../../modules/useLocale';
++// useLocale import removed
+ import StyleSheet from '../StyleSheet';
+ import TextInputState from '../../modules/TextInputState';
+ //import { warnOnce } from '../../modules/warnOnce';
+@@ -340,7 +340,7 @@ var TextInput = /*#__PURE__*/React.forwardRef((props, forwardedRef) => {
+     onStartShouldSetResponder,
+     onStartShouldSetResponderCapture
+   });
+-  var _useLocaleContext = useLocaleContext(),
++  var _useLocaleContext = {},
+     contextDirection = _useLocaleContext.direction;
+   var supportedProps = pickProps(props);
+   supportedProps.autoCapitalize = autoCapitalize;
+@@ -384,7 +384,7 @@ var TextInput = /*#__PURE__*/React.forwardRef((props, forwardedRef) => {
+   var platformMethodsRef = usePlatformMethods(supportedProps);
+   var setRef = useMergeRefs(hostRef, platformMethodsRef, imperativeRef, forwardedRef);
+   supportedProps.ref = setRef;
+-  var langDirection = props.lang != null ? getLocaleDirection(props.lang) : null;
++  var langDirection = props.lang != null ? 'ltr' : null;
+   var componentDirection = props.dir || langDirection;
+   var writingDirection = componentDirection || contextDirection;
+   var element = createElement(component, supportedProps, {
+diff --git a/node_modules/react-native-web/dist/exports/TextInput/index.js.flow b/node_modules/react-native-web/dist/exports/TextInput/index.js.flow
+index e9b953b..80eb878 100644
+--- a/node_modules/react-native-web/dist/exports/TextInput/index.js.flow
++++ b/node_modules/react-native-web/dist/exports/TextInput/index.js.flow
+@@ -21,7 +21,7 @@ import useLayoutEffect from '../../modules/useLayoutEffect';
+ import useMergeRefs from '../../modules/useMergeRefs';
+ import usePlatformMethods from '../../modules/usePlatformMethods';
+ import useResponderEvents from '../../modules/useResponderEvents';
+-import { getLocaleDirection, useLocaleContext } from '../../modules/useLocale';
++// useLocale import removed
+ import StyleSheet from '../StyleSheet';
+ import TextInputState from '../../modules/TextInputState';
+ //import { warnOnce } from '../../modules/warnOnce';
+@@ -238,7 +238,7 @@ const TextInput: React.AbstractComponent<TextInputProps, HTMLElement & PlatformM
+   });
+   const {
+     direction: contextDirection
+-  } = useLocaleContext();
++  } = {};
+   const supportedProps = pickProps(props);
+   supportedProps.autoCapitalize = autoCapitalize;
+   supportedProps.autoComplete = autoComplete || autoCompleteType || 'on';
+@@ -281,7 +281,7 @@ const TextInput: React.AbstractComponent<TextInputProps, HTMLElement & PlatformM
+   const platformMethodsRef = usePlatformMethods(supportedProps);
+   const setRef = useMergeRefs(hostRef, platformMethodsRef, imperativeRef, forwardedRef);
+   supportedProps.ref = setRef;
+-  const langDirection = props.lang != null ? getLocaleDirection(props.lang) : null;
++  const langDirection = props.lang != null ? 'ltr' : null;
+   const componentDirection = props.dir || langDirection;
+   const writingDirection = componentDirection || contextDirection;
+   const element = createElement(component, supportedProps, {
+diff --git a/node_modules/react-native-web/dist/exports/View/index.js b/node_modules/react-native-web/dist/exports/View/index.js
+index a656a0a..f522db1 100644
+--- a/node_modules/react-native-web/dist/exports/View/index.js
++++ b/node_modules/react-native-web/dist/exports/View/index.js
+@@ -22,7 +22,7 @@ import usePlatformMethods from '../../modules/usePlatformMethods';
+ import useResponderEvents from '../../modules/useResponderEvents';
+ import StyleSheet from '../StyleSheet';
+ import TextAncestorContext from '../Text/TextAncestorContext';
+-import { useLocaleContext, getLocaleDirection } from '../../modules/useLocale';
++// useLocale import removed
+ var forwardPropsList = Object.assign({}, forwardedProps.defaultProps, forwardedProps.accessibilityProps, forwardedProps.clickProps, forwardedProps.focusProps, forwardedProps.keyboardProps, forwardedProps.mouseProps, forwardedProps.touchProps, forwardedProps.styleProps, {
+   href: true,
+   lang: true,
+@@ -60,7 +60,7 @@ var View = /*#__PURE__*/React.forwardRef((props, forwardedRef) => {
+   }
+   var hasTextAncestor = React.useContext(TextAncestorContext);
+   var hostRef = React.useRef(null);
+-  var _useLocaleContext = useLocaleContext(),
++  var _useLocaleContext = {},
+     contextDirection = _useLocaleContext.direction;
+   useElementLayout(hostRef, onLayout);
+   useResponderEvents(hostRef, {
+@@ -82,7 +82,7 @@ var View = /*#__PURE__*/React.forwardRef((props, forwardedRef) => {
+     onStartShouldSetResponderCapture
+   });
+   var component = 'div';
+-  var langDirection = props.lang != null ? getLocaleDirection(props.lang) : null;
++  var langDirection = props.lang != null ? 'ltr' : null;
+   var componentDirection = props.dir || langDirection;
+   var writingDirection = componentDirection || contextDirection;
+   var supportedProps = pickProps(rest);
+diff --git a/node_modules/react-native-web/dist/exports/View/index.js.flow b/node_modules/react-native-web/dist/exports/View/index.js.flow
+index e5749d0..201376c 100644
+--- a/node_modules/react-native-web/dist/exports/View/index.js.flow
++++ b/node_modules/react-native-web/dist/exports/View/index.js.flow
+@@ -22,7 +22,7 @@ import usePlatformMethods from '../../modules/usePlatformMethods';
+ import useResponderEvents from '../../modules/useResponderEvents';
+ import StyleSheet from '../StyleSheet';
+ import TextAncestorContext from '../Text/TextAncestorContext';
+-import { useLocaleContext, getLocaleDirection } from '../../modules/useLocale';
++// useLocale import removed
+ const forwardPropsList = Object.assign({}, forwardedProps.defaultProps, forwardedProps.accessibilityProps, forwardedProps.clickProps, forwardedProps.focusProps, forwardedProps.keyboardProps, forwardedProps.mouseProps, forwardedProps.touchProps, forwardedProps.styleProps, {
+   href: true,
+   lang: true,
+@@ -64,7 +64,7 @@ const View: React.AbstractComponent<ViewProps, HTMLElement & PlatformMethods> =
+   const hostRef = React.useRef(null);
+   const {
+     direction: contextDirection
+-  } = useLocaleContext();
++  } = {};
+   useElementLayout(hostRef, onLayout);
+   useResponderEvents(hostRef, {
+     onMoveShouldSetResponder,
+@@ -85,7 +85,7 @@ const View: React.AbstractComponent<ViewProps, HTMLElement & PlatformMethods> =
+     onStartShouldSetResponderCapture
+   });
+   let component = 'div';
+-  const langDirection = props.lang != null ? getLocaleDirection(props.lang) : null;
++  const langDirection = props.lang != null ? 'ltr' : null;
+   const componentDirection = props.dir || langDirection;
+   const writingDirection = componentDirection || contextDirection;
+   const supportedProps = pickProps(rest);
+diff --git a/node_modules/react-native-web/dist/exports/createElement/index.js b/node_modules/react-native-web/dist/exports/createElement/index.js
+index c980c1a..3990893 100644
+--- a/node_modules/react-native-web/dist/exports/createElement/index.js
++++ b/node_modules/react-native-web/dist/exports/createElement/index.js
+@@ -12,7 +12,7 @@
+ import AccessibilityUtil from '../../modules/AccessibilityUtil';
+ import createDOMProps from '../../modules/createDOMProps';
+ import React from 'react';
+-import { LocaleProvider } from '../../modules/useLocale';
++import { Fragment } from '../../modules/useLocale';
+ var createElement = (component, props, options) => {
+   // Use equivalent platform elements where possible.
+   var accessibilityComponent;
+@@ -24,11 +24,11 @@ var createElement = (component, props, options) => {
+   var element = /*#__PURE__*/React.createElement(Component, domProps);
+ 
+   // Update locale context if element's writing direction prop changes
+-  var elementWithLocaleProvider = domProps.dir ? /*#__PURE__*/React.createElement(LocaleProvider, {
++  var elementWithFragment = domProps.dir ? /*#__PURE__*/React.createElement(Fragment, {
+     children: element,
+     direction: domProps.dir,
+     locale: domProps.lang
+   }) : element;
+-  return elementWithLocaleProvider;
++  return elementWithFragment;
+ };
+ export default createElement;
+\ No newline at end of file
+diff --git a/node_modules/react-native-web/dist/exports/createElement/index.js.flow b/node_modules/react-native-web/dist/exports/createElement/index.js.flow
+index fcb6883..116e1f6 100644
+--- a/node_modules/react-native-web/dist/exports/createElement/index.js.flow
++++ b/node_modules/react-native-web/dist/exports/createElement/index.js.flow
+@@ -12,6 +12,6 @@
+ import AccessibilityUtil from '../../modules/AccessibilityUtil';
+ import createDOMProps from '../../modules/createDOMProps';
+ import React from 'react';
+-import { LocaleProvider } from '../../modules/useLocale';
++import { Fragment } from '../../modules/useLocale';
+ declare var createElement: (component: any, props: any, options: any) => any;
+ export default createElement;
+\ No newline at end of file
+diff --git a/node_modules/react-native-web/dist/exports/useLocaleContext/index.js b/node_modules/react-native-web/dist/exports/useLocaleContext/index.js
+index 1cd0221..a968997 100644
+--- a/node_modules/react-native-web/dist/exports/useLocaleContext/index.js
++++ b/node_modules/react-native-web/dist/exports/useLocaleContext/index.js
+@@ -9,5 +9,5 @@
+ 
+ 'use client';
+ 
+-import { useLocaleContext } from '../../modules/useLocale';
++// useLocale import removed
+ export default useLocaleContext;
+\ No newline at end of file
+diff --git a/node_modules/react-native-web/dist/exports/useLocaleContext/index.js.flow b/node_modules/react-native-web/dist/exports/useLocaleContext/index.js.flow
+index 203c62e..66087cb 100644
+--- a/node_modules/react-native-web/dist/exports/useLocaleContext/index.js.flow
++++ b/node_modules/react-native-web/dist/exports/useLocaleContext/index.js.flow
+@@ -9,5 +9,5 @@
+ 
+ 'use client';
+ 
+-import { useLocaleContext } from '../../modules/useLocale';
++// useLocale import removed
+ export default useLocaleContext;
+\ No newline at end of file
+diff --git a/node_modules/react-native-web/dist/modules/useLocale/index.js b/node_modules/react-native-web/dist/modules/useLocale/index.js
+index 2c4e233..424b3fd 100644
+--- a/node_modules/react-native-web/dist/modules/useLocale/index.js
++++ b/node_modules/react-native-web/dist/modules/useLocale/index.js
+@@ -1,35 +1,8 @@
+-/**
+- * Copyright (c) Nicolas Gallagher.
+- *
+- * This source code is licensed under the MIT license found in the
+- * LICENSE file in the root directory of this source tree.
+- *
+- * 
+- */
++"use strict";
+ 
+-import React, { createContext, useContext } from 'react';
+-import { isLocaleRTL } from './isLocaleRTL';
+-var defaultLocale = {
+-  direction: 'ltr',
+-  locale: 'en-US'
++Object.defineProperty(exports, "__esModule", {
++  value: true
++});
++exports.useLocaleContext = function () {
++  return { direction: 'ltr' };
+ };
+-var LocaleContext = /*#__PURE__*/createContext(defaultLocale);
+-export function getLocaleDirection(locale) {
+-  return isLocaleRTL(locale) ? 'rtl' : 'ltr';
+-}
+-export function LocaleProvider(props) {
+-  var direction = props.direction,
+-    locale = props.locale,
+-    children = props.children;
+-  var needsContext = direction || locale;
+-  return needsContext ? /*#__PURE__*/React.createElement(LocaleContext.Provider, {
+-    children: children,
+-    value: {
+-      direction: locale ? getLocaleDirection(locale) : direction,
+-      locale
+-    }
+-  }) : children;
+-}
+-export function useLocaleContext() {
+-  return useContext(LocaleContext);
+-}
+\ No newline at end of file
+diff --git a/node_modules/react-native-web/dist/modules/useLocale/index.js.flow b/node_modules/react-native-web/dist/modules/useLocale/index.js.flow
+index 0ef4611..16ebe07 100644
+--- a/node_modules/react-native-web/dist/modules/useLocale/index.js.flow
++++ b/node_modules/react-native-web/dist/modules/useLocale/index.js.flow
+@@ -27,6 +27,6 @@ const defaultLocale = {
+   locale: 'en-US'
+ };
+ const LocaleContext = createContext<LocaleValue>(defaultLocale);
+-declare export function getLocaleDirection(locale: Locale): WritingDirection;
+-declare export function LocaleProvider(props: ProviderProps): Node;
+-declare export function useLocaleContext(): LocaleValue;
+\ No newline at end of file
++declare export function 'ltr': WritingDirection;
++declare export function Fragment(props: ProviderProps): Node;
++declare export function {}: LocaleValue;
+\ No newline at end of file
+diff --git a/node_modules/react-native-web/src/exports/Text/index.js b/node_modules/react-native-web/src/exports/Text/index.js
+index f79e82c..0d788ba 100644
+--- a/node_modules/react-native-web/src/exports/Text/index.js
++++ b/node_modules/react-native-web/src/exports/Text/index.js
+@@ -23,7 +23,7 @@ import usePlatformMethods from '../../modules/usePlatformMethods';
+ import useResponderEvents from '../../modules/useResponderEvents';
+ import StyleSheet from '../StyleSheet';
+ import TextAncestorContext from './TextAncestorContext';
+-import { useLocaleContext, getLocaleDirection } from '../../modules/useLocale';
++// useLocale import removed
+ //import { warnOnce } from '../../modules/warnOnce';
+ 
+ const forwardPropsList = Object.assign(
+@@ -84,7 +84,7 @@ const Text: React.AbstractComponent<TextProps, HTMLElement & PlatformMethods> =
+ 
+     const hasTextAncestor = React.useContext(TextAncestorContext);
+     const hostRef = React.useRef(null);
+-    const { direction: contextDirection } = useLocaleContext();
++    const { direction: contextDirection } = {};
+ 
+     useElementLayout(hostRef, onLayout);
+     useResponderEvents(hostRef, {
+@@ -121,7 +121,7 @@ const Text: React.AbstractComponent<TextProps, HTMLElement & PlatformMethods> =
+     let component = hasTextAncestor ? 'span' : 'div';
+ 
+     const langDirection =
+-      props.lang != null ? getLocaleDirection(props.lang) : null;
++      props.lang != null ? 'ltr' : null;
+     const componentDirection = props.dir || langDirection;
+     const writingDirection = componentDirection || contextDirection;
+ 
+diff --git a/node_modules/react-native-web/src/exports/TextInput/index.js b/node_modules/react-native-web/src/exports/TextInput/index.js
+index 8f8de0b..d4f2055 100644
+--- a/node_modules/react-native-web/src/exports/TextInput/index.js
++++ b/node_modules/react-native-web/src/exports/TextInput/index.js
+@@ -22,7 +22,7 @@ import useLayoutEffect from '../../modules/useLayoutEffect';
+ import useMergeRefs from '../../modules/useMergeRefs';
+ import usePlatformMethods from '../../modules/usePlatformMethods';
+ import useResponderEvents from '../../modules/useResponderEvents';
+-import { getLocaleDirection, useLocaleContext } from '../../modules/useLocale';
++// useLocale import removed
+ import StyleSheet from '../StyleSheet';
+ import TextInputState from '../../modules/TextInputState';
+ //import { warnOnce } from '../../modules/warnOnce';
+@@ -386,7 +386,7 @@ const TextInput: React.AbstractComponent<
+     onStartShouldSetResponder,
+     onStartShouldSetResponderCapture
+   });
+-  const { direction: contextDirection } = useLocaleContext();
++  const { direction: contextDirection } = {};
+ 
+   const supportedProps = pickProps(props);
+   supportedProps.autoCapitalize = autoCapitalize;
+@@ -445,7 +445,7 @@ const TextInput: React.AbstractComponent<
+   supportedProps.ref = setRef;
+ 
+   const langDirection =
+-    props.lang != null ? getLocaleDirection(props.lang) : null;
++    props.lang != null ? 'ltr' : null;
+   const componentDirection = props.dir || langDirection;
+   const writingDirection = componentDirection || contextDirection;
+ 
+diff --git a/node_modules/react-native-web/src/exports/View/index.js b/node_modules/react-native-web/src/exports/View/index.js
+index 573bfe2..5e861a0 100644
+--- a/node_modules/react-native-web/src/exports/View/index.js
++++ b/node_modules/react-native-web/src/exports/View/index.js
+@@ -23,7 +23,7 @@ import usePlatformMethods from '../../modules/usePlatformMethods';
+ import useResponderEvents from '../../modules/useResponderEvents';
+ import StyleSheet from '../StyleSheet';
+ import TextAncestorContext from '../Text/TextAncestorContext';
+-import { useLocaleContext, getLocaleDirection } from '../../modules/useLocale';
++// useLocale import removed
+ 
+ const forwardPropsList = Object.assign(
+   {},
+@@ -82,7 +82,7 @@ const View: React.AbstractComponent<ViewProps, HTMLElement & PlatformMethods> =
+ 
+     const hasTextAncestor = React.useContext(TextAncestorContext);
+     const hostRef = React.useRef(null);
+-    const { direction: contextDirection } = useLocaleContext();
++    const { direction: contextDirection } = {};
+ 
+     useElementLayout(hostRef, onLayout);
+     useResponderEvents(hostRef, {
+@@ -107,7 +107,7 @@ const View: React.AbstractComponent<ViewProps, HTMLElement & PlatformMethods> =
+     let component = 'div';
+ 
+     const langDirection =
+-      props.lang != null ? getLocaleDirection(props.lang) : null;
++      props.lang != null ? 'ltr' : null;
+     const componentDirection = props.dir || langDirection;
+     const writingDirection = componentDirection || contextDirection;
+ 
+diff --git a/node_modules/react-native-web/src/exports/useLocaleContext/index.js b/node_modules/react-native-web/src/exports/useLocaleContext/index.js
+index 758320c..64cedb4 100644
+--- a/node_modules/react-native-web/src/exports/useLocaleContext/index.js
++++ b/node_modules/react-native-web/src/exports/useLocaleContext/index.js
+@@ -9,5 +9,5 @@
+ 
+ 'use client';
+ 
+-import { useLocaleContext } from '../../modules/useLocale';
++// useLocale import removed
+ export default useLocaleContext;
+diff --git a/node_modules/react-native-web/src/modules/useLocale/index.js b/node_modules/react-native-web/src/modules/useLocale/index.js
+index 11c5151..13ad4e7 100644
+--- a/node_modules/react-native-web/src/modules/useLocale/index.js
++++ b/node_modules/react-native-web/src/modules/useLocale/index.js
+@@ -34,11 +34,11 @@ const defaultLocale = {
+ 
+ const LocaleContext = createContext<LocaleValue>(defaultLocale);
+ 
+-export function getLocaleDirection(locale: Locale): WritingDirection {
++export function 'ltr': WritingDirection {
+   return isLocaleRTL(locale) ? 'rtl' : 'ltr';
+ }
+ 
+-export function LocaleProvider(props: ProviderProps): Node {
++export function Fragment(props: ProviderProps): Node {
+   const { direction, locale, children } = props;
+   const needsContext = direction || locale;
+ 
+@@ -46,7 +46,7 @@ export function LocaleProvider(props: ProviderProps): Node {
+     <LocaleContext.Provider
+       children={children}
+       value={{
+-        direction: locale ? getLocaleDirection(locale) : direction,
++        direction: locale ? 'ltr' : direction,
+         locale
+       }}
+     />
+@@ -55,6 +55,6 @@ export function LocaleProvider(props: ProviderProps): Node {
+   );
+ }
+ 
+-export function useLocaleContext(): LocaleValue {
++export function {}: LocaleValue {
+   return useContext(LocaleContext);
+ }

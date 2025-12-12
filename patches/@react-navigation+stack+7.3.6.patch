@@ -1,0 +1,76 @@
+diff --git a/node_modules/@react-navigation/stack/.DS_Store b/node_modules/@react-navigation/stack/.DS_Store
+new file mode 100644
+index 0000000..7adfe07
+Binary files /dev/null and b/node_modules/@react-navigation/stack/.DS_Store differ
+diff --git a/node_modules/@react-navigation/stack/src/.DS_Store b/node_modules/@react-navigation/stack/src/.DS_Store
+new file mode 100644
+index 0000000..07b4026
+Binary files /dev/null and b/node_modules/@react-navigation/stack/src/.DS_Store differ
+diff --git a/node_modules/@react-navigation/stack/src/navigators/createStackNavigator.tsx b/node_modules/@react-navigation/stack/src/navigators/createStackNavigator.tsx
+index a7e459c..99a3bcb 100644
+--- a/node_modules/@react-navigation/stack/src/navigators/createStackNavigator.tsx
++++ b/node_modules/@react-navigation/stack/src/navigators/createStackNavigator.tsx
+@@ -10,7 +10,6 @@ import {
+   type StackRouterOptions,
+   type StaticConfig,
+   type TypedNavigator,
+-  useLocale,
+   useNavigationBuilder,
+ } from '@react-navigation/native';
+ import * as React from 'react';
+@@ -34,7 +33,7 @@ function StackNavigator({
+   UNSTABLE_router,
+   ...rest
+ }: StackNavigatorProps) {
+-  const { direction } = useLocale();
++  const direction = 'ltr'; // or 'rtl' if your app is in right-to-left languages
+ 
+   const { state, describe, descriptors, navigation, NavigationContent } =
+     useNavigationBuilder<
+diff --git a/node_modules/@react-navigation/stack/src/views/.DS_Store b/node_modules/@react-navigation/stack/src/views/.DS_Store
+new file mode 100644
+index 0000000..2c3b53f
+Binary files /dev/null and b/node_modules/@react-navigation/stack/src/views/.DS_Store differ
+diff --git a/node_modules/@react-navigation/stack/src/views/Header/HeaderSegment.tsx b/node_modules/@react-navigation/stack/src/views/Header/HeaderSegment.tsx
+index 59a5c5d..136631f 100644
+--- a/node_modules/@react-navigation/stack/src/views/Header/HeaderSegment.tsx
++++ b/node_modules/@react-navigation/stack/src/views/Header/HeaderSegment.tsx
+@@ -5,7 +5,7 @@ import {
+   type HeaderBackButtonProps,
+   HeaderTitle,
+ } from '@react-navigation/elements';
+-import { useLocale } from '@react-navigation/native';
++//import { useLocale } from '@react-navigation/native';
+ import * as React from 'react';
+ import {
+   Animated,
+@@ -35,7 +35,7 @@ type Props = Omit<StackHeaderOptions, 'headerStatusBarHeight'> & {
+ };
+ 
+ export function HeaderSegment(props: Props) {
+-  const { direction } = useLocale();
++// const { direction } = useLocale();
+ 
+   const [leftLabelLayout, setLeftLabelLayout] = React.useState<
+     Layout | undefined
+diff --git a/node_modules/@react-navigation/stack/src/views/Stack/CardContainer.tsx b/node_modules/@react-navigation/stack/src/views/Stack/CardContainer.tsx
+index 6ac5ca8..aa7ab91 100644
+--- a/node_modules/@react-navigation/stack/src/views/Stack/CardContainer.tsx
++++ b/node_modules/@react-navigation/stack/src/views/Stack/CardContainer.tsx
+@@ -7,7 +7,6 @@ import {
+ import {
+   type Route,
+   useLinkBuilder,
+-  useLocale,
+   useTheme,
+ } from '@react-navigation/native';
+ import * as React from 'react';
+@@ -94,7 +93,7 @@ function CardContainerInner({
+   safeAreaInsetTop,
+   scene,
+ }: Props) {
+-  const { direction } = useLocale();
++  const direction = 'ltr'; // or 'rtl' if your layout depends on it
+ 
+   const parentHeaderHeight = React.useContext(HeaderHeightContext);
+ 
