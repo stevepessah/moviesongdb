@@ -404,11 +404,88 @@
     ]
   },
   {
+    "title": "Burning Down The House",
+    "artist": "The Talking Heads",
+    "movies": [
+      {
+        "name": "13 Going On 30",
+        "scene": "Chris Grandy gets out of his car. Matt dances alone to this song.",
+        "timestamp": "~00:00:09"
+      }
+    ]
+  },
+  {
+    "title": "Canon in D major",
+    "artist": "Johann Pachelbel",
+    "movies": [
+      {
+        "name": "13 Going On 30",
+        "scene": "Jenna looks at Matt's dollhouse.",
+        "timestamp": "~00:01:30"
+      }
+    ]
+  },
+  {
+    "title": "Chick A Boom Boom Boom",
+    "artist": "Mowo!",
+    "movies": [
+      {
+        "name": "13 Going On 30",
+        "scene": "Jenna and Lucy drinking cocktails in the bar. Jenna speaks to a child in the bar.",
+        "timestamp": "~00:00:42"
+      }
+    ]
+  },
+  {
+    "title": "Crazy for You",
+    "artist": "Madonna",
+    "movies": [
+      {
+        "name": "13 Going On 30",
+        "scene": "Jenna's waiting for Matt in the closet.",
+        "timestamp": "~00:00:11"
+      }
+    ]
+  },
+  {
+    "title": "Everybody Have Fun Tonight",
+    "artist": "Wang Chung",
+    "movies": [
+      {
+        "name": "13 Going On 30",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Good Day",
+    "artist": "Tom Luce",
+    "movies": [
+      {
+        "name": "13 Going On 30",
+        "scene": "Montage: Jenna buys clothes, eats ice cream and watches TV in bed.",
+        "timestamp": "~00:00:41"
+      }
+    ]
+  },
+  {
+    "title": "Head over Heels",
+    "artist": "The Go-Go's",
+    "movies": [
+      {
+        "name": "13 Going On 30",
+        "scene": "Song can be heard during the opening credits.",
+        "timestamp": "~00:00:01"
+      }
+    ]
+  },
+  {
     "title": "How Will I Know",
     "artist": "Whitney Houston",
     "movies": [
       {
-        "name": "13 Going on 30",
+        "name": "13 Going On 30",
         "scene": "Jenna dances around her apartment.",
         "timestamp": "~00:25:00"
       },
@@ -420,13 +497,138 @@
     ]
   },
   {
+    "title": "I Wanna Dance with Somebody (Who Loves Me)",
+    "artist": "Whitney Houston",
+    "movies": [
+      {
+        "name": "13 Going On 30",
+        "scene": "Jenna puts on her makeup and gets ready for work. She takes the elevator where she meets Becky.",
+        "timestamp": "~00:00:31"
+      }
+    ]
+  },
+  {
+    "title": "Ice Ice Baby",
+    "artist": "Vanilla Ice",
+    "movies": [
+      {
+        "name": "13 Going On 30",
+        "scene": "Alex Carlson slowly undresses for his girlfriend Jenna.",
+        "timestamp": "~00:00:47"
+      },
+      {
+        "name": "Step Brothers",
+        "scene": "Randy boasts about his music taste",
+        "timestamp": "~00:18:00"
+      }
+    ]
+  },
+  {
+    "title": "Keep It Simple (Stupid)",
+    "artist": "Daniel Lenz",
+    "movies": [
+      {
+        "name": "13 Going On 30",
+        "scene": "Song can be heard at the Poise magazine party.",
+        "timestamp": "~00:00:35"
+      }
+    ]
+  },
+  {
+    "title": "Love Is A Battlefield",
+    "artist": "Pat Benatar",
+    "movies": [
+      {
+        "name": "13 Going On 30",
+        "scene": "At the pyjama party. Jenna dances and sings to this song.",
+        "timestamp": "~00:01:09"
+      }
+    ]
+  },
+  {
+    "title": "Mad About You",
+    "artist": "Belinda Carlisle",
+    "movies": [
+      {
+        "name": "13 Going On 30",
+        "scene": "Lucy plays this song at Jenna's party.",
+        "timestamp": "~00:00:10"
+      }
+    ]
+  },
+  {
+    "title": "Tainted Love",
+    "artist": "Soft Cell",
+    "movies": [
+      {
+        "name": "13 Going On 30",
+        "scene": "",
+        "timestamp": ""
+      },
+      {
+        "name": "Office Space",
+        "scene": "Peter’s interaction with his boss, Lumbergh",
+        "timestamp": "~00:27:00"
+      },
+      {
+        "name": "Wild Things",
+        "scene": "Opening pool party scene.",
+        "timestamp": "~00:10:00"
+      }
+    ]
+  },
+  {
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "movies": [
+      {
+        "name": "13 Going On 30",
+        "scene": "Jenna is practicing for this song. Matt brings his present to the basement.",
+        "timestamp": "~00:00:06"
+      }
+    ]
+  },
+  {
     "title": "Vienna",
     "artist": "Billy Joel",
     "movies": [
       {
-        "name": "13 Going on 30",
+        "name": "13 Going On 30",
         "scene": "Jenna walks through her childhood neighborhood.",
         "timestamp": "~01:10:00"
+      }
+    ]
+  },
+  {
+    "title": "What I Like About You",
+    "artist": "Lillix",
+    "movies": [
+      {
+        "name": "13 Going On 30",
+        "scene": "Jenna's taking the limo to the party. The first song which can be heard at the Poise Magazine Party.",
+        "timestamp": "~00:00:34"
+      }
+    ]
+  },
+  {
+    "title": "Why Can't I",
+    "artist": "Liz Phair",
+    "movies": [
+      {
+        "name": "13 Going On 30",
+        "scene": "Matt photographs Jenna for the school yearbook 2004.",
+        "timestamp": "~00:01:03"
+      }
+    ]
+  },
+  {
+    "title": "Will I Ever Make It Home",
+    "artist": "Ingram Hill",
+    "movies": [
+      {
+        "name": "13 Going On 30",
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -449,6 +651,110 @@
         "name": "13 Reasons Why (TV)",
         "scene": "Climactic montage of consequences.",
         "timestamp": "~01:10:00"
+      }
+    ]
+  },
+  {
+    "title": "Watching the River Flow",
+    "artist": "Bob Dylan",
+    "movies": [
+      {
+        "name": "1408",
+        "scene": "Plays in Mike's truck as he talks into his voice recorder and drives.",
+        "timestamp": "~00:00:04"
+      }
+    ]
+  },
+  {
+    "title": "The Weight",
+    "artist": "The Band",
+    "movies": [
+      {
+        "name": "1408",
+        "scene": "Mike drinks coffee in a cafe and looks through his mail. He gets a postcard from the Dolphin Hotel telling him not to go in Room 1408. Plays again later in the movie in a similar scene.",
+        "timestamp": "~00:00:10"
+      },
+      {
+        "name": "Con Air",
+        "scene": "Cameron carries wounded guard",
+        "timestamp": "~01:13:00"
+      },
+      {
+        "name": "Funny People",
+        "scene": "George reflects after his diagnosis.",
+        "timestamp": "~00:50:00"
+      },
+      {
+        "name": "Hollow Man",
+        "scene": "Sebastian reflects before taking serum.",
+        "timestamp": "~00:20:00"
+      },
+      {
+        "name": "Jerry Maguire",
+        "scene": "Jerry and Dorothy drive with Ray.",
+        "timestamp": "~01:30:00"
+      },
+      {
+        "name": "Love and Other Drugs",
+        "scene": "Jamie and Maggie talking in the countryside",
+        "timestamp": "~01:10:45"
+      },
+      {
+        "name": "My Cousin Vinny",
+        "scene": "Closing credits",
+        "timestamp": "~01:57:00"
+      },
+      {
+        "name": "Pirate Radio",
+        "scene": "The crew comes to terms with the government’s crackdown on their operations",
+        "timestamp": "~01:20:00"
+      },
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "The characters reflect on their relationships and lives",
+        "timestamp": "~00:58:40"
+      },
+      {
+        "name": "The Irishman",
+        "scene": "Frank visits Jimmy’s family.",
+        "timestamp": "~02:50:00"
+      },
+      {
+        "name": "The Verdict",
+        "scene": "Post-verdict introspection.",
+        "timestamp": "~01:45:00"
+      },
+      {
+        "name": "Three Billboards Outside Ebbing, Missouri",
+        "scene": "Willoughby and his wife enjoy their final picnic.",
+        "timestamp": "~00:50:00"
+      },
+      {
+        "name": "Wag the Dog",
+        "scene": "Winifred and Conrad reflect on the outcome.",
+        "timestamp": "~01:30:00"
+      }
+    ]
+  },
+  {
+    "title": "Eine Kleine Nachtmusik",
+    "artist": "Wolfgang Amadeus Mozart (The Swedish Concert Orchestra)",
+    "movies": [
+      {
+        "name": "1408",
+        "scene": "Plays in the lift as Mike and Olin travel upstairs in the hotel.",
+        "timestamp": "~00:00:23"
+      }
+    ]
+  },
+  {
+    "title": "We've Only Just Begun",
+    "artist": "The Carpenters",
+    "movies": [
+      {
+        "name": "1408",
+        "scene": "Plays on the radio in Room 1408 at various points in the movie.",
+        "timestamp": "~00:00:30"
       }
     ]
   },
@@ -495,6 +801,225 @@
         "name": "The Walker",
         "scene": "Opening credits in vintage-styled luxury.",
         "timestamp": "~00:02:00"
+      }
+    ]
+  },
+  {
+    "title": "I Got A Line On You",
+    "artist": "Spirit",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "Ben and his mom and friends in the bar celebrating his birthday.",
+        "timestamp": "~00:00:10"
+      }
+    ]
+  },
+  {
+    "title": "Big Ideas",
+    "artist": "LCD Soundsystem",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "Ben practices the count with Fisher and Choi. He also practices the code words.",
+        "timestamp": "~00:00:26"
+      }
+    ]
+  },
+  {
+    "title": "Home",
+    "artist": "Great Northern",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "The team talk in a bar and explain to Ben how it works on the casino floor. They go through the signals.",
+        "timestamp": "~00:00:28"
+      }
+    ]
+  },
+  {
+    "title": "Mad Pursuit",
+    "artist": "Junkie XL (Feat. Electrocute)",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "Ben enters the underground gambling den and sits at a table with Choi.",
+        "timestamp": "~00:00:31"
+      }
+    ]
+  },
+  {
+    "title": "Sister Self Doubt",
+    "artist": "Get Shakes",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "2nd song at the underground gambling den. A hood is thrown over Ben's head.",
+        "timestamp": "~00:00:33"
+      },
+      {
+        "name": "21",
+        "scene": "Ben enters the casino floor from an escalator and sits at a table. Fisher doesn't like his cockiness.",
+        "timestamp": "~00:01:07"
+      }
+    ]
+  },
+  {
+    "title": "Slipping Away",
+    "artist": "Moby",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "Going through the metal detectors at the airport. (Instrumental)",
+        "timestamp": "~00:00:37"
+      }
+    ]
+  },
+  {
+    "title": "I Am The Unknown",
+    "artist": "The Aliens",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "Arriving in Las Vegas for the first time. Arriving at the hotel.",
+        "timestamp": "~00:00:39"
+      }
+    ]
+  },
+  {
+    "title": "Tender Buttons",
+    "artist": "Broadcast",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "Ben sits down at a table with Jill for his first game in Vegas.",
+        "timestamp": "~00:00:49"
+      }
+    ]
+  },
+  {
+    "title": "Does Anybody Know",
+    "artist": "Ken Andrews",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "Ben puts his first bundle of notes into the ceiling.",
+        "timestamp": "~00:00:53"
+      }
+    ]
+  },
+  {
+    "title": "Everybody Get Dangerous",
+    "artist": "Weezer",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "Plays in the bar as Ben's friends rate women. Ben spots Jill across the bar.",
+        "timestamp": "~00:00:54"
+      }
+    ]
+  },
+  {
+    "title": "Tropical Moonlight",
+    "artist": "Domino",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "2nd song in the bar as Ben tells his friends to stop staring.",
+        "timestamp": "~00:00:55"
+      }
+    ]
+  },
+  {
+    "title": "Young Folks",
+    "artist": "Peter Bjorn And John",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "Ben narrates. He talks to the mirror in Vegas. He talks about the differences between Boston and Vegas.",
+        "timestamp": "~00:00:59"
+      }
+    ]
+  },
+  {
+    "title": "Shut Up And Drive",
+    "artist": "Rihanna",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "The team goes shopping in Vegas. Limo riding.",
+        "timestamp": "~00:01:04"
+      }
+    ]
+  },
+  {
+    "title": "Alright",
+    "artist": "Knivez Out",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "Strip club in Vegas. Jill flirts with Ben and offers him a private dance.",
+        "timestamp": "~00:01:05"
+      }
+    ]
+  },
+  {
+    "title": "Hold My Hand",
+    "artist": "UNKLE",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "Back in the strip club Ben goes mental at Fisher. Micky tells Fisher that he's off the team and tells him to go home.",
+        "timestamp": "~00:01:11"
+      }
+    ]
+  },
+  {
+    "title": "L.S.F (Lost Souls Forever)",
+    "artist": "Mark Ronson (Feat. Kasabian)",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "Strippers cash out the teams chips for them. Red tunnel into a club.",
+        "timestamp": "~00:01:13"
+      }
+    ]
+  },
+  {
+    "title": "You Can't Always Get What You Want\" (Soulwax remix)",
+    "artist": "The Rolling Stones",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "Closing scenes. Continues into end credits.",
+        "timestamp": "~00:01:53"
+      }
+    ]
+  },
+  {
+    "title": "Giant",
+    "artist": "David Sardy (Feat. Liela Moss)",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "2nd song in end credits.",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Time to Pretend",
+    "artist": "MGMT",
+    "movies": [
+      {
+        "name": "21",
+        "scene": "Title screen. Opening credits. Ben (Jim Sturgess) rides his bike in Boston to MIT.",
+        "timestamp": "~00:00:02"
+      },
+      {
+        "name": "50/50",
+        "scene": "Adam parties after diagnosis.",
+        "timestamp": "~00:50:00"
       }
     ]
   },
@@ -914,17 +1439,6 @@
         "name": "Shampoo",
         "scene": "Montage set in luxury homes",
         "timestamp": "~00:20:00"
-      }
-    ]
-  },
-  {
-    "title": "Time to Pretend",
-    "artist": "MGMT",
-    "movies": [
-      {
-        "name": "50/50",
-        "scene": "Adam parties after diagnosis.",
-        "timestamp": "~00:50:00"
       }
     ]
   },
@@ -15477,72 +15991,6 @@
         "name": "The Secret Life of Walter Mitty",
         "scene": "Walter rides through Afghan mountains.",
         "timestamp": "~01:15:00"
-      }
-    ]
-  },
-  {
-    "title": "The Weight",
-    "artist": "The Band",
-    "movies": [
-      {
-        "name": "Con Air",
-        "scene": "Cameron carries wounded guard",
-        "timestamp": "~01:13:00"
-      },
-      {
-        "name": "Funny People",
-        "scene": "George reflects after his diagnosis.",
-        "timestamp": "~00:50:00"
-      },
-      {
-        "name": "Hollow Man",
-        "scene": "Sebastian reflects before taking serum.",
-        "timestamp": "~00:20:00"
-      },
-      {
-        "name": "Jerry Maguire",
-        "scene": "Jerry and Dorothy drive with Ray.",
-        "timestamp": "~01:30:00"
-      },
-      {
-        "name": "Love and Other Drugs",
-        "scene": "Jamie and Maggie talking in the countryside",
-        "timestamp": "~01:10:45"
-      },
-      {
-        "name": "My Cousin Vinny",
-        "scene": "Closing credits",
-        "timestamp": "~01:57:00"
-      },
-      {
-        "name": "Pirate Radio",
-        "scene": "The crew comes to terms with the government’s crackdown on their operations",
-        "timestamp": "~01:20:00"
-      },
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "The characters reflect on their relationships and lives",
-        "timestamp": "~00:58:40"
-      },
-      {
-        "name": "The Irishman",
-        "scene": "Frank visits Jimmy’s family.",
-        "timestamp": "~02:50:00"
-      },
-      {
-        "name": "The Verdict",
-        "scene": "Post-verdict introspection.",
-        "timestamp": "~01:45:00"
-      },
-      {
-        "name": "Three Billboards Outside Ebbing, Missouri",
-        "scene": "Willoughby and his wife enjoy their final picnic.",
-        "timestamp": "~00:50:00"
-      },
-      {
-        "name": "Wag the Dog",
-        "scene": "Winifred and Conrad reflect on the outcome.",
-        "timestamp": "~01:30:00"
       }
     ]
   },
@@ -32226,22 +32674,6 @@
     ]
   },
   {
-    "title": "Tainted Love",
-    "artist": "Soft Cell",
-    "movies": [
-      {
-        "name": "Office Space",
-        "scene": "Peter’s interaction with his boss, Lumbergh",
-        "timestamp": "~00:27:00"
-      },
-      {
-        "name": "Wild Things",
-        "scene": "Opening pool party scene.",
-        "timestamp": "~00:10:00"
-      }
-    ]
-  },
-  {
     "title": "Mambo No. 5 (A Little Bit of... )",
     "artist": "Lou Bega",
     "movies": [
@@ -39190,17 +39622,6 @@
         "name": "Step Brothers",
         "scene": "Transition montage",
         "timestamp": "~00:44:00"
-      }
-    ]
-  },
-  {
-    "title": "Ice Ice Baby",
-    "artist": "Vanilla Ice",
-    "movies": [
-      {
-        "name": "Step Brothers",
-        "scene": "Randy boasts about his music taste",
-        "timestamp": "~00:18:00"
       }
     ]
   },
