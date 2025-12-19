@@ -9,19 +9,22 @@ export default function App() {
       document.title = 'Movie Song Database 🎬🎵';
       
       // Google Analytics 4
-      const script1 = document.createElement('script');
-      script1.async = true;
-      script1.src = 'https://www.googletagmanager.com/gtag/js?id=G-F7JS0V9TF6';
-      document.head.appendChild(script1);
-
-      const script2 = document.createElement('script');
-      script2.innerHTML = `
+      // Initialize dataLayer and gtag function BEFORE loading external script
+      // to prevent race conditions
+      const initScript = document.createElement('script');
+      initScript.innerHTML = `
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', 'G-F7JS0V9TF6');
       `;
-      document.head.appendChild(script2);
+      document.head.appendChild(initScript);
+
+      // Load external gtag.js library after initialization is complete
+      const gtagScript = document.createElement('script');
+      gtagScript.async = true;
+      gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-F7JS0V9TF6';
+      document.head.appendChild(gtagScript);
     }
   }, []);
 
