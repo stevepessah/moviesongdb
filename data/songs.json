@@ -1295,11 +1295,6 @@
         "name": "21 Jump Street",
         "scene": "Montage: Jenko makes friends with the science nerds. Schmidt makes friends with the \"cool teenagers\".",
         "timestamp": "~00:54:00"
-      },
-      {
-        "name": "Straight Outta Compton",
-        "scene": "Title track intro montage.",
-        "timestamp": "~00:05:00"
       }
     ]
   },
@@ -41522,17 +41517,6 @@
         "name": "Training Day",
         "scene": "Alonzo explains his twisted ethics.",
         "timestamp": "~01:00:00"
-      }
-    ]
-  },
-  {
-    "title": "Express Yourself",
-    "artist": "N.W.A.",
-    "movies": [
-      {
-        "name": "Straight Outta Compton",
-        "scene": "N.W.A. performs at the height of fame.",
-        "timestamp": "~00:55:00"
       }
     ]
   },
