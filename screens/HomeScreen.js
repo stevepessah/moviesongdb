@@ -44,6 +44,13 @@ export default function HomeScreen() {
       <Text style={styles.header}>🎬 Movie Song Database</Text>
       <Text style={styles.subheader}>Search every movie song. Ever.</Text>
 
+      <TouchableOpacity
+        style={styles.quizButton}
+        onPress={() => navigation.navigate('Quiz')}
+      >
+        <Text style={styles.quizButtonText}>🎮 Play Quiz</Text>
+      </TouchableOpacity>
+
       <TextInput
         style={styles.searchInput}
         placeholder="Search by song or artist..."
@@ -100,7 +107,19 @@ const styles = StyleSheet.create({
     fontSize: 16,
     color: '#aaa',
     textAlign: 'center',
-    marginBottom: 30,
+    marginBottom: 20,
+  },
+  quizButton: {
+    backgroundColor: '#007AFF',
+    padding: 16,
+    borderRadius: 10,
+    marginBottom: 20,
+    alignItems: 'center',
+  },
+  quizButtonText: {
+    color: '#fff',
+    fontSize: 18,
+    fontWeight: 'bold',
   },
   searchInput: {
     backgroundColor: '#1f1f1f',
