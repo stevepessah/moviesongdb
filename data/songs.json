@@ -4963,6 +4963,11 @@
         "timestamp": "~01:10:00"
       },
       {
+        "name": "Boogie Nights",
+        "scene": "Scotty J arrives at the pool party and spots Eddie across the pool.",
+        "timestamp": "~00:37:00"
+      },
+      {
         "name": "Carpool",
         "scene": "Tom awkwardly flirts with store employee",
         "timestamp": "~00:41:00"
@@ -7364,11 +7369,6 @@
     "movies": [
       {
         "name": "American Beauty",
-        "scene": "Reflective inner monologue scenes.",
-        "timestamp": "~01:45:00"
-      },
-      {
-        "name": "American Beauty",
         "scene": "Lester reflects on his life before dying",
         "timestamp": "~01:50:00"
       }
@@ -8178,6 +8178,11 @@
         "name": "Anchorman",
         "scene": "Ron and team harmonize in the newsroom.",
         "timestamp": "~00:42:00"
+      },
+      {
+        "name": "Boogie Nights",
+        "scene": "Dirk in bed with Sheryl",
+        "timestamp": "~00:17:00"
       }
     ]
   },
@@ -14225,6 +14230,215 @@
     ]
   },
   {
+    "title": "Lonely Boy",
+    "artist": "Andrew Gold",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Maurice talks to Buck in the kitchen and answers the phone.",
+        "timestamp": "~00:32:00"
+      }
+    ]
+  },
+  {
+    "title": "Joy",
+    "artist": "Apollo 100",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Eddie looks at himself half naked in the mirror.",
+        "timestamp": "~00:11:00"
+      }
+    ]
+  },
+  {
+    "title": "Sunny",
+    "artist": "Boney M.",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Little Bill talks to Jack about the film",
+        "timestamp": "~00:03:00"
+      }
+    ]
+  },
+  {
+    "title": "It's Just a Matter of Time",
+    "artist": "Brook Benton",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "The reception after Becky and Jerome are married",
+        "timestamp": "~01:28:00"
+      }
+    ]
+  },
+  {
+    "title": "Do Your Thing",
+    "artist": "Charles Wright & The Watts 183rd St. Rhythm Band",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Scotty J cries in his car.",
+        "timestamp": "~01:16:00"
+      }
+    ]
+  },
+  {
+    "title": "Livin' Thing",
+    "artist": "Electric Light Orchestra",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "End credits",
+        "timestamp": "~02:20:00"
+      }
+    ]
+  },
+  {
+    "title": "Fooled Around and Fell In Love",
+    "artist": "Elvin Bishop",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Little Bill spots his wife having sex on the floor with loads of poeple watching.",
+        "timestamp": "~00:34:00"
+      }
+    ]
+  },
+  {
+    "title": "Queen of Hearts",
+    "artist": "Juice Newton",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Dirk congratulates Amber on her directing.",
+        "timestamp": "~01:24:00"
+      }
+    ]
+  },
+  {
+    "title": "Boogie Shoes",
+    "artist": "KC & the Sunshine Band",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Rollergirl takes a photo of the gang.",
+        "timestamp": "~00:52:00"
+      }
+    ]
+  },
+  {
+    "title": "Got to Give it Up",
+    "artist": "Marvin Gaye",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Reed does a magic trick for Scotty J and Dirk shows off his new home purchases.",
+        "timestamp": "~01:02:00"
+      }
+    ]
+  },
+  {
+    "title": "Ain't No Stopping Us Now",
+    "artist": "McFadden & Whitehead",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Jerome chats to Becky at the party.",
+        "timestamp": "~01:07:00"
+      }
+    ]
+  },
+  {
+    "title": "Brand New Key",
+    "artist": "Melanie",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Rollergirl puts the song on at Jack's apartment",
+        "timestamp": "~00:23:00"
+      }
+    ]
+  },
+  {
+    "title": "99 Luftballoons",
+    "artist": "Nena",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "3rd song at Rahad's house.",
+        "timestamp": "~02:09:00"
+      }
+    ]
+  },
+  {
+    "title": "Sister Christian",
+    "artist": "Night Ranger",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Dirk, Reed and Todd meet Rahad at his house.",
+        "timestamp": "~02:02:00"
+      }
+    ]
+  },
+  {
+    "title": "I Want to be Free",
+    "artist": "Ohio Players",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Reed tells Eddie a poem in the hot tub.",
+        "timestamp": "~00:39:00"
+      }
+    ]
+  },
+  {
+    "title": "Jessie's Girl",
+    "artist": "Rick Springfield",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "2nd song at Rahad's house.",
+        "timestamp": "~02:06:00"
+      }
+    ]
+  },
+  {
+    "title": "Compared to What",
+    "artist": "Roberta Flack",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Jack starts a new film with the new guy.",
+        "timestamp": "~01:37:00"
+      }
+    ]
+  },
+  {
+    "title": "Fly, Robin, Fly",
+    "artist": "Silver Convention",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Eddie watches Jack leave the kitchen",
+        "timestamp": "~00:06:00"
+      }
+    ]
+  },
+  {
+    "title": "Driver's Seat",
+    "artist": "Sniff 'N The Tears",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Floyd Gondolli introduces some upcoming actors to the Colonel.",
+        "timestamp": "~01:07:00"
+      }
+    ]
+  },
+  {
     "title": "You've Got the Touch",
     "artist": "Stan Bush",
     "movies": [
@@ -14232,6 +14446,116 @@
         "name": "Boogie Nights",
         "scene": "Dirk Diggler’s recording studio scene.",
         "timestamp": "~01:20:00"
+      }
+    ]
+  },
+  {
+    "title": "Jungle Fever",
+    "artist": "The Chakachas",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Jack whispers to Rollergirl in the club and she rolls off to the kitchen.",
+        "timestamp": "~00:18:00"
+      }
+    ]
+  },
+  {
+    "title": "Jazz Theme From Sweet (The Sage)",
+    "artist": "The Chico Hamilton Quintet",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Jack puts some music on at his apartment after saying goodnight to Amber.",
+        "timestamp": "~00:07:00"
+      }
+    ]
+  },
+  {
+    "title": "Machine Gun",
+    "artist": "The Commodores",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Reviews of the new films are read out with big compliments for Dirk.",
+        "timestamp": "~00:55:00"
+      }
+    ]
+  },
+  {
+    "title": "Best of My Love",
+    "artist": "The Emotions",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Opening scenes. Maurice greets Jack and Amber",
+        "timestamp": "~00:01:00"
+      }
+    ]
+  },
+  {
+    "title": "Feel too Good",
+    "artist": "The Move",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Floyd meets with Jack to talk about the future",
+        "timestamp": "~01:12:00"
+      }
+    ]
+  },
+  {
+    "title": "Mama Told Me Not To Come",
+    "artist": "Three Dog Night",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Jack introduces Eddie to everyone around the pool.",
+        "timestamp": "~00:26:00"
+      }
+    ]
+  },
+  {
+    "title": "Feel the Heat",
+    "artist": "Unknown",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Dirk records the song in the recording studio with Reed playing guitar.",
+        "timestamp": "~01:35:00"
+      }
+    ]
+  },
+  {
+    "title": "O Little Town of Bethlehem",
+    "artist": "Unknown",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Plays in the diner as Buck picks out doughnuts and avoids being shot.",
+        "timestamp": "~01:57:00"
+      }
+    ]
+  },
+  {
+    "title": "Magnet & Steel",
+    "artist": "Walter Egan",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Jack, Dirk and Reed discuss some new ideas on the minibus.",
+        "timestamp": "~00:57:00"
+      }
+    ]
+  },
+  {
+    "title": "Spill the Wine",
+    "artist": "War with Eric Burdon",
+    "movies": [
+      {
+        "name": "Boogie Nights",
+        "scene": "Jack meets The Colonel out front with his girl.",
+        "timestamp": "~00:29:00"
       }
     ]
   },
@@ -17525,13 +17849,8 @@
     "movies": [
       {
         "name": "Con Air",
-        "scene": "Cameron reads the letter from his daughter",
-        "timestamp": "~00:27:00"
-      },
-      {
-        "name": "Con Air",
-        "scene": "Cameron sees his daughter for the first time.",
-        "timestamp": "~01:45:00"
+        "scene": "Cameron reads the letter from his daughter/Cameron sees his daughter for the first time",
+        "timestamp": "Multiple"
       }
     ]
   },
@@ -24521,11 +24840,6 @@
         "name": "Reservoir Dogs",
         "scene": "Background during radio interlude on K-Billy",
         "timestamp": "~00:10:15"
-      },
-      {
-        "name": "Reservoir Dogs / Guardians of the Galaxy / Ally McBeal",
-        "scene": "Repeated for irony or humor.",
-        "timestamp": "Various"
       }
     ]
   },
@@ -29374,7 +29688,7 @@
   },
   {
     "title": "Don’t Fear the Reaper",
-    "artist": "Blue Öyster Cult",
+    "artist": "Blue Oyster Cult",
     "movies": [
       {
         "name": "Last Action Hero",
@@ -38462,6 +38776,17 @@
     ]
   },
   {
+    "title": "Kung Fu Fighting",
+    "artist": "CeeLo Green & Jack Black",
+    "movies": [
+      {
+        "name": "Shrek",
+        "scene": "Used in bonus fight scene featurettes.",
+        "timestamp": "~Bonus"
+      }
+    ]
+  },
+  {
     "title": "It Is You (I Have Loved)",
     "artist": "Dana Glover",
     "movies": [
@@ -38540,17 +38865,6 @@
         "name": "Shrek",
         "scene": "Donkey bonds with Shrek over a campfire.",
         "timestamp": "~00:35:00"
-      }
-    ]
-  },
-  {
-    "title": "Kung Fu Fighting",
-    "artist": "CeeLo Green & Jack Black",
-    "movies": [
-      {
-        "name": "Shrek (trailers and bonus)",
-        "scene": "Used in bonus fight scene featurettes.",
-        "timestamp": "~Bonus"
       }
     ]
   },
@@ -46721,7 +47035,7 @@
   },
   {
     "title": "Don't Fear the Reaper",
-    "artist": "Blue Öyster Cult",
+    "artist": "Blue Oyster Cult",
     "movies": [
       {
         "name": "The Stand",
@@ -50304,17 +50618,6 @@
         "name": "Wet Hot American Summer",
         "scene": "NASA satellite sequence",
         "timestamp": "~01:20:00"
-      }
-    ]
-  },
-  {
-    "title": "Wet Hot American Summer",
-    "artist": "Craig Wedren",
-    "movies": [
-      {
-        "name": "Wet Hot American Summer",
-        "scene": "Various transitions throughout the film",
-        "timestamp": "~varied"
       }
     ]
   },
