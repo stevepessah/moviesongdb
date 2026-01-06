@@ -22149,6 +22149,16 @@
         "name": "Finch",
         "scene": "Post-apocalyptic montage of deserted cities.",
         "timestamp": "~00:15:00"
+      },
+      {
+        "name": "Independence Day",
+        "scene": "Beginning of the movie, looking at radar",
+        "timestamp": "~00:00:02"
+      },
+      {
+        "name": "Superbad",
+        "scene": "After the party fallout",
+        "timestamp": "~01:25:00"
       }
     ]
   },
@@ -30029,11 +30039,6 @@
     "title": "If I Didn't Care",
     "artist": "The Ink Spots",
     "movies": [
-      {
-        "name": "Leaving Las Vegas",
-        "scene": "Ben and Sera slow dance in their hotel room.",
-        "timestamp": "~00:50:00"
-      },
       {
         "name": "Leaving Las Vegas",
         "scene": "Ben and Sera slow dance in their hotel room.",
@@ -41786,17 +41791,6 @@
         "name": "Superbad",
         "scene": "Seth imagines impressing Jules",
         "timestamp": "~00:11:00"
-      }
-    ]
-  },
-  {
-    "title": "It's the End of the World As We Know It",
-    "artist": "R.E.M.",
-    "movies": [
-      {
-        "name": "Superbad",
-        "scene": "After the party fallout",
-        "timestamp": "~01:25:00"
       }
     ]
   },
