@@ -24,11 +24,20 @@ export default function HomeScreen() {
   
   const handleSearch = (text) => {
     setQuery(text);
-    const lowerText = text.toLowerCase();
+    // Normalize Unicode characters (handles different apostrophe types)
+    const normalizeText = (str) => {
+      return str
+        .toLowerCase()
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .replace(/[''']/g, "'"); // Normalize different apostrophe types
+    };
+    
+    const normalizedQuery = normalizeText(text);
     const results = songsData.filter(
       (item) =>
-        item.title.toLowerCase().includes(lowerText) ||
-        item.artist.toLowerCase().includes(lowerText)
+        normalizeText(item.title).includes(normalizedQuery) ||
+        normalizeText(item.artist).includes(normalizedQuery)
     );
     setFiltered(results);
   };
@@ -69,10 +78,16 @@ export default function HomeScreen() {
         </TouchableOpacity>
       )}
 
+      {query.length > 0 && filtered.length === 0 && (
+        <View style={styles.noResultsContainer}>
+          <Text style={styles.noResultsText}>No results found</Text>
+        </View>
+      )}
+
       {filtered.length > 0 && (
         <FlatList
           data={filtered}
-          keyExtractor={(item) => item.title + item.artist}
+          keyExtractor={(item, index) => `${item.title}-${item.artist}-${index}`}
           renderItem={({ item }) => (
             <TouchableOpacity
               style={styles.resultItem}
@@ -83,6 +98,9 @@ export default function HomeScreen() {
               </Text>
             </TouchableOpacity>
           )}
+          style={styles.resultsList}
+          contentContainerStyle={styles.resultsListContent}
+          keyboardShouldPersistTaps="handled"
         />
       )}
     </View>
@@ -153,5 +171,19 @@ const styles = StyleSheet.create({
   clearButtonText: {
     color: '#fff',
     fontSize: 14,
+  },
+  resultsList: {
+    flex: 1,
+  },
+  resultsListContent: {
+    paddingBottom: 20,
+  },
+  noResultsContainer: {
+    padding: 20,
+    alignItems: 'center',
+  },
+  noResultsText: {
+    color: '#888',
+    fontSize: 16,
   },
 });
