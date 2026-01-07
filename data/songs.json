@@ -240,7 +240,7 @@
     "movies": [
       {
         "name": "10 Things I Hate About You",
-        "scene": "TBD",
+        "scene": "--",
         "timestamp": "~00:00:00"
       }
     ]
@@ -353,7 +353,7 @@
     "movies": [
       {
         "name": "10 Things I Hate About You",
-        "scene": "TBD",
+        "scene": "--",
         "timestamp": "~00:00:00"
       }
     ]
@@ -452,8 +452,8 @@
     "movies": [
       {
         "name": "13 Going On 30",
-        "scene": "",
-        "timestamp": ""
+        "scene": "--",
+        "timestamp": "--"
       }
     ]
   },
@@ -540,8 +540,8 @@
     "movies": [
       {
         "name": "13 Going On 30",
-        "scene": "",
-        "timestamp": ""
+        "scene": "--",
+        "timestamp": "--"
       },
       {
         "name": "Office Space",
@@ -550,7 +550,7 @@
       },
       {
         "name": "Wild Things",
-        "scene": "Opening pool party scene.",
+        "scene": "The story opens at a pool party.",
         "timestamp": "~00:10:00"
       }
     ]
@@ -610,8 +610,8 @@
     "movies": [
       {
         "name": "13 Going On 30",
-        "scene": "",
-        "timestamp": ""
+        "scene": "--",
+        "timestamp": "--"
       }
     ]
   },
@@ -731,17 +731,17 @@
       },
       {
         "name": "The Verdict",
-        "scene": "Post-verdict introspection.",
+        "scene": "Post-verdict introspection settles in.",
         "timestamp": "~01:45:00"
       },
       {
         "name": "Three Billboards Outside Ebbing, Missouri",
-        "scene": "Willoughby and his wife enjoy their final picnic.",
+        "scene": "Willoughby and his wife share their final picnic.",
         "timestamp": "~00:50:00"
       },
       {
         "name": "Wag the Dog",
-        "scene": "Winifred and Conrad reflect on the outcome.",
+        "scene": "Winifred and Conrad assess the outcome.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -799,7 +799,7 @@
       },
       {
         "name": "The Money Pit",
-        "scene": "House finally collapses completely.",
+        "scene": "The house gives way, collapsing at last.",
         "timestamp": "~01:15:00"
       },
       {
@@ -809,7 +809,7 @@
       },
       {
         "name": "The Walker",
-        "scene": "Opening credits in vintage-styled luxury.",
+        "scene": "Opening credits unfold in vintage luxury style.",
         "timestamp": "~00:02:00"
       }
     ]
@@ -832,7 +832,7 @@
       {
         "name": "21",
         "scene": "2nd song in end credits.",
-        "timestamp": ""
+        "timestamp": "--"
       }
     ]
   },
@@ -1141,7 +1141,7 @@
       },
       {
         "name": "Training Day",
-        "scene": "Credits roll after final scene.",
+        "scene": "Credits roll after the final scene.",
         "timestamp": "~01:55:00"
       }
     ]
@@ -1249,7 +1249,7 @@
       },
       {
         "name": "Training Day",
-        "scene": "Driving through LA neighborhoods.",
+        "scene": "Driving through L.A. neighborhoods.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -1386,8 +1386,8 @@
     "movies": [
       {
         "name": "22 Jump Street",
-        "scene": "",
-        "timestamp": ""
+        "scene": "--",
+        "timestamp": "--"
       }
     ]
   },
@@ -1420,7 +1420,7 @@
       {
         "name": "22 Jump Street",
         "scene": "Song can be heard at the Spring Break Party.",
-        "timestamp": ""
+        "timestamp": "--"
       }
     ]
   },
@@ -1556,8 +1556,8 @@
     "movies": [
       {
         "name": "22 Jump Street",
-        "scene": "",
-        "timestamp": ""
+        "scene": "--",
+        "timestamp": "--"
       }
     ]
   },
@@ -1601,7 +1601,7 @@
       {
         "name": "22 Jump Street",
         "scene": "Song can be heard at the Spring Break Party.",
-        "timestamp": ""
+        "timestamp": "--"
       }
     ]
   },
@@ -1645,7 +1645,7 @@
       {
         "name": "22 Jump Street",
         "scene": "Song can be heard at the Spring Break Party.",
-        "timestamp": ""
+        "timestamp": "--"
       }
     ]
   },
@@ -1741,7 +1741,7 @@
       },
       {
         "name": "The Woodsman",
-        "scene": "Walter stands in the rain outside school.",
+        "scene": "Walter stands in the rain outside the school.",
         "timestamp": "~01:25:00"
       }
     ]
@@ -1805,7 +1805,7 @@
       },
       {
         "name": "Top Gun",
-        "scene": "Maverick's final dogfight",
+        "scene": "Maverick’s final dogfight.",
         "timestamp": "~01:40:00"
       }
     ]
@@ -1838,8 +1838,8 @@
     "movies": [
       {
         "name": "40 Year Old Virgin",
-        "scene": "",
-        "timestamp": ""
+        "scene": "--",
+        "timestamp": "--"
       }
     ]
   },
@@ -1937,8 +1937,8 @@
     "movies": [
       {
         "name": "40 Year Old Virgin",
-        "scene": "",
-        "timestamp": ""
+        "scene": "--",
+        "timestamp": "--"
       }
     ]
   },
@@ -2444,7 +2444,7 @@
       },
       {
         "name": "The Perks of Being a Wallflower",
-        "scene": "Mr. Anderson walks out of school smiling.",
+        "scene": "Mr. Anderson leaves the school, smiling to himself.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -2554,8 +2554,8 @@
     "movies": [
       {
         "name": "500 Days Of Summer",
-        "scene": "",
-        "timestamp": ""
+        "scene": "--",
+        "timestamp": "--"
       }
     ]
   },
@@ -2576,8 +2576,8 @@
     "movies": [
       {
         "name": "500 Days Of Summer",
-        "scene": "",
-        "timestamp": ""
+        "scene": "--",
+        "timestamp": "--"
       }
     ]
   },
@@ -2846,8 +2846,8 @@
     "movies": [
       {
         "name": "500 Days Of Summer",
-        "scene": "",
-        "timestamp": ""
+        "scene": "--",
+        "timestamp": "--"
       }
     ]
   },
@@ -2884,7 +2884,7 @@
       },
       {
         "name": "Wanderlust",
-        "scene": "George and Linda run through the commune.",
+        "scene": "George and Linda flee through the commune.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -3219,8 +3219,8 @@
     "movies": [
       {
         "name": "8 Mile",
-        "scene": "",
-        "timestamp": ""
+        "scene": "--",
+        "timestamp": "--"
       }
     ]
   },
@@ -3250,7 +3250,7 @@
       },
       {
         "name": "Tower Heist",
-        "scene": "The team celebrates the plan's success.",
+        "scene": "The team celebrates the successful plan.",
         "timestamp": "~01:45:00"
       }
     ]
@@ -3299,8 +3299,8 @@
     "movies": [
       {
         "name": "8 Mile",
-        "scene": "",
-        "timestamp": ""
+        "scene": "--",
+        "timestamp": "--"
       }
     ]
   },
@@ -3365,8 +3365,8 @@
     "movies": [
       {
         "name": "8 Mile",
-        "scene": "",
-        "timestamp": ""
+        "scene": "--",
+        "timestamp": "--"
       }
     ]
   },
@@ -3387,8 +3387,8 @@
     "movies": [
       {
         "name": "8 Mile",
-        "scene": "",
-        "timestamp": ""
+        "scene": "--",
+        "timestamp": "--"
       }
     ]
   },
@@ -3847,7 +3847,7 @@
       },
       {
         "name": "The Perks of Being a Wallflower",
-        "scene": "Tunnel scene with Charlie standing in the back of the truck.",
+        "scene": "In the tunnel, Charlie stands at the back of the truck, taking it all in.",
         "timestamp": "~01:35:00"
       },
       {
@@ -3857,17 +3857,17 @@
       },
       {
         "name": "Thor: Ragnarok",
-        "scene": "Asgardians flee Hela’s destruction.",
+        "scene": "Asgardians flee as Hela destroys their world.",
         "timestamp": "~01:30:00"
       },
       {
         "name": "Titanic (extended re-release trailer)",
-        "scene": "Titanic sails at dusk.",
+        "scene": "Titanic sails into dusk.",
         "timestamp": "~Trailer"
       },
       {
         "name": "War of the Worlds (credits)",
-        "scene": "End credits roll post-reunion.",
+        "scene": "End credits roll after a family reunion.",
         "timestamp": "~End"
       }
     ]
@@ -3913,12 +3913,12 @@
       },
       {
         "name": "The Watch",
-        "scene": "The guys prepare to face the aliens.",
+        "scene": "The guys gear up to face the alien threat.",
         "timestamp": "~01:20:00"
       },
       {
         "name": "War of the Worlds",
-        "scene": "Ray and his kids flee NYC.",
+        "scene": "Ray escapes New York with his children.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -3997,7 +3997,7 @@
       },
       {
         "name": "Tootsie",
-        "scene": "Dorothy rehearses for her big speech.",
+        "scene": "Dorothy rehearses her defining speech.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -4121,7 +4121,7 @@
       },
       {
         "name": "Trainspotting",
-        "scene": "Group drinks in the pub before going to London",
+        "scene": "The group drinks before heading to London.",
         "timestamp": "~01:13:35"
       }
     ]
@@ -4159,7 +4159,7 @@
       },
       {
         "name": "Twister",
-        "scene": "Celebration at roadside bar post-storm",
+        "scene": "A roadside bar celebration after the storm.",
         "timestamp": "~01:10:20"
       }
     ]
@@ -4221,12 +4221,12 @@
       },
       {
         "name": "This Is the End",
-        "scene": "Celebs are raptured to heaven.",
+        "scene": "Celebrities are raptured into heaven.",
         "timestamp": "~01:40:00"
       },
       {
         "name": "Zombieland: Double Tap",
-        "scene": "The group gears up for the final battle.",
+        "scene": "The group prepares for the final battle.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -4381,12 +4381,12 @@
       },
       {
         "name": "Vegas Vacation",
-        "scene": "The Griswolds cruise down The Strip.",
+        "scene": "The Griswolds cruise down the Vegas Strip.",
         "timestamp": "~00:12:00"
       },
       {
         "name": "Wild Hogs",
-        "scene": "Montage of road trip antics.",
+        "scene": "Road trip chaos montage.",
         "timestamp": "~00:25:00"
       }
     ]
@@ -4465,17 +4465,17 @@
       },
       {
         "name": "Tropic Thunder",
-        "scene": "Les Grossman dances over credits.",
+        "scene": "Les Grossman dances over the end credits.",
         "timestamp": "~End"
       },
       {
         "name": "Up in Smoke",
-        "scene": "Cheech and Chong ride through LA.",
+        "scene": "Cheech and Chong cruise through Los Angeles.",
         "timestamp": "~00:10:00"
       },
       {
         "name": "Zombieland",
-        "scene": "Tallahassee drives the Hummer while celebrating.",
+        "scene": "Tallahassee celebrates while driving the Hummer.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -4573,7 +4573,7 @@
       },
       {
         "name": "Whiplash",
-        "scene": "The band plays a lively, upbeat song",
+        "scene": "The band launches into a blistering number.",
         "timestamp": "~00:45:30"
       }
     ]
@@ -4747,7 +4747,7 @@
       },
       {
         "name": "Titanic (re-release montage)",
-        "scene": "Jack fades into the water.",
+        "scene": "Jack slips beneath the water.",
         "timestamp": "~02:35:00"
       }
     ]
@@ -4804,7 +4804,7 @@
       },
       {
         "name": "The Secret Life of Walter Mitty",
-        "scene": "Walter imagines climbing into a helicopter.",
+        "scene": "Walter imagines stepping into a waiting helicopter.",
         "timestamp": "~00:30:00"
       }
     ]
@@ -4948,7 +4948,7 @@
       },
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Office party spirals out of control.",
+        "scene": "An office party explodes into chaos.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -5654,7 +5654,7 @@
       },
       {
         "name": "The Terminal",
-        "scene": "Viktor and Amelia dance quietly in the terminal.",
+        "scene": "Viktor and Amelia share a quiet dance in the terminal.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -6073,7 +6073,7 @@
       },
       {
         "name": "The Wash",
-        "scene": "Security footage plays during a bust.",
+        "scene": "Security footage rolls during a bust.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -6167,7 +6167,7 @@
       },
       {
         "name": "Wag the Dog",
-        "scene": "Spin team celebrates successful deception.",
+        "scene": "The spin team celebrates a successful deception.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -6475,7 +6475,7 @@
       },
       {
         "name": "Top Gun",
-        "scene": "Return to flight training",
+        "scene": "Return to flight training.",
         "timestamp": "~01:24:00"
       }
     ]
@@ -6752,7 +6752,7 @@
       },
       {
         "name": "The Terminal",
-        "scene": "Viktor hears a jazz busker at the airport.",
+        "scene": "Viktor hears a jazz busker while passing through the airport.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -7065,7 +7065,7 @@
       },
       {
         "name": "Wild at Heart",
-        "scene": "Sexual and romantic sequence between Sailor and Lula.",
+        "scene": "A steamy, dangerous romance unfolds.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -7211,7 +7211,7 @@
       },
       {
         "name": "The Woodsman",
-        "scene": "Walter tries to reconnect with family.",
+        "scene": "Walter tries to reconnect with his family.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -7582,7 +7582,7 @@
       },
       {
         "name": "The Other Guys",
-        "scene": "Credits sequence.",
+        "scene": "The credits sequence begins.",
         "timestamp": "~01:45:00"
       },
       {
@@ -7592,7 +7592,7 @@
       },
       {
         "name": "Wild Things",
-        "scene": "Final twist montage.",
+        "scene": "A final twist montage.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -8197,7 +8197,7 @@
       },
       {
         "name": "Zoolander 2",
-        "scene": "Hansel and Derek montage across Rome.",
+        "scene": "Derek and Hansel tour Rome together.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -8516,7 +8516,7 @@
       },
       {
         "name": "White Men Can't Jump",
-        "scene": "Sidney and Billy trash talk on the court.",
+        "scene": "Trash talk erupts on the court.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -8708,7 +8708,7 @@
       },
       {
         "name": "Top Gun",
-        "scene": "Jet launch training montage.",
+        "scene": "Jet-launch training montage.",
         "timestamp": "~00:10:00"
       }
     ]
@@ -8864,7 +8864,7 @@
       },
       {
         "name": "Wet Hot American Summer",
-        "scene": "Montage of camp weirdness",
+        "scene": "A montage of camp oddities.",
         "timestamp": "~00:42:00"
       }
     ]
@@ -8907,7 +8907,7 @@
       },
       {
         "name": "The Pursuit of Happyness",
-        "scene": "Montage of father-son bonding moments.",
+        "scene": "A montage captures moments of father-son bonding.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -9046,7 +9046,7 @@
       },
       {
         "name": "The Secret Life of Walter Mitty",
-        "scene": "Walter jumps into the helicopter in Greenland.",
+        "scene": "Walter launches himself into a helicopter in Greenland.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -9153,7 +9153,7 @@
       },
       {
         "name": "The Wolf of Wall Street (trailer)",
-        "scene": "Jordan shows off his lifestyle.",
+        "scene": "Jordan shows off his excess-filled lifestyle.",
         "timestamp": "~Trailer"
       }
     ]
@@ -9855,7 +9855,7 @@
       },
       {
         "name": "The Truth About Cats & Dogs",
-        "scene": "Brian ponders who to choose.",
+        "scene": "Brian struggles with an impossible choice.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -10757,7 +10757,7 @@
       },
       {
         "name": "The Missing",
-        "scene": "Nightfall in the desert, Maggie rests with Lily.",
+        "scene": "Night settles over the desert as Maggie rests beside Lilly.",
         "timestamp": "~00:30:00"
       }
     ]
@@ -11107,12 +11107,12 @@
       },
       {
         "name": "The Trial of the Chicago 7",
-        "scene": "Moments of victory and resolve.",
+        "scene": "Fleeting moments of victory and resolve.",
         "timestamp": "~01:20:00"
       },
       {
         "name": "We Bought a Zoo",
-        "scene": "Dylan starts bonding with his father.",
+        "scene": "Dylan begins bonding with his father.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -11174,7 +11174,7 @@
       },
       {
         "name": "Zoolander 2",
-        "scene": "Flashback to fashion glory days.",
+        "scene": "Flashbacks to fashion’s glory days.",
         "timestamp": "~00:25:00"
       }
     ]
@@ -11232,7 +11232,7 @@
       },
       {
         "name": "Zombieland: Double Tap",
-        "scene": "Tallahassee introduces himself in a blaze of chaos.",
+        "scene": "Tallahassee makes a chaotic first impression.",
         "timestamp": "~00:15:00"
       }
     ]
@@ -11375,12 +11375,12 @@
       },
       {
         "name": "Tropic Thunder",
-        "scene": "Final reunion at the Oscar ceremony.",
+        "scene": "Final reunion at the Oscars.",
         "timestamp": "~01:50:00"
       },
       {
         "name": "We Bought a Zoo",
-        "scene": "Family rallies to open zoo.",
+        "scene": "A family unites to reopen the zoo.",
         "timestamp": "~01:35:00"
       }
     ]
@@ -11438,7 +11438,7 @@
       },
       {
         "name": "Whitney Houston: I Wanna Dance with Somebody",
-        "scene": "Montage of tour success.",
+        "scene": "A montage charts tour success.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -11631,7 +11631,7 @@
       },
       {
         "name": "Zombieland: Double Tap",
-        "scene": "The group defends Babylon against zombie horde.",
+        "scene": "Babylon is defended against a zombie horde.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -11820,12 +11820,12 @@
       },
       {
         "name": "The Sopranos (Final Scene)",
-        "scene": "Tony Soprano eats with his family as tension builds.",
+        "scene": "Tony Soprano eats with his family as unease simmers beneath the surface.",
         "timestamp": "~00:57:00"
       },
       {
         "name": "Zootopia",
-        "scene": "Closing celebration.",
+        "scene": "A final celebration closes the film.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -11851,7 +11851,7 @@
       },
       {
         "name": "The Secret Life of Walter Mitty (trailer)",
-        "scene": "Teaser of Mitty’s yearning to break free.",
+        "scene": "A teaser captures Mitty’s longing to finally break free.",
         "timestamp": "Trailer"
       }
     ]
@@ -12064,7 +12064,7 @@
       },
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Jordan addresses Stratton employees one last time.",
+        "scene": "Jordan addresses the Stratton employees one final time.",
         "timestamp": "~01:50:00"
       }
     ]
@@ -12249,7 +12249,7 @@
       },
       {
         "name": "X-Men: Apocalypse",
-        "scene": "Quicksilver rescues students from explosion.",
+        "scene": "Quicksilver rescues students from an explosion.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -12442,7 +12442,7 @@
       },
       {
         "name": "Wild Hogs",
-        "scene": "Motorcycle chase through county fair.",
+        "scene": "A motorcycle chase tears through a county fair.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -12842,7 +12842,7 @@
       },
       {
         "name": "The Wedding Singer",
-        "scene": "Robbie gets drunk after breakup.",
+        "scene": "Robbie drinks heavily after the breakup.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -13097,7 +13097,7 @@
       },
       {
         "name": "The Recruit",
-        "scene": "Training montage at The Farm.",
+        "scene": "A training montage unfolds at the Farm.",
         "timestamp": "~00:25:00"
       }
     ]
@@ -13302,7 +13302,7 @@
       },
       {
         "name": "The Secret Life of Walter Mitty",
-        "scene": "Walter takes a leap of faith toward the erupting volcano.",
+        "scene": "Walter takes a leap of faith toward an erupting volcano.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -13369,12 +13369,12 @@
       },
       {
         "name": "The Mission",
-        "scene": "Final native resistance scene.",
+        "scene": "The final stand of the native resistance.",
         "timestamp": "~01:40:00"
       },
       {
         "name": "Wilson",
-        "scene": "Wilson escapes from his half-sister's house.",
+        "scene": "Wilson escapes his half-sister’s home.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -13510,7 +13510,7 @@
       },
       {
         "name": "True Romance",
-        "scene": "Sicilian house standoff",
+        "scene": "A standoff at the Sicilian house.",
         "timestamp": "~01:15:00"
       }
     ]
@@ -13622,12 +13622,12 @@
       },
       {
         "name": "The Princess Diaries",
-        "scene": "Driving lesson chaos",
+        "scene": "Driving lessons descend into chaos.",
         "timestamp": "~00:25:00"
       },
       {
         "name": "Toy Story",
-        "scene": "Buzz tests flight at Andy’s house.",
+        "scene": "Buzz tests his ability to fly.",
         "timestamp": "~00:25:00"
       },
       {
@@ -13841,7 +13841,7 @@
       },
       {
         "name": "The Post",
-        "scene": "Kay decides to publish.",
+        "scene": "Kay makes the decision to publish.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -13961,12 +13961,12 @@
       },
       {
         "name": "Tootsie",
-        "scene": "Julie sings along in her dressing room.",
+        "scene": "Julie sings along backstage in her dressing room.",
         "timestamp": "~00:35:00"
       },
       {
         "name": "Wanderlust",
-        "scene": "Eva mocks George during confrontation.",
+        "scene": "Eva mocks George during the fallout.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -14213,7 +14213,7 @@
       },
       {
         "name": "Turner & Hooch",
-        "scene": "Scott talks to the dog after work.",
+        "scene": "Scott talks to his dog after work.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -14778,7 +14778,7 @@
       },
       {
         "name": "The Spectacular Now",
-        "scene": "Sutter and Aimee kiss for the first time.",
+        "scene": "Sutter and Aimee share their first kiss.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -15120,7 +15120,7 @@
       },
       {
         "name": "This Is 40",
-        "scene": "Debbie sings in the car to unwind.",
+        "scene": "Debbie sings in the car to clear her head.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -15146,7 +15146,7 @@
       },
       {
         "name": "The People vs. Larry Flynt",
-        "scene": "Closing argument on free speech.",
+        "scene": "A closing argument centers on free speech.",
         "timestamp": "~01:35:00"
       }
     ]
@@ -15184,7 +15184,7 @@
       },
       {
         "name": "Van Wilder",
-        "scene": "Wilder’s epic college party kicks off",
+        "scene": "Wilder’s legendary college party explodes to life.",
         "timestamp": "~00:10:00"
       }
     ]
@@ -15220,7 +15220,7 @@
       },
       {
         "name": "Wild Things",
-        "scene": "Tension builds before murder twist.",
+        "scene": "Tension builds before the murder twist.",
         "timestamp": "~01:15:00"
       }
     ]
@@ -15266,22 +15266,22 @@
       },
       {
         "name": "The Number 23",
-        "scene": "Walter spirals deeper into obsession.",
+        "scene": "Walter sinks deeper into obsession.",
         "timestamp": "~01:00:00"
       },
       {
         "name": "The Trial of the Chicago 7",
-        "scene": "Moments of reflection during trial.",
+        "scene": "Quiet reflection woven throughout the trial.",
         "timestamp": "~00:45:00"
       },
       {
         "name": "Truth",
-        "scene": "Mary Mapes considers the fallout of her report.",
+        "scene": "Mary Mapes weighs the fallout of her reporting.",
         "timestamp": "~01:40:00"
       },
       {
         "name": "Vanilla Sky",
-        "scene": "David awakens to surreal cityscape.",
+        "scene": "David awakens to a warped, dreamlike cityscape.",
         "timestamp": "~00:10:00"
       }
     ]
@@ -15297,7 +15297,7 @@
       },
       {
         "name": "Wanderlust",
-        "scene": "Seth throws a wild party at the commune.",
+        "scene": "Seth throws a chaotic party at the commune.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -15461,7 +15461,7 @@
       },
       {
         "name": "The Wedding Singer",
-        "scene": "Slow dance at Julia's engagement party.",
+        "scene": "A slow dance at Julia’s engagement party.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -15656,7 +15656,7 @@
       },
       {
         "name": "The Twilight Saga: Breaking Dawn – Part 2",
-        "scene": "Closing montage and credits.",
+        "scene": "A closing montage leads into the credits.",
         "timestamp": "~01:50:00"
       }
     ]
@@ -15747,7 +15747,7 @@
       },
       {
         "name": "Wreck-It Ralph",
-        "scene": "Fix-It Felix wins the medal",
+        "scene": "Fix-It Felix wins the medal.",
         "timestamp": "~00:10:00"
       }
     ]
@@ -15839,7 +15839,7 @@
       },
       {
         "name": "Zoolander",
-        "scene": "Will Ferrell’s cameo appears in fashion montage.",
+        "scene": "A surprise cameo appears.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -15935,7 +15935,7 @@
       },
       {
         "name": "War for the Planet of the Apes",
-        "scene": "The Colonel addresses his militia.",
+        "scene": "The militia is addressed before battle.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -16300,7 +16300,7 @@
       },
       {
         "name": "The Trial of the Chicago 7",
-        "scene": "Courtroom chaos montage.",
+        "scene": "Chaos erupts in a courtroom montage.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -16342,12 +16342,12 @@
       },
       {
         "name": "The Night Listener",
-        "scene": "Gabriel drives alone after confrontation.",
+        "scene": "Gabriel drives off alone after the confrontation.",
         "timestamp": "~01:05:00"
       },
       {
         "name": "Tootsie",
-        "scene": "Dorothy exits the soap set for good.",
+        "scene": "Dorothy leaves the soap opera for good.",
         "timestamp": "~01:35:00"
       }
     ]
@@ -16769,12 +16769,12 @@
       },
       {
         "name": "Training Day",
-        "scene": "Alonzo sits brooding after a raid.",
+        "scene": "Alonzo broods after a raid.",
         "timestamp": "~00:55:00"
       },
       {
         "name": "Vanilla Sky",
-        "scene": "David walks alone in snowy park.",
+        "scene": "David walks alone through a snow-covered park.",
         "timestamp": "~01:15:00"
       }
     ]
@@ -17206,7 +17206,7 @@
       },
       {
         "name": "Zoolander 2",
-        "scene": "Valentino’s lab sequence.",
+        "scene": "Valentino’s lab is revealed.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -17373,7 +17373,7 @@
       },
       {
         "name": "The Talented Mr. Ripley",
-        "scene": "Tom stalks Dickie near the beach.",
+        "scene": "Tom secretly follows Dickie along the beach.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -17442,7 +17442,7 @@
       },
       {
         "name": "Tropic Thunder",
-        "scene": "Flaming escape from jungle trap.",
+        "scene": "A fiery escape from a jungle trap.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -17522,7 +17522,7 @@
       },
       {
         "name": "Thor: Ragnarok",
-        "scene": "Hela unleashes her power in Asgard.",
+        "scene": "Hela unleashes her full power in Asgard.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -17564,7 +17564,7 @@
       },
       {
         "name": "The War with Grandpa",
-        "scene": "Ed gears up to prank Peter back.",
+        "scene": "Ed prepares to prank Peter in return.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -17585,7 +17585,7 @@
       },
       {
         "name": "The Secret Life of Walter Mitty",
-        "scene": "Walter rides through Afghan mountains.",
+        "scene": "Walter rides through the mountains of Afghanistan.",
         "timestamp": "~01:15:00"
       }
     ]
@@ -17633,7 +17633,7 @@
       },
       {
         "name": "The Walker",
-        "scene": "Carter glides through D.C.’s elite gathering.",
+        "scene": "Carter glides through an elite gathering in D.C.",
         "timestamp": "~00:30:00"
       }
     ]
@@ -17748,17 +17748,17 @@
       },
       {
         "name": "The Wedding Singer",
-        "scene": "Julia imagines her wedding.",
+        "scene": "Julia imagines her future wedding.",
         "timestamp": "~00:50:00"
       },
       {
         "name": "Wild Things",
-        "scene": "Steamy montage before the twist.",
+        "scene": "A heated montage leads to the reveal.",
         "timestamp": "~00:50:00"
       },
       {
         "name": "Zombieland: Double Tap",
-        "scene": "Final defense of Babylon under siege.",
+        "scene": "The final stand at Babylon.",
         "timestamp": "~01:25:00"
       }
     ]
@@ -17811,7 +17811,7 @@
       },
       {
         "name": "We’re No Angels",
-        "scene": "Ned and Jim disguise as priests.",
+        "scene": "Ned and Jim disguise themselves as priests.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -17913,17 +17913,17 @@
       },
       {
         "name": "The O.C. (TV) / Shrek / Watchmen",
-        "scene": "Used in emotional climaxes and reflective scenes.",
+        "scene": "The motif is used during emotional climaxes and reflective moments.",
         "timestamp": "Various"
       },
       {
         "name": "The Woodsman",
-        "scene": "Closing scene as Walter walks away.",
+        "scene": "The film closes as Walter walks away.",
         "timestamp": "~01:40:00"
       },
       {
         "name": "What Dreams May Come",
-        "scene": "Chris walks through fields of memory.",
+        "scene": "Chris walks through memories in open fields.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -18174,7 +18174,7 @@
       },
       {
         "name": "Veronica Guerin (trailer)",
-        "scene": "Trailer cuts between her double life.",
+        "scene": "Trailer cuts reveal her double life.",
         "timestamp": "~Trailer"
       }
     ]
@@ -18215,17 +18215,17 @@
       },
       {
         "name": "This Is 40",
-        "scene": "Debbie walks away from the birthday meltdown.",
+        "scene": "Debbie walks away from a birthday meltdown.",
         "timestamp": "~01:45:00"
       },
       {
         "name": "Veronica Guerin",
-        "scene": "Veronica drives into Dublin for her next story.",
+        "scene": "Veronica drives into Dublin to chase her next story.",
         "timestamp": "~00:20:00"
       },
       {
         "name": "World's Greatest Dad",
-        "scene": "Lance walks the halls post-fame.",
+        "scene": "Lance navigates the halls after fame.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -18363,7 +18363,7 @@
       },
       {
         "name": "Zoolander 2",
-        "scene": "Fashion world bounces back from scandal.",
+        "scene": "The industry rebounds from scandal.",
         "timestamp": "~01:25:00"
       }
     ]
@@ -18511,7 +18511,7 @@
       },
       {
         "name": "The Next Best Thing",
-        "scene": "Abbie walks through the courtroom.",
+        "scene": "Abbie crosses the courtroom floor.",
         "timestamp": "~01:15:00"
       }
     ]
@@ -18657,7 +18657,7 @@
       },
       {
         "name": "Zombieland: Double Tap",
-        "scene": "Tallahassee trains Little Rock on firearms.",
+        "scene": "Tallahassee trains Little Rock to shoot.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -19313,7 +19313,7 @@
       },
       {
         "name": "The Sopranos (2000, S2 Finale)",
-        "scene": "Tony’s daydream ends with him waking in a truck",
+        "scene": "Tony snaps awake from a daydream in the back of a truck.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -19758,7 +19758,7 @@
       },
       {
         "name": "Thor: Ragnarok (trailer)",
-        "scene": "Hela’s rise previewed in dramatic montage.",
+        "scene": "Hela’s rise is previewed in a dramatic montage.",
         "timestamp": "~Trailer"
       }
     ]
@@ -19828,7 +19828,7 @@
       },
       {
         "name": "You Don't Mess with the Zohan",
-        "scene": "Zohan prepares for final salon showdown.",
+        "scene": "Zohan readies himself for the final showdown.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -20069,7 +20069,7 @@
       },
       {
         "name": "The Way Way Back",
-        "scene": "Final day at the water park",
+        "scene": "The final day at the water park arrives.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -20149,7 +20149,7 @@
       },
       {
         "name": "Zoolander",
-        "scene": "Catwalk showdown with Hansel.",
+        "scene": "A catwalk showdown with Hansel.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -20397,7 +20397,7 @@
       },
       {
         "name": "Thor: Ragnarok",
-        "scene": "Thor battles undead army.",
+        "scene": "Thor fights the undead army.",
         "timestamp": "~01:40:00"
       }
     ]
@@ -20559,7 +20559,7 @@
       },
       {
         "name": "Transformers: Age of Extinction",
-        "scene": "Played during fight preparations and gear-up sequences.",
+        "scene": "Music plays during fight prep and gear-up scenes.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -20673,7 +20673,7 @@
       },
       {
         "name": "Vanilla Sky",
-        "scene": "David struggles with isolation and dreams.",
+        "scene": "David grapples with isolation and fractured dreams.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -20711,7 +20711,7 @@
       },
       {
         "name": "The Other Guys",
-        "scene": "Allen misuses his NYPD power.",
+        "scene": "Allen abuses his authority as an NYPD officer.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -20809,12 +20809,12 @@
       },
       {
         "name": "The Post",
-        "scene": "Journalists rush to print.",
+        "scene": "Journalists scramble to get the story to print.",
         "timestamp": "~01:25:00"
       },
       {
         "name": "Zoolander",
-        "scene": "Runway montage of models.",
+        "scene": "A high-fashion runway montage.",
         "timestamp": "~00:15:00"
       }
     ]
@@ -21181,7 +21181,7 @@
       },
       {
         "name": "Watchmen (trailer)",
-        "scene": "Cold War-themed visuals and flashbacks.",
+        "scene": "Cold War imagery and flashbacks thread throughout.",
         "timestamp": "Trailer"
       }
     ]
@@ -21452,7 +21452,7 @@
       },
       {
         "name": "The Silence of the Lambs (1991)",
-        "scene": "Catherine drives before being kidnapped by Buffalo Bill",
+        "scene": "Catherine drives unknowingly toward her abduction by Buffalo Bill.",
         "timestamp": "~00:05:00"
       }
     ]
@@ -21856,7 +21856,7 @@
       },
       {
         "name": "The Secret Life of Walter Mitty",
-        "scene": "Walter dives into shark-infested waters.",
+        "scene": "Walter plunges into shark-infested waters.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -22286,7 +22286,7 @@
       },
       {
         "name": "Wild Hogs (trailer)",
-        "scene": "Comic clips of biker misadventures.",
+        "scene": "Comic biker mishaps escalate.",
         "timestamp": "~Trailer"
       }
     ]
@@ -22329,7 +22329,7 @@
       },
       {
         "name": "Volunteers",
-        "scene": "Lawrence and Beth dance under fireworks.",
+        "scene": "Lawrence and Beth dance beneath fireworks.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -22446,12 +22446,12 @@
       },
       {
         "name": "Turner & Hooch (credits)",
-        "scene": "Roll credits with dog montage.",
+        "scene": "Credits roll over a dog montage.",
         "timestamp": "~End"
       },
       {
         "name": "You Don't Mess with the Zohan",
-        "scene": "Zohan trains hair stylists.",
+        "scene": "Zohan trains his stylists.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -22494,7 +22494,7 @@
       },
       {
         "name": "Top Gun",
-        "scene": "Charlie walks into classroom",
+        "scene": "Charlie walks into the classroom.",
         "timestamp": "~00:23:00"
       }
     ]
@@ -22695,7 +22695,7 @@
       },
       {
         "name": "What Happens in Vegas",
-        "scene": "Joy and Jack argue in the casino.",
+        "scene": "Joy and Jack argue in a casino.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -22991,7 +22991,7 @@
       },
       {
         "name": "Training Day",
-        "scene": "Alonzo cruises confidently through the city",
+        "scene": "Alonzo cruises the city with confidence.",
         "timestamp": "~01:23:10"
       }
     ]
@@ -23235,7 +23235,7 @@
       },
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Office debauchery",
+        "scene": "Office debauchery spirals further.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -23669,7 +23669,7 @@
       },
       {
         "name": "The Shape of Things",
-        "scene": "Adam walks into the art exhibit.",
+        "scene": "Adam enters the art exhibit on his own terms.",
         "timestamp": "~01:30:00"
       },
       {
@@ -23949,7 +23949,7 @@
       },
       {
         "name": "Trainspotting",
-        "scene": "Renton watches people pass at the station.",
+        "scene": "Renton watches crowds pass at the station.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -23981,7 +23981,7 @@
       },
       {
         "name": "We Bought a Zoo",
-        "scene": "Ben and the kids start working on the property.",
+        "scene": "Ben and the kids restore the property.",
         "timestamp": "~00:25:00"
       }
     ]
@@ -24731,7 +24731,7 @@
       },
       {
         "name": "Thor: Love and Thunder",
-        "scene": "Plays during action sequences and end credits.",
+        "scene": "The music plays through action scenes and end credits.",
         "timestamp": "~00:45:00 and credits"
       },
       {
@@ -24762,7 +24762,7 @@
       },
       {
         "name": "Tower Heist",
-        "scene": "Josh and Charlie prep to infiltrate the penthouse.",
+        "scene": "Josh and Charlie prepare to infiltrate the penthouse.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -25949,7 +25949,7 @@
       },
       {
         "name": "World's Greatest Dad",
-        "scene": "Lance parties after writing fake journal.",
+        "scene": "Lance celebrates after forging a journal.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -26290,7 +26290,7 @@
       },
       {
         "name": "Turbo",
-        "scene": "Snails groove before the big race.",
+        "scene": "Snails dance before the big race.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -26674,7 +26674,7 @@
       },
       {
         "name": "The Wedding Singer",
-        "scene": "Drunken bar performance.",
+        "scene": "A drunken performance unfolds at the bar.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -26783,7 +26783,7 @@
       },
       {
         "name": "The Post",
-        "scene": "Newsroom assembles for press release.",
+        "scene": "The newsroom gathers for the press release.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -26908,7 +26908,7 @@
       },
       {
         "name": "Trick ‘r Treat (trailer)",
-        "scene": "Used in teaser for DiCaprio-produced horror anthology.",
+        "scene": "Used in a teaser for a DiCaprio-produced horror anthology.",
         "timestamp": "~Trailer"
       }
     ]
@@ -27256,7 +27256,7 @@
       },
       {
         "name": "The Neon Demon",
-        "scene": "Jesse walks down the hallway.",
+        "scene": "Jesse moves slowly down the hallway.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -28553,7 +28553,7 @@
       },
       {
         "name": "The Shape of Things",
-        "scene": "Evelyn and Adam share an intimate moment.",
+        "scene": "Evelyn and Adam share a quiet, intimate moment.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -28695,7 +28695,7 @@
       },
       {
         "name": "This Is 40",
-        "scene": "Pete reflects on his fatherhood.",
+        "scene": "Pete reflects on fatherhood.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -29006,7 +29006,7 @@
       },
       {
         "name": "Toy Story 3 (trailer)",
-        "scene": "Montage of toys in transition.",
+        "scene": "A montage of toys in transition.",
         "timestamp": "~Trailer"
       }
     ]
@@ -29357,7 +29357,7 @@
       },
       {
         "name": "The Painted Veil",
-        "scene": "Walter admits his fears to Kitty.",
+        "scene": "Walter confesses his fears to Kitty.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -29476,7 +29476,7 @@
       },
       {
         "name": "Top Gun",
-        "scene": "Charlie leaves base",
+        "scene": "Charlie leaves the base.",
         "timestamp": "~01:35:00"
       }
     ]
@@ -29631,7 +29631,7 @@
       },
       {
         "name": "This Is 40",
-        "scene": "Family party breaks into dancing.",
+        "scene": "A family party erupts into dancing.",
         "timestamp": "~01:40:00"
       }
     ]
@@ -29766,7 +29766,7 @@
       },
       {
         "name": "Weird Science",
-        "scene": "Opening credits.",
+        "scene": "Opening credits roll.",
         "timestamp": "~00:01:00"
       }
     ]
@@ -29803,7 +29803,7 @@
       },
       {
         "name": "You've Got Mail",
-        "scene": "Joe walks into Kathleen's shop.",
+        "scene": "Joe enters Kathleen’s shop.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -31197,7 +31197,7 @@
       },
       {
         "name": "Wicker Park",
-        "scene": "Matt sees Lisa at the station.",
+        "scene": "Matt spots Lisa at the station.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -31229,7 +31229,7 @@
       },
       {
         "name": "The Way Way Back",
-        "scene": "Duncan gets a ride home with Owen",
+        "scene": "Owen gives Duncan a ride home.",
         "timestamp": "~00:48:00"
       }
     ]
@@ -32084,7 +32084,7 @@
       },
       {
         "name": "World's Greatest Dad",
-        "scene": "Lance reflects on false legacy.",
+        "scene": "Lance reflects on his false legacy.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -32570,7 +32570,7 @@
       },
       {
         "name": "Zombieland: Double Tap",
-        "scene": "Wichita and Columbus reconnect at Babylon.",
+        "scene": "Wichita and Columbus reunite at Babylon.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -33024,7 +33024,7 @@
       },
       {
         "name": "White Water Summer",
-        "scene": "Campfire tension builds.",
+        "scene": "Tension simmers around the campfire.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -33494,7 +33494,7 @@
       },
       {
         "name": "The Next Three Days",
-        "scene": "Escape sequence planning montage.",
+        "scene": "A planning montage unfolds as the escape takes shape.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -33592,7 +33592,7 @@
       },
       {
         "name": "Think Like a Man Too",
-        "scene": "Club night goes out of control.",
+        "scene": "The club night spirals out of control.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -34272,12 +34272,12 @@
       },
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Naomi seduces Jordan with control.",
+        "scene": "Naomi seduces Jordan with power and control.",
         "timestamp": "~00:50:00"
       },
       {
         "name": "You Don't Mess with the Zohan",
-        "scene": "Zohan preps for his new salon life.",
+        "scene": "Zohan prepares for life in a salon.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -34546,7 +34546,7 @@
       },
       {
         "name": "The Perks of Being a Wallflower",
-        "scene": "Mr. Anderson encourages Charlie to write.",
+        "scene": "Mr. Anderson urges Charlie to keep writing.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -34781,7 +34781,7 @@
       },
       {
         "name": "Wet Hot American Summer",
-        "scene": "Gail and Gene’s moment",
+        "scene": "Gail and Gene share a moment.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -34819,7 +34819,7 @@
       },
       {
         "name": "The Parent Trap",
-        "scene": "Final happy reunion montage.",
+        "scene": "A final montage celebrates a happy reunion.",
         "timestamp": "~01:50:00"
       }
     ]
@@ -35020,7 +35020,7 @@
       },
       {
         "name": "The Wolf of Wall Street (TV spot)",
-        "scene": "Jordan preps a wild office party.",
+        "scene": "Jordan prepares another outrageous office party.",
         "timestamp": "~Trailer"
       }
     ]
@@ -36076,7 +36076,7 @@
       },
       {
         "name": "Vampire's Kiss",
-        "scene": "Peter loses himself in delusion, wandering the streets.",
+        "scene": "Peter spirals into delusion, wandering the streets.",
         "timestamp": "~01:15:00"
       }
     ]
@@ -36097,7 +36097,7 @@
       },
       {
         "name": "The Weather Man",
-        "scene": "David walks through snow alone.",
+        "scene": "David walks alone through falling snow.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -36678,7 +36678,7 @@
       },
       {
         "name": "You, Me and Dupree / The Newsroom (TV)",
-        "scene": "Used during dramatic turning points.",
+        "scene": "Used during key dramatic turning points.",
         "timestamp": "Various"
       }
     ]
@@ -37028,7 +37028,7 @@
       },
       {
         "name": "Valley Girl",
-        "scene": "Randy watches Julie at the prom.",
+        "scene": "Randy watches Julie from across the prom floor.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -37445,7 +37445,7 @@
       },
       {
         "name": "War for the Planet of the Apes",
-        "scene": "Colonel preps his soldiers for final assault.",
+        "scene": "The Colonel prepares his soldiers for the final assault.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -37472,7 +37472,7 @@
       },
       {
         "name": "The Secret Life of Walter Mitty",
-        "scene": "Walter meets Sean on the mountain.",
+        "scene": "Walter meets Sean atop the mountain.",
         "timestamp": "~01:40:00"
       }
     ]
@@ -37619,7 +37619,7 @@
       },
       {
         "name": "The People vs. Larry Flynt",
-        "scene": "Legal battle intensifies.",
+        "scene": "The legal battle escalates.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -38064,7 +38064,7 @@
       },
       {
         "name": "Tootsie",
-        "scene": "Dorothy dances in the apartment.",
+        "scene": "Dorothy dances alone in her apartment.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -38244,7 +38244,7 @@
       },
       {
         "name": "Tootsie",
-        "scene": "Dorothy tries to win Julie’s forgiveness.",
+        "scene": "Dorothy tries to win back Julie’s forgiveness.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -39148,7 +39148,7 @@
       },
       {
         "name": "Zoolander 2",
-        "scene": "Mugatu reappears in dramatic fashion.",
+        "scene": "Mugatu returns dramatically.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -40659,7 +40659,7 @@
       },
       {
         "name": "The Weatherman",
-        "scene": "David throws the bow at the street performer.",
+        "scene": "David tosses his bow to a street performer.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -40675,7 +40675,7 @@
       },
       {
         "name": "Trolls",
-        "scene": "Final group dance and reunion.",
+        "scene": "A final group dance and reunion.",
         "timestamp": "~01:25:00"
       }
     ]
@@ -41202,7 +41202,7 @@
       },
       {
         "name": "Wet Hot American Summer",
-        "scene": "End credits sing-along",
+        "scene": "End credits sing-along.",
         "timestamp": "~01:33:00"
       }
     ]
@@ -41299,7 +41299,7 @@
       },
       {
         "name": "Zoolander",
-        "scene": "Derek reflects on his modeling career.",
+        "scene": "Derek reflects on his career.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -41523,7 +41523,7 @@
       },
       {
         "name": "Training Day",
-        "scene": "Alonzo explains his twisted ethics.",
+        "scene": "Alonzo explains his twisted code.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -41605,12 +41605,12 @@
       },
       {
         "name": "The Power",
-        "scene": "Young girls discover their abilities.",
+        "scene": "Young girls begin to discover their powers.",
         "timestamp": "~00:30:00"
       },
       {
         "name": "The Vampire Diaries (TV)",
-        "scene": "Used in a key emotional scene involving Bonnie.",
+        "scene": "The music underscores a key emotional moment with Bonnie.",
         "timestamp": "~00:38:00"
       }
     ]
@@ -41636,7 +41636,7 @@
       },
       {
         "name": "The Unbearable Weight of Massive Talent",
-        "scene": "Nick recalls his peak career days.",
+        "scene": "Nick looks back on the peak of his career.",
         "timestamp": "~00:25:00"
       }
     ]
@@ -41690,7 +41690,7 @@
       },
       {
         "name": "To Wong Foo, Thanks for Everything! Julie Newmar",
-        "scene": "Final parade in drag outfits.",
+        "scene": "A final parade features the queens in full drag.",
         "timestamp": "~01:25:00"
       }
     ]
@@ -41980,12 +41980,12 @@
       },
       {
         "name": "Tropic Thunder",
-        "scene": "Explosives go off on set intro.",
+        "scene": "Explosives ignite during the opening set piece.",
         "timestamp": "~00:05:00"
       },
       {
         "name": "Varsity Blues",
-        "scene": "Pre-game locker room montage.",
+        "scene": "A pre-game locker room montage builds momentum.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -42166,7 +42166,7 @@
       },
       {
         "name": "Tootsie",
-        "scene": "Dorothy goes shopping in disguise.",
+        "scene": "Dorothy shops in disguise.",
         "timestamp": "~00:30:00"
       }
     ]
@@ -42292,7 +42292,7 @@
       },
       {
         "name": "Trainspotting",
-        "scene": "Renton reflects on his past during rehab",
+        "scene": "Renton reflects during rehab.",
         "timestamp": "~01:05:30"
       }
     ]
@@ -42379,7 +42379,7 @@
       },
       {
         "name": "The Post",
-        "scene": "Reporters react to SCOTUS ruling.",
+        "scene": "Reporters react to the Supreme Court ruling.",
         "timestamp": "~01:55:00"
       }
     ]
@@ -42444,17 +42444,17 @@
       },
       {
         "name": "The Night Before",
-        "scene": "Isaac reflects alone in the bathroom.",
+        "scene": "Isaac sits alone, lost in thought in the bathroom.",
         "timestamp": "~01:10:00"
       },
       {
         "name": "The Social Network (Legal dramatization)",
-        "scene": "Zuckerberg’s deposition.",
+        "scene": "Zuckerberg faces questioning in his deposition.",
         "timestamp": "~00:40:00"
       },
       {
         "name": "The Trust",
-        "scene": "David stares at the loot in disbelief.",
+        "scene": "David stares at the stolen cash in disbelief.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -42816,12 +42816,12 @@
       },
       {
         "name": "Trainspotting",
-        "scene": "Renton overdoses and is dragged through the carpet",
+        "scene": "Renton overdoses and sinks into the carpet.",
         "timestamp": "~00:39:20"
       },
       {
         "name": "Trainspotting / Used in legal metaphor scene",
-        "scene": "Overlaid with unexpected clarity.",
+        "scene": "Clarity unexpectedly sets in.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -42947,7 +42947,7 @@
       },
       {
         "name": "Wag the Dog",
-        "scene": "Spin doctors recall past political campaigns.",
+        "scene": "Spin doctors reflect on past campaigns.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -43117,7 +43117,7 @@
       },
       {
         "name": "Zombieland: Double Tap",
-        "scene": "Wichita fends off zombies alone after leaving group.",
+        "scene": "Wichita fights alone after leaving the group.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -43369,7 +43369,7 @@
       },
       {
         "name": "Vampire's Kiss",
-        "scene": "Peter hallucinates in his apartment.",
+        "scene": "Peter hallucinates alone in his apartment.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -43407,7 +43407,7 @@
       },
       {
         "name": "The Night Before",
-        "scene": "Ethan parties alone at karaoke.",
+        "scene": "Ethan drinks and sings alone at karaoke.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -43516,7 +43516,7 @@
       },
       {
         "name": "The Trust",
-        "scene": "David admires the vault room.",
+        "scene": "David takes in the vault room, awestruck.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -44126,7 +44126,7 @@
       },
       {
         "name": "Tower Heist",
-        "scene": "Heist begins during Thanksgiving parade.",
+        "scene": "The heist begins during the Thanksgiving parade.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -45428,7 +45428,7 @@
     "movies": [
       {
         "name": "The Missing",
-        "scene": "Lilly escapes her captors.",
+        "scene": "Lilly breaks free from her captors.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -45439,7 +45439,7 @@
     "movies": [
       {
         "name": "The Missing",
-        "scene": "Maggie mourns her daughter’s disappearance.",
+        "scene": "Maggie grieves the loss of her missing daughter.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -45450,12 +45450,12 @@
     "movies": [
       {
         "name": "The Money Pit",
-        "scene": "Tom tries to fix the stairs alone.",
+        "scene": "Tom attempts to repair the stairs on his own.",
         "timestamp": "~00:45:00"
       },
       {
         "name": "The People vs. Larry Flynt (Protest montage)",
-        "scene": "Marches for free speech.",
+        "scene": "Marches erupt in defense of free speech.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -45466,7 +45466,7 @@
     "movies": [
       {
         "name": "The Mule",
-        "scene": "Earl delivers packages unknowingly.",
+        "scene": "Earl delivers packages, unaware of what he’s carrying.",
         "timestamp": "~00:30:00"
       }
     ]
@@ -45477,7 +45477,7 @@
     "movies": [
       {
         "name": "The Night Before",
-        "scene": "The friends get high in the club.",
+        "scene": "The friends get high at the club.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -45488,7 +45488,7 @@
     "movies": [
       {
         "name": "The Night Before",
-        "scene": "Karaoke bar singalong.",
+        "scene": "A full karaoke bar erupts into a singalong.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -45499,7 +45499,7 @@
     "movies": [
       {
         "name": "The Night Before",
-        "scene": "Opening Christmas Eve montage.",
+        "scene": "An opening montage sets the scene on Christmas Eve.",
         "timestamp": "~00:05:00"
       }
     ]
@@ -45510,7 +45510,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Allie and Noah dance together in the nursing home",
+        "scene": "Allie and Noah share a quiet dance in the nursing home.",
         "timestamp": "~01:48:00"
       }
     ]
@@ -45521,7 +45521,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Allie walks up to Noah’s house for the first time",
+        "scene": "Allie approaches Noah’s house for the first time.",
         "timestamp": "~00:47:00"
       }
     ]
@@ -45532,7 +45532,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Allie and Noah reconnect over dinner",
+        "scene": "Over dinner, Allie and Noah reconnect.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -45543,7 +45543,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Older Allie briefly recognizes Noah",
+        "scene": "Older Allie briefly recognizes Noah.",
         "timestamp": "~01:50:00"
       }
     ]
@@ -45554,7 +45554,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Allie and Noah make love",
+        "scene": "Allie and Noah make love.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -45565,7 +45565,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Opening credits with shots of the lake and sunset",
+        "scene": "Opening credits unfold over the lake at sunset.",
         "timestamp": "~00:01:00"
       }
     ]
@@ -45576,7 +45576,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Noah writes letters after Allie leaves",
+        "scene": "After Allie leaves, Noah writes her letters.",
         "timestamp": "~00:43:00"
       }
     ]
@@ -45587,7 +45587,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Older Noah reads his final entry",
+        "scene": "Older Noah reads his final journal entry.",
         "timestamp": "~01:55:00"
       }
     ]
@@ -45598,7 +45598,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Montage of Noah restoring the house",
+        "scene": "A montage traces Noah restoring the house.",
         "timestamp": "~00:49:00"
       }
     ]
@@ -45609,7 +45609,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Noah and Allie row through the swan-filled lake",
+        "scene": "Noah and Allie row across a lake filled with swans.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -45620,7 +45620,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Played as Allie begins to remember",
+        "scene": "The theme plays as Allie begins to remember.",
         "timestamp": "~01:45:00"
       }
     ]
@@ -45631,7 +45631,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Older Noah begins reading to Allie",
+        "scene": "Older Noah starts reading to Allie.",
         "timestamp": "~00:02:00"
       }
     ]
@@ -45642,7 +45642,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Allie experiences a brief moment of lucidity",
+        "scene": "Allie experiences a fleeting moment of clarity.",
         "timestamp": "~01:52:00"
       }
     ]
@@ -45653,7 +45653,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Played in multiple emotional scenes throughout",
+        "scene": "The theme recurs across multiple emotional scenes.",
         "timestamp": "~Various"
       }
     ]
@@ -45664,7 +45664,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Noah begs Allie to stay",
+        "scene": "Noah pleads with Allie to stay.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -45675,7 +45675,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Allie and Noah dance in the nursing home.",
+        "scene": "Allie and Noah dance together in the nursing home.",
         "timestamp": "~01:45:00"
       }
     ]
@@ -45697,7 +45697,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Allie walks down the street with friends",
+        "scene": "Allie walks down the street with her friends.",
         "timestamp": "~00:13:20"
       }
     ]
@@ -45708,7 +45708,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Noah fixes up the house alone.",
+        "scene": "Noah works alone, fixing up the house.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -45719,7 +45719,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Allie and Noah at the carnival",
+        "scene": "Allie and Noah spend the day at the carnival.",
         "timestamp": "~00:09:30"
       }
     ]
@@ -45730,7 +45730,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Ballroom dance with Allie and Lon",
+        "scene": "Allie dances with Lon in the ballroom.",
         "timestamp": "~00:31:00"
       }
     ]
@@ -45741,7 +45741,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Noah and Allie dance in the street",
+        "scene": "Noah and Allie dance together in the street.",
         "timestamp": "~00:39:00"
       }
     ]
@@ -45752,7 +45752,7 @@
     "movies": [
       {
         "name": "The Notebook",
-        "scene": "Closing credits after final scene",
+        "scene": "Closing credits roll after the final scene.",
         "timestamp": "~01:58:00"
       }
     ]
@@ -45763,7 +45763,7 @@
     "movies": [
       {
         "name": "The Object of My Affection",
-        "scene": "Nina and George walk together in the park.",
+        "scene": "Nina and George walk side by side through the park.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -45774,7 +45774,7 @@
     "movies": [
       {
         "name": "The Object of My Affection",
-        "scene": "George and Nina share a bittersweet hug.",
+        "scene": "George and Nina share a bittersweet embrace.",
         "timestamp": "~01:40:00"
       }
     ]
@@ -45807,7 +45807,7 @@
     "movies": [
       {
         "name": "The Other Guys",
-        "scene": "Allen plays his college DJ track.",
+        "scene": "Allen plays a DJ track from his college days.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -45818,7 +45818,7 @@
     "movies": [
       {
         "name": "The Other Guys",
-        "scene": "Mocking hero montage.",
+        "scene": "A mocking hero montage plays.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -45829,7 +45829,7 @@
     "movies": [
       {
         "name": "The Painted Veil",
-        "scene": "Walter and Kitty reconcile emotionally.",
+        "scene": "Walter and Kitty reconcile on an emotional level.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -45840,7 +45840,7 @@
     "movies": [
       {
         "name": "The Painted Veil (end credits)",
-        "scene": "Closing moments after funeral.",
+        "scene": "Closing moments unfold after the funeral.",
         "timestamp": "~End Credits"
       }
     ]
@@ -45862,7 +45862,7 @@
     "movies": [
       {
         "name": "The Peanut Butter Falcon",
-        "scene": "Tyler helps Zak across the bay.",
+        "scene": "Tyler helps Zak cross the bay.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -45873,7 +45873,7 @@
     "movies": [
       {
         "name": "The Perfect Holiday",
-        "scene": "Ben makes a last-ditch effort to win Nancy back.",
+        "scene": "Ben makes a last-ditch attempt to win Nancy back.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -45884,7 +45884,7 @@
     "movies": [
       {
         "name": "The Perks of Being a Wallflower",
-        "scene": "Charlie writes a letter to his friend.",
+        "scene": "Charlie writes a letter to a close friend.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -45895,7 +45895,7 @@
     "movies": [
       {
         "name": "The Perks of Being a Wallflower",
-        "scene": "Charlie watches Sam at the dance.",
+        "scene": "Charlie watches Sam from across the dance floor.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -45917,7 +45917,7 @@
     "movies": [
       {
         "name": "The Perks of Being a Wallflower (2012)",
-        "scene": "Sam and Charlie dance in the tunnel.",
+        "scene": "Sam and Charlie dance together in the tunnel.",
         "timestamp": "~01:15:00"
       }
     ]
@@ -45928,7 +45928,7 @@
     "movies": [
       {
         "name": "The Place Beyond the Pines",
-        "scene": "Luke rides alone after the robbery.",
+        "scene": "Luke rides alone in the aftermath of the robbery.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -45950,7 +45950,7 @@
     "movies": [
       {
         "name": "The Polar Express",
-        "scene": "Children bond over hot chocolate.",
+        "scene": "The children bond over mugs of hot chocolate.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -45961,7 +45961,7 @@
     "movies": [
       {
         "name": "The Polar Express",
-        "scene": "The children gaze at Earth from the sleigh.",
+        "scene": "From the sleigh, the children stare down at Earth.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -45972,7 +45972,7 @@
     "movies": [
       {
         "name": "The Post",
-        "scene": "Pentagon Papers being passed hand-to-hand.",
+        "scene": "The Pentagon Papers are passed hand to hand.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -45983,7 +45983,7 @@
     "movies": [
       {
         "name": "The Prince of Egypt",
-        "scene": "Israelites cross the Red Sea.",
+        "scene": "The Israelites cross the Red Sea.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -45994,7 +45994,7 @@
     "movies": [
       {
         "name": "The Prince of Tides",
-        "scene": "Tom recalls his childhood during therapy.",
+        "scene": "During therapy, Tom reflects on his childhood.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -46005,7 +46005,7 @@
     "movies": [
       {
         "name": "The Princess and the Frog",
-        "scene": "Mama Odie advises Tiana and Naveen.",
+        "scene": "Mama Odie offers guidance to Tiana and Naveen.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -46016,7 +46016,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Mia confronts Lana in the hallway",
+        "scene": "Mia confronts Lana in the school hallway.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -46027,7 +46027,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Lana bullies Mia at school",
+        "scene": "Lana bullies Mia at school.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -46038,7 +46038,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Mia walks into the final ball.",
+        "scene": "Mia arrives at the final ball.",
         "timestamp": "~01:35:00"
       }
     ]
@@ -46049,7 +46049,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Mia reflects on her personal growth",
+        "scene": "Mia reflects on how far she’s come.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -46060,7 +46060,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Makeover montage",
+        "scene": "A makeover montage transforms Mia.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -46071,7 +46071,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Transition montage",
+        "scene": "A transition montage bridges her old and new life.",
         "timestamp": "~00:28:00"
       }
     ]
@@ -46082,7 +46082,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Mia wakes up on important day",
+        "scene": "Mia wakes up on the most important day of her life.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -46093,7 +46093,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Rain scene when Mia escapes in her Mustang",
+        "scene": "In the rain, Mia escapes in her Mustang.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -46104,7 +46104,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Mia reads her father’s letter",
+        "scene": "Mia reads the letter her father left behind.",
         "timestamp": "~01:15:00"
       }
     ]
@@ -46115,7 +46115,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Mia walks the school hallway post-makeover",
+        "scene": "Mia walks the school halls after her makeover.",
         "timestamp": "~00:38:00"
       }
     ]
@@ -46126,7 +46126,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Mia and her mom hang out at home",
+        "scene": "Mia and her mother spend time together at home.",
         "timestamp": "~00:15:00"
       }
     ]
@@ -46137,7 +46137,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Mia dances solo before the ball",
+        "scene": "Mia dances alone before the ball.",
         "timestamp": "~01:35:00"
       }
     ]
@@ -46148,7 +46148,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Opening credits, Mia rides her scooter to school",
+        "scene": "Opening credits roll as Mia scooters to school.",
         "timestamp": "~00:01:00"
       }
     ]
@@ -46159,7 +46159,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Dance with Michael",
+        "scene": "Mia shares a dance with Michael.",
         "timestamp": "~01:40:00"
       }
     ]
@@ -46170,7 +46170,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Beach party where Lana performs",
+        "scene": "At the beach party, Lana takes the stage.",
         "timestamp": "~00:47:00"
       }
     ]
@@ -46181,7 +46181,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "School scenes with background cheer",
+        "scene": "School scenes unfold with cheering in the background.",
         "timestamp": "~00:10:00"
       }
     ]
@@ -46192,7 +46192,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Final scene at the Genovian ball",
+        "scene": "The story culminates at the Genovian ball.",
         "timestamp": "~01:45:00"
       }
     ]
@@ -46203,7 +46203,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "School dance preparation montage",
+        "scene": "A montage shows preparations for the school dance.",
         "timestamp": "~00:42:00"
       }
     ]
@@ -46214,7 +46214,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Mia training montage",
+        "scene": "Mia undergoes royal training.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -46225,7 +46225,7 @@
     "movies": [
       {
         "name": "The Princess Diaries",
-        "scene": "Driving to Genovia ball preparation",
+        "scene": "Preparations begin for the drive to the Genovian ball.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -46236,7 +46236,7 @@
     "movies": [
       {
         "name": "The Pursuit of Happyness",
-        "scene": "Homeless shelter scene with group singing.",
+        "scene": "At a homeless shelter, the group sings together.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -46258,7 +46258,7 @@
     "movies": [
       {
         "name": "The Pursuit of Happyness",
-        "scene": "Chris walks home with his son after a long day.",
+        "scene": "After a long day, Chris walks home with his son.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -46269,7 +46269,7 @@
     "movies": [
       {
         "name": "The Pursuit of Happyness",
-        "scene": "Chris walks out with his job offer.",
+        "scene": "Chris steps outside with a new job offer.",
         "timestamp": "~01:50:00"
       }
     ]
@@ -46291,7 +46291,7 @@
     "movies": [
       {
         "name": "The Pursuit of Happyness (trailer)",
-        "scene": "Trailer montage of Chris’s setbacks and drive.",
+        "scene": "A trailer-style montage tracks Chris’s setbacks and determination.",
         "timestamp": "~Trailer"
       }
     ]
@@ -46703,7 +46703,7 @@
     "movies": [
       {
         "name": "The Secret of My Success",
-        "scene": "Brantley races through the boardroom in disguise.",
+        "scene": "Brantley sprints through the boardroom in disguise.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -46714,7 +46714,7 @@
     "movies": [
       {
         "name": "The Shape of Things",
-        "scene": "Adam reclaims control over his image.",
+        "scene": "Adam takes back control of his public image.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -46725,7 +46725,7 @@
     "movies": [
       {
         "name": "The Shipping News",
-        "scene": "Quoyle contemplates his past in snowy Newfoundland.",
+        "scene": "Quoyle reflects on his past amid the snowy expanse of Newfoundland.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -46736,7 +46736,7 @@
     "movies": [
       {
         "name": "The Siege",
-        "scene": "Denzel’s character confronts the general.",
+        "scene": "Denzel’s character confronts the general head-on.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -46747,7 +46747,7 @@
     "movies": [
       {
         "name": "The Skeleton Twins",
-        "scene": "Maggie and Milo lip-sync at the bowling alley.",
+        "scene": "Maggie and Milo lip-sync joyfully at the bowling alley.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -46758,7 +46758,7 @@
     "movies": [
       {
         "name": "The Skulls",
-        "scene": "Luke storms out of the society hall.",
+        "scene": "Luke storms out of the society hall in anger.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -46769,7 +46769,7 @@
     "movies": [
       {
         "name": "The Smurfs (2025)",
-        "scene": "Featured during final heroic celebration",
+        "scene": "The moment is featured during the final heroic celebration.",
         "timestamp": "~01:40:00"
       }
     ]
@@ -46780,7 +46780,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "Eduardo signs paperwork unknowingly",
+        "scene": "Eduardo unknowingly signs away his stake.",
         "timestamp": "~01:15:00"
       }
     ]
@@ -46791,7 +46791,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "Late night brainstorming session",
+        "scene": "A late-night brainstorming session stretches into morning.",
         "timestamp": "~00:28:00"
       }
     ]
@@ -46802,7 +46802,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "Harvard campus night montage",
+        "scene": "A nighttime montage sweeps across the Harvard campus.",
         "timestamp": "~00:10:00"
       }
     ]
@@ -46813,7 +46813,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "Final deposition scenes",
+        "scene": "The story culminates in the final deposition scenes.",
         "timestamp": "~01:50:00"
       }
     ]
@@ -46824,7 +46824,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "Mark expands the company without Eduardo",
+        "scene": "Mark pushes the company forward without Eduardo.",
         "timestamp": "~01:25:00"
       }
     ]
@@ -46835,7 +46835,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "Sean Parker's arrest",
+        "scene": "Sean Parker is arrested.",
         "timestamp": "~01:45:00"
       }
     ]
@@ -46846,7 +46846,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "New team forms with Sean Parker",
+        "scene": "A new team forms with Sean Parker onboard.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -46857,7 +46857,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "Opening scene with Mark walking back to his dorm",
+        "scene": "The film opens with Mark walking back to his dorm.",
         "timestamp": "~00:04:00"
       }
     ]
@@ -46868,7 +46868,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "Mark begins working on FaceMash",
+        "scene": "Mark begins building FaceMash.",
         "timestamp": "~00:07:00"
       }
     ]
@@ -46879,7 +46879,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "Winklevoss twins compete in rowing race",
+        "scene": "The Winklevoss twins race in a high-stakes rowing competition.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -46890,7 +46890,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "Winklevoss twins pitch their idea",
+        "scene": "The twins formally pitch their idea.",
         "timestamp": "~00:15:00"
       }
     ]
@@ -46901,7 +46901,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "Eduardo confronts Mark about dilution",
+        "scene": "Eduardo confronts Mark over the dilution of his shares.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -46912,7 +46912,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "Expansion to California",
+        "scene": "The company expands west to California.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -46923,7 +46923,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "Eduardo gets into Phoenix club",
+        "scene": "Eduardo gains entry to the Phoenix club.",
         "timestamp": "~00:22:00"
       }
     ]
@@ -46934,7 +46934,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "The coding and expansion montage",
+        "scene": "A rapid-fire montage captures coding and expansion.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -46945,7 +46945,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "Facebook starts gaining traction",
+        "scene": "Facebook begins to gain real traction.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -46956,7 +46956,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "Breakup email from Erica",
+        "scene": "Erica sends a breakup email.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -46967,7 +46967,7 @@
     "movies": [
       {
         "name": "The Social Network",
-        "scene": "Tensions rise between Mark and Eduardo",
+        "scene": "Tensions escalate between Mark and Eduardo.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -46989,7 +46989,7 @@
     "movies": [
       {
         "name": "The Space Between Us",
-        "scene": "Gardner sees the stars for the first time.",
+        "scene": "Gardner gazes up at the stars for the first time.",
         "timestamp": "~01:15:00"
       }
     ]
@@ -47000,7 +47000,7 @@
     "movies": [
       {
         "name": "The Spectacular Now",
-        "scene": "Sutter drinks alone late at night.",
+        "scene": "Sutter drinks alone late into the night.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -47011,7 +47011,7 @@
     "movies": [
       {
         "name": "The Spy Who Loved Me",
-        "scene": "Opening ski parachute escape.",
+        "scene": "The film opens with a daring ski-parachute escape.",
         "timestamp": "~00:05:00"
       }
     ]
@@ -47022,7 +47022,7 @@
     "movies": [
       {
         "name": "The Squid and the Whale",
-        "scene": "Walt rides his bike away from home.",
+        "scene": "Walt pedals away from home on his bike.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -47033,7 +47033,7 @@
     "movies": [
       {
         "name": "The Stand",
-        "scene": "Opening credits of viral outbreak aftermath.",
+        "scene": "Opening credits roll over the aftermath of a viral outbreak.",
         "timestamp": "~00:02:00"
       }
     ]
@@ -47044,7 +47044,7 @@
     "movies": [
       {
         "name": "The Station Agent",
-        "scene": "Fin waits at the depot while music plays from a passing car.",
+        "scene": "Fin waits at the depot as music drifts from a passing car.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -47055,7 +47055,7 @@
     "movies": [
       {
         "name": "The Super Mario Bros. Movie",
-        "scene": "Bowser sings about Princess Peach at his piano.",
+        "scene": "Bowser sings longingly about Princess Peach at his piano.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -47066,12 +47066,12 @@
     "movies": [
       {
         "name": "The Survivors",
-        "scene": "Donald preps for survival training.",
+        "scene": "Donald prepares for survival training.",
         "timestamp": "~00:50:00"
       },
       {
         "name": "Wilson",
-        "scene": "Wilson tries reconnecting with his daughter.",
+        "scene": "Wilson tries to reconnect with his daughter.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -47082,7 +47082,7 @@
     "movies": [
       {
         "name": "The Talented Mr. Ripley",
-        "scene": "Opening titles and Mediterranean montage.",
+        "scene": "Opening titles unfold over a Mediterranean montage.",
         "timestamp": "~00:01:00"
       }
     ]
@@ -47093,7 +47093,7 @@
     "movies": [
       {
         "name": "The Ten",
-        "scene": "Jeffrey rebels against the Commandments.",
+        "scene": "Jeffrey rebels against the strict Commandments.",
         "timestamp": "~00:30:00"
       }
     ]
@@ -47104,7 +47104,7 @@
     "movies": [
       {
         "name": "The Ten",
-        "scene": "Glenn steals a librarian's heart.",
+        "scene": "Glenn unexpectedly steals a librarian’s heart.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -47115,7 +47115,7 @@
     "movies": [
       {
         "name": "The Terminal",
-        "scene": "Viktor listens to music in the terminal.",
+        "scene": "Viktor lingers, listening to music in the terminal.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -47126,12 +47126,12 @@
     "movies": [
       {
         "name": "The Terminal",
-        "scene": "Viktor reflects on his father's jazz mission.",
+        "scene": "Viktor reflects on his father’s unfinished jazz mission.",
         "timestamp": "~01:30:00"
       },
       {
         "name": "The Woodsman",
-        "scene": "Walter walks alone past school.",
+        "scene": "Walter walks alone past the school.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -47142,7 +47142,7 @@
     "movies": [
       {
         "name": "The Thomas Crown Affair",
-        "scene": "Museum surveillance evasion.",
+        "scene": "A tense sequence unfolds as security is evaded inside the museum.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -47153,7 +47153,7 @@
     "movies": [
       {
         "name": "The Thomas Crown Affair",
-        "scene": "Museum theft with bowler hats.",
+        "scene": "The museum heist plays out with bowler hats in tow.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -47164,7 +47164,7 @@
     "movies": [
       {
         "name": "The Town",
-        "scene": "Doug’s crew prepares the Fenway heist.",
+        "scene": "Doug’s crew prepares for the Fenway job.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -47175,7 +47175,7 @@
     "movies": [
       {
         "name": "The Town",
-        "scene": "Doug walks Charlestown one last time.",
+        "scene": "Doug walks the streets of Charlestown one final time.",
         "timestamp": "~01:45:00"
       }
     ]
@@ -47186,7 +47186,7 @@
     "movies": [
       {
         "name": "The Town That Dreaded Sundown",
-        "scene": "Phantom killer taunts his next victim.",
+        "scene": "The Phantom Killer taunts his next victim.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -47197,7 +47197,7 @@
     "movies": [
       {
         "name": "The Trial of the Chicago 7",
-        "scene": "Tom Hayden reflects in the holding cell.",
+        "scene": "Tom Hayden reflects alone in a holding cell.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -47208,7 +47208,7 @@
     "movies": [
       {
         "name": "The Trial of the Chicago 7",
-        "scene": "The verdict is announced.",
+        "scene": "The verdict is finally announced.",
         "timestamp": "~01:50:00"
       }
     ]
@@ -47219,7 +47219,7 @@
     "movies": [
       {
         "name": "The Trial of the Chicago 7",
-        "scene": "Closing scene as verdict is read.",
+        "scene": "The film closes as the verdict is read aloud.",
         "timestamp": "~01:50:00"
       }
     ]
@@ -47230,7 +47230,7 @@
     "movies": [
       {
         "name": "The Trial of the Chicago 7 (Fan use)",
-        "scene": "Peaceful protest scenes.",
+        "scene": "Scenes of peaceful protest unfold.",
         "timestamp": "Fan edit"
       }
     ]
@@ -47252,7 +47252,7 @@
     "movies": [
       {
         "name": "The Unbearable Weight of Massive Talent",
-        "scene": "Nicolas celebrates with Javi.",
+        "scene": "Nicolas celebrates a hard-earned win with Javi.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -47274,7 +47274,7 @@
     "movies": [
       {
         "name": "The Vow",
-        "scene": "Leo watches Paige from a distance.",
+        "scene": "Leo watches Paige quietly from afar.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -47296,7 +47296,7 @@
     "movies": [
       {
         "name": "The Waterboy",
-        "scene": "Bobby and team head to Bourbon Street.",
+        "scene": "Bobby and the team head down Bourbon Street.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -47318,7 +47318,7 @@
     "movies": [
       {
         "name": "The Waterboy",
-        "scene": "Bobby gains confidence in class.",
+        "scene": "Bobby begins to find confidence in class.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -47340,7 +47340,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Bittersweet goodbye at Water Wizz",
+        "scene": "A bittersweet goodbye at Water Wizz.",
         "timestamp": "~01:28:00"
       }
     ]
@@ -47351,7 +47351,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Water park montage",
+        "scene": "A sun-soaked water park montage.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -47362,7 +47362,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Duncan helps out at the water park.",
+        "scene": "Duncan helps out around the water park.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -47373,7 +47373,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Betty flirts and dances",
+        "scene": "Betty flirts and dances.",
         "timestamp": "~00:38:00"
       }
     ]
@@ -47384,7 +47384,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Owen gives Duncan a pep talk",
+        "scene": "Owen gives Duncan a much-needed pep talk.",
         "timestamp": "~01:12:00"
       }
     ]
@@ -47395,7 +47395,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Duncan rides a bike alone to the beach.",
+        "scene": "Duncan bikes alone to the beach.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -47406,7 +47406,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Duncan rides his bike to the water park",
+        "scene": "Duncan rides his bike to Water Wizz.",
         "timestamp": "~00:18:00"
       }
     ]
@@ -47417,7 +47417,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Duncan confides in Owen",
+        "scene": "Duncan opens up to Owen.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -47428,7 +47428,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Conflict at the dinner party",
+        "scene": "Tension flares at the dinner party.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -47439,7 +47439,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Dance scene at the water park",
+        "scene": "A dance breaks out at the water park.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -47450,7 +47450,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Kids play at the water park",
+        "scene": "Kids splash and play all day.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -47461,7 +47461,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Nighttime porch reflection",
+        "scene": "Duncan reflects alone on the porch at night.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -47472,7 +47472,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Water park party scene",
+        "scene": "A water park party lights up the evening.",
         "timestamp": "~01:15:00"
       }
     ]
@@ -47483,7 +47483,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Duncan sneaks out to explore",
+        "scene": "Duncan sneaks out to explore on his own.",
         "timestamp": "~00:15:00"
       }
     ]
@@ -47494,7 +47494,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Closing scene as they drive away",
+        "scene": "The story closes as the family drives away.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -47505,7 +47505,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Duncan celebrates a small win at Water Wizz",
+        "scene": "Duncan celebrates a small but meaningful win at Water Wizz.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -47516,7 +47516,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Opening car ride",
+        "scene": "The film opens on a long car ride.",
         "timestamp": "~00:02:00"
       }
     ]
@@ -47527,7 +47527,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Duncan hears about his mom's boyfriend’s affair",
+        "scene": "Duncan learns about his mom’s boyfriend’s affair.",
         "timestamp": "~00:52:00"
       }
     ]
@@ -47538,7 +47538,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Duncan reflects at the beach house",
+        "scene": "Duncan reflects quietly at the beach house.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -47549,7 +47549,7 @@
     "movies": [
       {
         "name": "The Way Way Back",
-        "scene": "Duncan watches Susanna from afar",
+        "scene": "Duncan watches Susanna from a distance.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -47560,7 +47560,7 @@
     "movies": [
       {
         "name": "The Wedding Singer",
-        "scene": "Robbie sings on the airplane to Julia.",
+        "scene": "Robbie sings on a plane to Julia.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -47571,7 +47571,7 @@
     "movies": [
       {
         "name": "The Wedding Singer",
-        "scene": "Robbie sings to Julia at her engagement party.",
+        "scene": "Robbie performs for Julia at her engagement party.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -47582,7 +47582,7 @@
     "movies": [
       {
         "name": "The Wedding Singer",
-        "scene": "Drunken Robbie plays it at wedding.",
+        "scene": "Robbie drunkenly plays at the wedding.",
         "timestamp": "~00:30:00"
       }
     ]
@@ -47593,7 +47593,7 @@
     "movies": [
       {
         "name": "The Wedding Singer",
-        "scene": "Julia sings in her bedroom.",
+        "scene": "Julia sings alone in her bedroom.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -47615,7 +47615,7 @@
     "movies": [
       {
         "name": "The Wiz Live!",
-        "scene": "Dorothy and friends approach the Emerald City.",
+        "scene": "Dorothy and her friends approach the Emerald City.",
         "timestamp": "~01:40:00"
       }
     ]
@@ -47626,7 +47626,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Jordan driving his Ferrari",
+        "scene": "Jordan speeds through the city in his Ferrari.",
         "timestamp": "~00:03:00"
       }
     ]
@@ -47637,7 +47637,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Cocaine-fueled bender",
+        "scene": "A cocaine-fueled bender spirals out of control.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -47648,7 +47648,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Jordan buys a mansion",
+        "scene": "Jordan buys a lavish mansion.",
         "timestamp": "~00:38:00"
       }
     ]
@@ -47659,7 +47659,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Jordan hosts a raucous company party.",
+        "scene": "Jordan hosts a wild company party.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -47670,7 +47670,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Chest-beating sales training",
+        "scene": "Chest-beating sales training fires up the floor.",
         "timestamp": "~00:15:00"
       }
     ]
@@ -47681,7 +47681,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Jordan gets arrested",
+        "scene": "Jordan is arrested.",
         "timestamp": "~02:10:00"
       }
     ]
@@ -47692,12 +47692,12 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Brief reflective moment",
+        "scene": "A rare moment of reflection.",
         "timestamp": "~01:12:00"
       },
       {
         "name": "Whiplash",
-        "scene": "Andrew plays the drums during a particularly difficult moment",
+        "scene": "Andrew pounds the drums through pain.",
         "timestamp": "~00:47:40"
       }
     ]
@@ -47719,7 +47719,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Naomi and Jordan’s party",
+        "scene": "Naomi and Jordan throw another lavish party.",
         "timestamp": "~00:30:00"
       }
     ]
@@ -47730,7 +47730,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Jordan contemplates decisions",
+        "scene": "Jordan weighs his choices.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -47741,7 +47741,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Office chaos montage",
+        "scene": "A rapid-fire office chaos montage.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -47752,7 +47752,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Dancing at the party",
+        "scene": "Dancing overtakes the office.",
         "timestamp": "~00:42:00"
       }
     ]
@@ -47763,7 +47763,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Celebration at the office",
+        "scene": "Celebration consumes the floor.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -47774,7 +47774,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Sales motivation scene",
+        "scene": "A high-energy sales motivation scene.",
         "timestamp": "~00:14:00"
       }
     ]
@@ -47785,7 +47785,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Swiss bank introduction",
+        "scene": "The Swiss bank is introduced.",
         "timestamp": "~01:35:00"
       }
     ]
@@ -47796,7 +47796,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Jordan returns to his office high.",
+        "scene": "Jordan returns to the office high.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -47807,7 +47807,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Drug binge montage",
+        "scene": "A drug-fueled binge montage.",
         "timestamp": "~01:50:00"
       }
     ]
@@ -47818,7 +47818,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Jordan flaunts his wealth",
+        "scene": "Jordan flaunts his wealth.",
         "timestamp": "~01:40:00"
       }
     ]
@@ -47829,7 +47829,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Jordan meets Naomi",
+        "scene": "Jordan meets Naomi.",
         "timestamp": "~00:26:00"
       }
     ]
@@ -47840,7 +47840,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Naomi confronts Jordan",
+        "scene": "Naomi confronts Jordan.",
         "timestamp": "~02:00:00"
       }
     ]
@@ -47862,7 +47862,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Jordan dances with Naomi",
+        "scene": "Jordan dances with Naomi.",
         "timestamp": "~01:25:00"
       }
     ]
@@ -47873,7 +47873,7 @@
     "movies": [
       {
         "name": "The Wolf of Wall Street",
-        "scene": "Stratton Oakmont office scenes",
+        "scene": "Life inside the Stratton Oakmont offices.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -47884,7 +47884,7 @@
     "movies": [
       {
         "name": "The World Is Not Enough",
-        "scene": "Opening credits.",
+        "scene": "Opening credits roll.",
         "timestamp": "~00:03:00"
       }
     ]
@@ -47917,7 +47917,7 @@
     "movies": [
       {
         "name": "Thelma & Louise",
-        "scene": "Thelma drives through desert at dusk.",
+        "scene": "Thelma drives through the desert at dusk.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -47928,7 +47928,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Mary and Ted go on their first real date",
+        "scene": "Mary and Ted go on their first real date.",
         "timestamp": "~01:12:00"
       }
     ]
@@ -47939,7 +47939,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Mary gets ready in front of the mirror",
+        "scene": "Mary prepares herself in the mirror.",
         "timestamp": "~01:08:00"
       }
     ]
@@ -47950,7 +47950,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Ted rants about everything going wrong",
+        "scene": "Ted spirals, ranting about everything going wrong.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -47961,7 +47961,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Ted wanders alone in a daze",
+        "scene": "Ted wanders alone, lost in thought.",
         "timestamp": "~01:03:00"
       }
     ]
@@ -47972,7 +47972,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Mary relaxes on her porch",
+        "scene": "Mary unwinds quietly on her porch.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -47983,7 +47983,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Final reunion kiss between Mary and Ted",
+        "scene": "Mary and Ted share a final reunion kiss.",
         "timestamp": "~01:49:00"
       }
     ]
@@ -47994,7 +47994,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Mary and Ted finally connect",
+        "scene": "Mary and Ted finally reconnect.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -48005,7 +48005,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Ted reflects on losing Mary",
+        "scene": "Ted reflects on losing Mary.",
         "timestamp": "~00:12:00"
       }
     ]
@@ -48016,7 +48016,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Ted walks in on an awkward moment",
+        "scene": "Ted walks in on an awkward situation.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -48027,7 +48027,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Musical interlude between scenes",
+        "scene": "A musical interlude bridges scenes.",
         "timestamp": "~00:26:00"
       }
     ]
@@ -48038,7 +48038,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Musical commentary as Healy’s scheme is revealed",
+        "scene": "Musical commentary underscores the reveal of Healy’s scheme.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -48049,7 +48049,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Mary turns down Brett Favre",
+        "scene": "Mary turns down Brett Favre.",
         "timestamp": "~01:45:00"
       }
     ]
@@ -48060,7 +48060,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Reflective moment at Mary’s house",
+        "scene": "A reflective moment at Mary’s house.",
         "timestamp": "~01:36:00"
       }
     ]
@@ -48071,7 +48071,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Ted gets a second chance to go after Mary",
+        "scene": "Ted gets a second chance to pursue Mary.",
         "timestamp": "~00:38:00"
       }
     ]
@@ -48082,7 +48082,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Mary’s roommate Magda grooms her dog",
+        "scene": "Mary’s roommate Magda fusses over her dog.",
         "timestamp": "~01:14:00"
       }
     ]
@@ -48093,7 +48093,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Beachside picnic scene",
+        "scene": "A beachside picnic unfolds.",
         "timestamp": "~00:48:00"
       }
     ]
@@ -48104,7 +48104,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Montage of Ted researching Mary",
+        "scene": "A montage tracks Ted researching Mary.",
         "timestamp": "~00:22:00"
       }
     ]
@@ -48115,7 +48115,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Closing singalong with the cast",
+        "scene": "The cast joins in a closing singalong.",
         "timestamp": "~01:53:00"
       }
     ]
@@ -48126,7 +48126,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Ted sees Mary again for the first time in years",
+        "scene": "Ted sees Mary again for the first time in years.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -48137,7 +48137,7 @@
     "movies": [
       {
         "name": "There's Something About Mary",
-        "scene": "Ted drives to Miami",
+        "scene": "Ted drives to Miami.",
         "timestamp": "~00:31:00"
       }
     ]
@@ -48148,7 +48148,7 @@
     "movies": [
       {
         "name": "They Cloned Tyrone",
-        "scene": "Fontaine uncovers the lab secret.",
+        "scene": "Fontaine uncovers the lab’s hidden secret.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -48159,7 +48159,7 @@
     "movies": [
       {
         "name": "Think Like a Man",
-        "scene": "Dominic calls Lauren late at night.",
+        "scene": "Dominic makes a late-night call to Lauren.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -48170,7 +48170,7 @@
     "movies": [
       {
         "name": "Think Like a Man",
-        "scene": "Mya debates dating rules with friends.",
+        "scene": "Mya debates dating rules with her friends.",
         "timestamp": "~00:25:00"
       }
     ]
@@ -48181,7 +48181,7 @@
     "movies": [
       {
         "name": "Think Like a Man",
-        "scene": "Couple reflects on their fading connection.",
+        "scene": "A couple reflects on their fading relationship.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -48192,7 +48192,7 @@
     "movies": [
       {
         "name": "Think Like a Man Too",
-        "scene": "Guys arrive at the club in Vegas.",
+        "scene": "The guys arrive in Vegas ready for chaos.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -48203,7 +48203,7 @@
     "movies": [
       {
         "name": "Think Like a Man Too",
-        "scene": "The group hits the Vegas strip at night.",
+        "scene": "The group roams the Vegas Strip at night.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -48214,7 +48214,7 @@
     "movies": [
       {
         "name": "Thirteen",
-        "scene": "Tracy watches her mother through the bathroom mirror.",
+        "scene": "Tracy watches her mother through a bathroom mirror.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -48225,7 +48225,7 @@
     "movies": [
       {
         "name": "This Is 40",
-        "scene": "Pete and Debbie dance in the living room.",
+        "scene": "Pete and Debbie dance together in the living room.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -48252,7 +48252,7 @@
     "movies": [
       {
         "name": "This Is the End",
-        "scene": "Heaven sequence dance party finale.",
+        "scene": "A heaven-sequence dance party closes the film.",
         "timestamp": "~01:40:00"
       }
     ]
@@ -48263,7 +48263,7 @@
     "movies": [
       {
         "name": "This Is the End",
-        "scene": "James Franco’s house party.",
+        "scene": "A wild party unfolds at James Franco’s house.",
         "timestamp": "~00:10:00"
       }
     ]
@@ -48274,7 +48274,7 @@
     "movies": [
       {
         "name": "Three Billboards Outside Ebbing, Missouri",
-        "scene": "Mildred paints over her messages.",
+        "scene": "Mildred paints over her roadside messages.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -48285,7 +48285,7 @@
     "movies": [
       {
         "name": "Thumbsucker",
-        "scene": "Justin listens to music with his headphones on.",
+        "scene": "Justin listens to music through his headphones.",
         "timestamp": "~00:15:00"
       }
     ]
@@ -48296,7 +48296,7 @@
     "movies": [
       {
         "name": "Ticket to Paradise",
-        "scene": "Lily and Gede’s wedding reception.",
+        "scene": "Lily and Gede celebrate their wedding reception.",
         "timestamp": "~01:35:00"
       }
     ]
@@ -48329,7 +48329,7 @@
     "movies": [
       {
         "name": "Titanic",
-        "scene": "Jack and Rose embrace on the ship’s bow.",
+        "scene": "Jack and Rose embrace at the ship’s bow.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -48340,7 +48340,7 @@
     "movies": [
       {
         "name": "To All the Boys I’ve Loved Before",
-        "scene": "Peter makes his promposal.",
+        "scene": "Peter stages his promposal.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -48351,7 +48351,7 @@
     "movies": [
       {
         "name": "To Wong Foo (Vegas sequence)",
-        "scene": "Travolta cameo during drag ball montage.",
+        "scene": "John Travolta appears in a drag-ball montage.",
         "timestamp": "~Fan montage"
       }
     ]
@@ -48373,7 +48373,7 @@
     "movies": [
       {
         "name": "Tommy",
-        "scene": "Tommy is examined in a psychedelic sequence.",
+        "scene": "Tommy undergoes a psychedelic examination.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -48406,7 +48406,7 @@
     "movies": [
       {
         "name": "Tootsie",
-        "scene": "Montage of Dorothy’s growing fame.",
+        "scene": "A montage charts Dorothy’s rise to fame.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -48417,7 +48417,7 @@
     "movies": [
       {
         "name": "Top Five",
-        "scene": "DMX cameo in jail singing the song.",
+        "scene": "DMX appears in jail, singing.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -48428,7 +48428,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Love scene between Maverick and Charlie.",
+        "scene": "Maverick and Charlie share an intimate moment.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -48439,7 +48439,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Maverick leaves bar alone",
+        "scene": "Maverick leaves the bar alone.",
         "timestamp": "~00:30:00"
       }
     ]
@@ -48450,7 +48450,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Training flight scenes",
+        "scene": "Training flights take off.",
         "timestamp": "~00:18:00"
       }
     ]
@@ -48461,7 +48461,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Maverick rejoins squadron",
+        "scene": "Maverick rejoins the squadron.",
         "timestamp": "~01:34:00"
       }
     ]
@@ -48472,7 +48472,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Beachside flashback",
+        "scene": "A beachside flashback.",
         "timestamp": "~00:16:00"
       }
     ]
@@ -48483,7 +48483,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Background during bar scene",
+        "scene": "Music plays in the background of the bar scene.",
         "timestamp": "~00:27:00"
       }
     ]
@@ -48494,7 +48494,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "After Goose's funeral",
+        "scene": "After Goose’s funeral.",
         "timestamp": "~01:12:00"
       }
     ]
@@ -48505,7 +48505,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Closing credits",
+        "scene": "Closing credits roll.",
         "timestamp": "~01:45:00"
       }
     ]
@@ -48516,7 +48516,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Charlie recalls Maverick’s story",
+        "scene": "Charlie reflects on Maverick’s story.",
         "timestamp": "~01:17:00"
       }
     ]
@@ -48527,7 +48527,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Maverick and Charlie argue",
+        "scene": "Maverick and Charlie argue.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -48538,7 +48538,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Goose plays piano with son and wife",
+        "scene": "Goose plays piano with his family.",
         "timestamp": "~00:52:00"
       }
     ]
@@ -48549,7 +48549,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Maverick struggles with emotions",
+        "scene": "Maverick struggles with grief.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -48560,7 +48560,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Maverick riding motorcycle alone",
+        "scene": "Maverick rides his motorcycle alone.",
         "timestamp": "~01:15:00"
       }
     ]
@@ -48571,7 +48571,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "End reunion with Charlie",
+        "scene": "Maverick and Charlie reunite in the end.",
         "timestamp": "~01:42:00"
       }
     ]
@@ -48582,7 +48582,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Beach volleyball game",
+        "scene": "Beach volleyball with the pilots.",
         "timestamp": "~00:34:00"
       }
     ]
@@ -48593,7 +48593,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Dogfight training session",
+        "scene": "Dogfight training session.",
         "timestamp": "~00:38:00"
       }
     ]
@@ -48604,7 +48604,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Slow dance scene",
+        "scene": "A slow dance.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -48615,7 +48615,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "First day at Top Gun Academy",
+        "scene": "Maverick’s first day at Top Gun.",
         "timestamp": "~00:10:00"
       }
     ]
@@ -48626,7 +48626,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Bar scene background",
+        "scene": "Bar scene atmosphere.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -48637,7 +48637,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Reflecting after flying mishap",
+        "scene": "Reflection after a flying mishap.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -48648,7 +48648,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Maverick sits outside Top Gun building",
+        "scene": "Maverick sits outside the Top Gun building.",
         "timestamp": "~01:02:00"
       }
     ]
@@ -48659,7 +48659,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Reflective moment after Goose's death",
+        "scene": "A quiet moment after Goose’s death.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -48670,7 +48670,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Final training montage",
+        "scene": "Final training montage.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -48681,7 +48681,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Maverick reflecting on his father",
+        "scene": "Maverick reflects on his father.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -48692,7 +48692,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Romantic montage",
+        "scene": "Romantic montage.",
         "timestamp": "~00:56:00"
       }
     ]
@@ -48703,7 +48703,7 @@
     "movies": [
       {
         "name": "Top Gun",
-        "scene": "Maverick serenades Charlie",
+        "scene": "Maverick serenades Charlie.",
         "timestamp": "~00:22:00"
       }
     ]
@@ -48714,7 +48714,7 @@
     "movies": [
       {
         "name": "Top Gun: Maverick",
-        "scene": "Beach football game with the pilots.",
+        "scene": "Beach football with the pilots.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -48736,7 +48736,7 @@
     "movies": [
       {
         "name": "Tower Heist",
-        "scene": "Motivation montage for stealing back bonuses.",
+        "scene": "A motivation montage fuels the bonus heist.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -48747,7 +48747,7 @@
     "movies": [
       {
         "name": "Tower Heist",
-        "scene": "Team evades FBI with stolen car.",
+        "scene": "The crew evades the FBI in a stolen car.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -48758,7 +48758,7 @@
     "movies": [
       {
         "name": "Toy Story",
-        "scene": "Opens with montage of Woody and Andy.",
+        "scene": "The film opens with a montage of Woody and Andy.",
         "timestamp": "~00:02:00"
       }
     ]
@@ -48769,7 +48769,7 @@
     "movies": [
       {
         "name": "Toy Story 2",
-        "scene": "Jessie’s flashback of being abandoned.",
+        "scene": "Jessie relives being abandoned.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -48780,7 +48780,7 @@
     "movies": [
       {
         "name": "Toy Story 4",
-        "scene": "Quiet reflection on carnival midway",
+        "scene": "Quiet reflection on the carnival midway.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -48791,7 +48791,7 @@
     "movies": [
       {
         "name": "Toy Story 4",
-        "scene": "Woody and Bo drive through carnival chaos.",
+        "scene": "Woody and Bo race through carnival chaos.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -48802,7 +48802,7 @@
     "movies": [
       {
         "name": "Toy Story 4 (trailer)",
-        "scene": "Montage of Woody and Forky.",
+        "scene": "A montage of Woody and Forky.",
         "timestamp": "~Trailer"
       }
     ]
@@ -48813,7 +48813,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Jake drives alone after confrontation with Alonzo.",
+        "scene": "Jake drives alone after confronting Alonzo.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -48824,7 +48824,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Alonzo stops to talk to dealers on the corner",
+        "scene": "Alonzo stops to speak with corner dealers.",
         "timestamp": "~00:32:15"
       }
     ]
@@ -48835,7 +48835,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Party scene in the apartment complex",
+        "scene": "A party erupts in the apartment complex.",
         "timestamp": "~01:29:00"
       }
     ]
@@ -48846,7 +48846,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Jake walks alone after his turning point",
+        "scene": "Jake walks alone after his turning point.",
         "timestamp": "~01:26:45"
       }
     ]
@@ -48857,7 +48857,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Jake calls his girlfriend during a break",
+        "scene": "Jake calls his girlfriend on break.",
         "timestamp": "~00:56:35"
       }
     ]
@@ -48868,7 +48868,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Jake eats with Alonzo before the first patrol.",
+        "scene": "Jake eats with Alonzo before patrol.",
         "timestamp": "~00:15:00"
       }
     ]
@@ -48879,7 +48879,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Driving through South Central, Alonzo lectures Jake",
+        "scene": "Driving through South Central as Alonzo lectures.",
         "timestamp": "~00:41:05"
       }
     ]
@@ -48890,7 +48890,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Jake talks to residents in the neighborhood",
+        "scene": "Jake connects with neighborhood residents.",
         "timestamp": "~01:32:20"
       }
     ]
@@ -48901,7 +48901,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Driving through the neighborhood in Alonzo’s car",
+        "scene": "Cruising the streets in Alonzo’s car.",
         "timestamp": "~00:09:45"
       }
     ]
@@ -48912,7 +48912,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Montage of patrol and interactions",
+        "scene": "A montage of patrols and encounters.",
         "timestamp": "~00:36:10"
       }
     ]
@@ -48934,7 +48934,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Driving into gang territory",
+        "scene": "Driving into gang territory.",
         "timestamp": "~00:21:50"
       }
     ]
@@ -48945,7 +48945,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Briefly playing on a car radio during a romantic distraction",
+        "scene": "Music plays from a car during a romantic distraction.",
         "timestamp": "~00:49:40"
       }
     ]
@@ -48956,7 +48956,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Background at a party hosted by Alonzo",
+        "scene": "Background music at Alonzo’s party.",
         "timestamp": "~01:02:15"
       }
     ]
@@ -48967,7 +48967,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Quiet moment before the final confrontation",
+        "scene": "A quiet moment before the final showdown.",
         "timestamp": "~01:17:40"
       }
     ]
@@ -48978,7 +48978,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Jake is ambushed at Smiley’s house",
+        "scene": "Jake is ambushed at Smiley’s house.",
         "timestamp": "~01:35:10"
       }
     ]
@@ -48989,7 +48989,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Alonzo boasts about his power",
+        "scene": "Alonzo boasts about his power.",
         "timestamp": "~00:53:10"
       }
     ]
@@ -49000,7 +49000,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Playing in the car as Jake tries to process Alonzo’s methods",
+        "scene": "Music plays as Jake processes the truth.",
         "timestamp": "~00:26:30"
       }
     ]
@@ -49011,7 +49011,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "After a violent bust gone wrong",
+        "scene": "Aftermath of a violent bust.",
         "timestamp": "~00:45:30"
       }
     ]
@@ -49022,7 +49022,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Background music in a store Alonzo and Jake enter",
+        "scene": "Background music in a corner store.",
         "timestamp": "~00:14:20"
       }
     ]
@@ -49033,7 +49033,7 @@
     "movies": [
       {
         "name": "Training Day",
-        "scene": "Final confrontation and closing scenes",
+        "scene": "Final confrontation and closing scenes.",
         "timestamp": "~01:41:25"
       }
     ]
@@ -49044,7 +49044,7 @@
     "movies": [
       {
         "name": "Trainspotting",
-        "scene": "Post-party comedown montage",
+        "scene": "A post-party comedown montage.",
         "timestamp": "~00:36:40"
       }
     ]
@@ -49055,7 +49055,7 @@
     "movies": [
       {
         "name": "Trainspotting",
-        "scene": "Toilet dive sequence",
+        "scene": "The infamous toilet dive.",
         "timestamp": "~00:16:15"
       }
     ]
@@ -49066,7 +49066,7 @@
     "movies": [
       {
         "name": "Trainspotting",
-        "scene": "Hotel room scene post drug deal",
+        "scene": "A hotel room after a drug deal.",
         "timestamp": "~01:25:10"
       }
     ]
@@ -49077,7 +49077,7 @@
     "movies": [
       {
         "name": "Trainspotting",
-        "scene": "Renton detoxes in his childhood bedroom",
+        "scene": "Renton detoxes in his childhood bedroom.",
         "timestamp": "~01:02:40"
       }
     ]
@@ -49088,7 +49088,7 @@
     "movies": [
       {
         "name": "Trainspotting",
-        "scene": "Club scene featuring Spud on drugs",
+        "scene": "A club scene with Spud spiraling.",
         "timestamp": "~00:42:05"
       }
     ]
@@ -49099,7 +49099,7 @@
     "movies": [
       {
         "name": "Trainspotting",
-        "scene": "Begbie's bar fight rage moment",
+        "scene": "Begbie erupts in a bar fight.",
         "timestamp": "~01:17:20"
       }
     ]
@@ -49110,7 +49110,7 @@
     "movies": [
       {
         "name": "Trainspotting",
-        "scene": "Begbie smashes a glass in the club",
+        "scene": "Begbie smashes a glass in rage.",
         "timestamp": "~00:51:15"
       }
     ]
@@ -49121,7 +49121,7 @@
     "movies": [
       {
         "name": "Trainspotting",
-        "scene": "Opening chase sequence with Renton's monologue",
+        "scene": "The film opens with Renton’s chase and monologue.",
         "timestamp": "~00:01:10"
       }
     ]
@@ -49132,7 +49132,7 @@
     "movies": [
       {
         "name": "Trainspotting",
-        "scene": "Walking into the club after scoring heroin",
+        "scene": "Walking into the club after scoring heroin.",
         "timestamp": "~00:23:10"
       }
     ]
@@ -49143,7 +49143,7 @@
     "movies": [
       {
         "name": "Trainspotting",
-        "scene": "Diane sings in the kitchen",
+        "scene": "Diane sings in the kitchen.",
         "timestamp": "~00:34:20"
       }
     ]
@@ -49154,7 +49154,7 @@
     "movies": [
       {
         "name": "Trainspotting",
-        "scene": "Renton scores heroin again after a long break",
+        "scene": "Renton relapses after a long break.",
         "timestamp": "~00:56:30"
       }
     ]
@@ -49165,7 +49165,7 @@
     "movies": [
       {
         "name": "Trainspotting",
-        "scene": "Title sequence cut-in and station visit",
+        "scene": "Title sequence and station visit.",
         "timestamp": "~00:07:30"
       }
     ]
@@ -49176,7 +49176,7 @@
     "movies": [
       {
         "name": "Trainspotting",
-        "scene": "Renton moves into the grimy flat",
+        "scene": "Renton moves into the filthy flat.",
         "timestamp": "~00:45:10"
       }
     ]
@@ -49187,7 +49187,7 @@
     "movies": [
       {
         "name": "Trainspotting",
-        "scene": "Dance club scene when Renton meets Diane",
+        "scene": "Dance club where Renton meets Diane.",
         "timestamp": "~00:31:20"
       }
     ]
@@ -49198,7 +49198,7 @@
     "movies": [
       {
         "name": "Trainspotting",
-        "scene": "Renton injects heroin for the first time in flashback",
+        "scene": "Renton’s first heroin injection in flashback.",
         "timestamp": "~00:27:40"
       }
     ]
@@ -49220,7 +49220,7 @@
     "movies": [
       {
         "name": "Trainspotting",
-        "scene": "Closing scene as Renton walks away with the money",
+        "scene": "The film closes as Renton walks away with the money.",
         "timestamp": "~01:30:45"
       }
     ]
@@ -49231,7 +49231,7 @@
     "movies": [
       {
         "name": "Trainspotting",
-        "scene": "Renton reflects in the park after detox",
+        "scene": "Renton reflects in the park after detox.",
         "timestamp": "~01:10:10"
       }
     ]
@@ -49253,7 +49253,7 @@
     "movies": [
       {
         "name": "Transamerica",
-        "scene": "End credits after Bree’s journey",
+        "scene": "End credits roll after Bree’s journey.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -49264,7 +49264,7 @@
     "movies": [
       {
         "name": "Trapped in Paradise",
-        "scene": "The brothers argue in the bank.",
+        "scene": "The brothers argue inside the bank.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -49275,7 +49275,7 @@
     "movies": [
       {
         "name": "Triple X: State of the Union",
-        "scene": "Darius escapes under fire.",
+        "scene": "Darius escapes under heavy fire.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -49286,7 +49286,7 @@
     "movies": [
       {
         "name": "Tropic Thunder",
-        "scene": "Group walks slow-motion after surviving jungle.",
+        "scene": "The group walks in slow motion after surviving the jungle.",
         "timestamp": "~01:40:00"
       },
       {
@@ -49302,7 +49302,7 @@
     "movies": [
       {
         "name": "Tropic Thunder",
-        "scene": "Crew celebrates wrap with campfire drinks.",
+        "scene": "The crew celebrates wrap night around a campfire.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -49313,7 +49313,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Over flashback to wedding night",
+        "scene": "A flashback to the wedding night.",
         "timestamp": "~00:22:00"
       }
     ]
@@ -49324,7 +49324,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Post-fight comfort scene",
+        "scene": "Comfort after a brutal fight.",
         "timestamp": "~00:54:00"
       }
     ]
@@ -49335,7 +49335,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Clarence and Alabama drive away together",
+        "scene": "Clarence and Alabama drive off together.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -49346,7 +49346,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Clarence and Alabama talk about their future",
+        "scene": "Clarence and Alabama talk about their future.",
         "timestamp": "~00:33:00"
       }
     ]
@@ -49357,7 +49357,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Closing credits",
+        "scene": "Closing credits roll.",
         "timestamp": "~01:42:00"
       }
     ]
@@ -49368,7 +49368,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Moments before the final shootout",
+        "scene": "Moments before the final shootout.",
         "timestamp": "~01:25:00"
       }
     ]
@@ -49379,7 +49379,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Final shootout chaos",
+        "scene": "Chaos erupts in the final shootout.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -49390,7 +49390,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Final shootout sequence",
+        "scene": "The final shootout plays out.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -49401,7 +49401,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Opening credits and recurring throughout the film",
+        "scene": "Opening credits recur throughout the film.",
         "timestamp": "~00:01:00"
       }
     ]
@@ -49412,7 +49412,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Clarence, Alabama, and child on the beach",
+        "scene": "Clarence, Alabama, and their child on the beach.",
         "timestamp": "~01:43:00"
       }
     ]
@@ -49423,7 +49423,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Driving through L.A. at night",
+        "scene": "Driving through L.A. at night.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -49434,7 +49434,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Brief musical interlude as Alabama reflects",
+        "scene": "A brief musical interlude as Alabama reflects.",
         "timestamp": "~00:38:00"
       }
     ]
@@ -49445,7 +49445,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Clarence talks with his Elvis hallucination",
+        "scene": "Clarence talks to his Elvis hallucination.",
         "timestamp": "~00:28:00"
       }
     ]
@@ -49456,7 +49456,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Club scene where Clarence first meets Alabama",
+        "scene": "The club where Clarence first meets Alabama.",
         "timestamp": "~00:04:00"
       }
     ]
@@ -49467,7 +49467,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Drug deal tension builds in hotel room",
+        "scene": "Drug deal tension in a hotel room.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -49478,7 +49478,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Clarence and Alabama slow-dance in motel",
+        "scene": "Clarence and Alabama slow-dance in a motel.",
         "timestamp": "~00:44:00"
       }
     ]
@@ -49489,7 +49489,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Alabama patches Clarence up",
+        "scene": "Alabama patches Clarence up.",
         "timestamp": "~00:48:00"
       }
     ]
@@ -49500,7 +49500,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Clarence channels Elvis for courage",
+        "scene": "Clarence channels Elvis for courage.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -49511,7 +49511,7 @@
     "movies": [
       {
         "name": "True Romance",
-        "scene": "Clarence and Alabama escape",
+        "scene": "Clarence and Alabama escape.",
         "timestamp": "~01:38:00"
       }
     ]
@@ -49533,7 +49533,7 @@
     "movies": [
       {
         "name": "Turbo",
-        "scene": "Turbo gets cleaned up for the race.",
+        "scene": "Turbo gets cleaned up and ready.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -49544,7 +49544,7 @@
     "movies": [
       {
         "name": "Turbo",
-        "scene": "Whiplash makes his first entrance.",
+        "scene": "Whiplash makes his dramatic entrance.",
         "timestamp": "~00:18:00"
       }
     ]
@@ -49577,7 +49577,7 @@
     "movies": [
       {
         "name": "Turning Red",
-        "scene": "4*Town dances on stage.",
+        "scene": "4\\*Town dances onstage.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -49588,7 +49588,7 @@
     "movies": [
       {
         "name": "Twilight (fan edits)",
-        "scene": "Bella’s transformation sequences.",
+        "scene": "Bella’s transformation unfolds.",
         "timestamp": "Fan edit"
       }
     ]
@@ -49599,7 +49599,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Jo faces her grief about her father",
+        "scene": "Jo confronts grief over her father.",
         "timestamp": "~01:05:40"
       }
     ]
@@ -49610,7 +49610,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Closing credits after final tornado",
+        "scene": "Closing credits after the final tornado.",
         "timestamp": "~01:48:00"
       }
     ]
@@ -49621,7 +49621,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Team loads up and peels out to chase a tornado",
+        "scene": "The team loads up to chase the storm.",
         "timestamp": "~00:32:15"
       }
     ]
@@ -49632,7 +49632,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Chase fails and they regroup under pressure",
+        "scene": "The chase fails, forcing a regroup.",
         "timestamp": "~01:22:00"
       }
     ]
@@ -49643,7 +49643,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Melissa questions her relationship with Bill",
+        "scene": "Melissa questions her relationship with Bill.",
         "timestamp": "~00:47:45"
       }
     ]
@@ -49654,7 +49654,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Villain storm-chasing crew powers up their gear",
+        "scene": "The rival storm-chasing crew powers up.",
         "timestamp": "~00:59:30"
       }
     ]
@@ -49665,7 +49665,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Jo sits alone watching the skies",
+        "scene": "Jo sits alone, watching the skies.",
         "timestamp": "~00:12:30"
       }
     ]
@@ -49676,7 +49676,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Intercut during multiple early storm sequences",
+        "scene": "Intercut throughout early storm sequences.",
         "timestamp": "~00:10:00"
       }
     ]
@@ -49687,7 +49687,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Dusty jokes with the team at the diner",
+        "scene": "Dusty jokes with the team at the diner.",
         "timestamp": "~00:36:20"
       }
     ]
@@ -49698,7 +49698,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Final drive toward the F5",
+        "scene": "The final drive toward the F5.",
         "timestamp": "~01:34:30"
       }
     ]
@@ -49709,7 +49709,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Team preps equipment at the base",
+        "scene": "The team preps equipment at the base.",
         "timestamp": "~00:23:10"
       }
     ]
@@ -49720,7 +49720,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Drive montage through rural Oklahoma",
+        "scene": "A drive montage across rural Oklahoma.",
         "timestamp": "~00:14:40"
       }
     ]
@@ -49731,7 +49731,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Flashback scene of Jo’s childhood storm trauma",
+        "scene": "Flashback to Jo’s childhood storm trauma.",
         "timestamp": "~00:39:00"
       }
     ]
@@ -49742,7 +49742,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Jo and Bill talk during a calm break",
+        "scene": "Jo and Bill talk during a calm stretch.",
         "timestamp": "~00:45:25"
       }
     ]
@@ -49753,7 +49753,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Bill and Jo argue in the truck",
+        "scene": "Bill and Jo argue inside the truck.",
         "timestamp": "~00:28:20"
       }
     ]
@@ -49764,7 +49764,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Jo reflects on her past with Bill",
+        "scene": "Jo reflects on her history with Bill.",
         "timestamp": "~00:35:45"
       }
     ]
@@ -49775,7 +49775,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Final F5 tornado sequence",
+        "scene": "The final F5 tornado sequence.",
         "timestamp": "~01:42:00"
       }
     ]
@@ -49786,7 +49786,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Team eats together and discusses past failures",
+        "scene": "The team eats together, reflecting on past failures.",
         "timestamp": "~00:55:30"
       }
     ]
@@ -49797,7 +49797,7 @@
     "movies": [
       {
         "name": "Twister",
-        "scene": "Chasing an early tornado across the plains",
+        "scene": "Chasing an early tornado across the plains.",
         "timestamp": "~00:18:30"
       }
     ]
@@ -49808,7 +49808,7 @@
     "movies": [
       {
         "name": "Two Can Play That Game",
-        "scene": "Shante lays out her strategy for winning back Keith.",
+        "scene": "Shante lays out her plan to win Keith back.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -49819,7 +49819,7 @@
     "movies": [
       {
         "name": "Two of a Kind",
-        "scene": "Opening sequence.",
+        "scene": "The story opens with a defining sequence.",
         "timestamp": "~00:05:00"
       }
     ]
@@ -49830,7 +49830,7 @@
     "movies": [
       {
         "name": "Unfaithful",
-        "scene": "Connie rides the train after seeing Paul.",
+        "scene": "Connie rides the train, shaken after seeing Paul.",
         "timestamp": "~00:30:00"
       }
     ]
@@ -49852,7 +49852,7 @@
     "movies": [
       {
         "name": "Up in the Air",
-        "scene": "Ryan looks back at family photos.",
+        "scene": "Ryan reflects on old family photographs.",
         "timestamp": "~01:40:00"
       }
     ]
@@ -49863,7 +49863,7 @@
     "movies": [
       {
         "name": "Us",
-        "scene": "Multiple scenes including tethered reveal.",
+        "scene": "A series of scenes culminates in the tethered reveal.",
         "timestamp": "~00:30:00"
       }
     ]
@@ -49874,17 +49874,17 @@
     "movies": [
       {
         "name": "Us",
-        "scene": "Opening beach family fun flashback",
+        "scene": "A flashback opens on carefree family fun at the beach.",
         "timestamp": "~00:10:00"
       },
       {
         "name": "Vanilla Sky",
-        "scene": "Nightclub drug sequence with Tom Cruise",
+        "scene": "A nightclub drug sequence unfolds.",
         "timestamp": "~01:10:00"
       },
       {
         "name": "Vegas Vacation",
-        "scene": "Father arrives at resort",
+        "scene": "A father arrives at the resort.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -49895,7 +49895,7 @@
     "movies": [
       {
         "name": "Vampire's Kiss",
-        "scene": "Peter struts through NYC at night.",
+        "scene": "Peter struts through New York City at night.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -49917,7 +49917,7 @@
     "movies": [
       {
         "name": "Vanilla Sky",
-        "scene": "David walks through a surreal Times Square.",
+        "scene": "David drifts through a surreal Times Square.",
         "timestamp": "~00:15:00"
       }
     ]
@@ -49928,7 +49928,7 @@
     "movies": [
       {
         "name": "Velvet Goldmine",
-        "scene": "Brian Slade’s first show.",
+        "scene": "Brian Slade takes the stage for his first performance.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -49939,7 +49939,7 @@
     "movies": [
       {
         "name": "Vice",
-        "scene": "Montage of Cheney’s policy shifts.",
+        "scene": "A montage traces shifting political policies.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -49961,7 +49961,7 @@
     "movies": [
       {
         "name": "Waiting to Exhale",
-        "scene": "Savannah stares out her window reflecting on self-worth.",
+        "scene": "Savannah gazes out her window, questioning her worth.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -49972,7 +49972,7 @@
     "movies": [
       {
         "name": "Waiting...",
-        "scene": "Restaurant crew closes up for the night.",
+        "scene": "The restaurant crew closes up for the night.",
         "timestamp": "~01:25:00"
       }
     ]
@@ -49983,7 +49983,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Mid-career death rumor montage",
+        "scene": "A montage charts rumors of a mid-career death.",
         "timestamp": "~01:35:00"
       }
     ]
@@ -49994,7 +49994,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Post-falling out confrontation",
+        "scene": "A confrontation follows a bitter falling out.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -50005,7 +50005,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Dewey embraces soul/gospel phase",
+        "scene": "Dewey embraces a soul-and-gospel phase.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -50016,7 +50016,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "R&B bedroom crooner phase",
+        "scene": "Dewey reinvents himself as an R\\&B bedroom crooner.",
         "timestamp": "~01:03:00"
       }
     ]
@@ -50027,7 +50027,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Funeral/homecoming ballad",
+        "scene": "A funeral-turned-homecoming ballad.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -50038,7 +50038,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Wayward years montage",
+        "scene": "A montage of Dewey’s lost years.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -50049,7 +50049,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Flashback to draft era",
+        "scene": "Flashback to the draft-era breakthrough.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -50060,7 +50060,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Experimental psychedelic era",
+        "scene": "An experimental psychedelic phase.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -50071,7 +50071,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Dark childhood flashback",
+        "scene": "A dark childhood memory resurfaces.",
         "timestamp": "~00:10:00"
       }
     ]
@@ -50082,7 +50082,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Romantic slow-country phase",
+        "scene": "A romantic slow-country era.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -50093,7 +50093,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "60s folk protest performance",
+        "scene": "A 60s folk protest performance.",
         "timestamp": "~01:15:00"
       }
     ]
@@ -50104,7 +50104,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Credits parody of Dylan continuation",
+        "scene": "A parody credits sequence riffs on Dylan’s evolution.",
         "timestamp": "end credits"
       }
     ]
@@ -50115,7 +50115,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Psychedelic funk club phase",
+        "scene": "A psychedelic funk club era.",
         "timestamp": "~01:12:00"
       }
     ]
@@ -50126,7 +50126,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Chester’s prison performance",
+        "scene": "Chester performs from prison.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -50137,7 +50137,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Post-narcotic breakdown comedy",
+        "scene": "A comedic breakdown after narcotics.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -50148,7 +50148,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Father’s moment with new son",
+        "scene": "A father shares a moment with his newborn son.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -50159,7 +50159,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Romantic duet during TV show",
+        "scene": "A romantic duet on a TV stage.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -50170,7 +50170,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "1950s honky-tonk scene",
+        "scene": "A 1950s honky-tonk sequence.",
         "timestamp": "~00:38:00"
       }
     ]
@@ -50181,7 +50181,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Dylan-style confessional phase",
+        "scene": "A confessional Dylan-inspired phase.",
         "timestamp": "~01:25:00"
       }
     ]
@@ -50192,7 +50192,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "70s glam rock era vignette",
+        "scene": "A glam-rock vignette from the 70s.",
         "timestamp": "~00:15:00"
       }
     ]
@@ -50203,7 +50203,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Talent show breakthrough performance",
+        "scene": "A talent-show breakthrough.",
         "timestamp": "~00:05:00"
       }
     ]
@@ -50214,7 +50214,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Drunken honeymoon flashback",
+        "scene": "A drunken honeymoon flashback.",
         "timestamp": "~00:33:00"
       }
     ]
@@ -50225,7 +50225,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "60s social-awareness protest concert",
+        "scene": "A socially conscious 60s protest concert.",
         "timestamp": "~01:17:00"
       }
     ]
@@ -50236,7 +50236,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Dewey performs title track during mid-career spike montage",
+        "scene": "Dewey performs the title track during a career resurgence.",
         "timestamp": "~00:30:00"
       }
     ]
@@ -50247,7 +50247,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Wedding flashback moment",
+        "scene": "A wedding-day flashback.",
         "timestamp": "~00:28:00"
       }
     ]
@@ -50258,7 +50258,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Rehab remorse scene",
+        "scene": "A remorseful rehab moment.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -50269,7 +50269,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "70s disco takeover",
+        "scene": "A disco-era takeover.",
         "timestamp": "~00:25:00"
       }
     ]
@@ -50280,7 +50280,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Dance montage in romantic interlude",
+        "scene": "A romantic dance montage.",
         "timestamp": "~00:48:00"
       }
     ]
@@ -50291,7 +50291,7 @@
     "movies": [
       {
         "name": "Walk Hard: The Dewey Cox Story",
-        "scene": "Final reconciliation scene",
+        "scene": "The story ends in reconciliation.",
         "timestamp": "~01:26:00"
       }
     ]
@@ -50302,7 +50302,7 @@
     "movies": [
       {
         "name": "Walk the Line",
-        "scene": "Johnny Cash reminisces about his first heartbreak.",
+        "scene": "Johnny Cash reflects on his first heartbreak.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -50313,7 +50313,7 @@
     "movies": [
       {
         "name": "Walk the Line",
-        "scene": "Johnny finds his voice and confronts June.",
+        "scene": "Johnny confronts June and finds his voice.",
         "timestamp": "~01:15:00"
       }
     ]
@@ -50335,7 +50335,7 @@
     "movies": [
       {
         "name": "We Are the Best!",
-        "scene": "The girls first jam together in the basement.",
+        "scene": "The girls form their first band in a basement jam.",
         "timestamp": "~00:25:00"
       }
     ]
@@ -50346,7 +50346,7 @@
     "movies": [
       {
         "name": "We’re the Millers",
-        "scene": "Family grooves in the RV.",
+        "scene": "The family dances inside the RV.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -50357,7 +50357,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Multiple parties prepare for the rumble",
+        "scene": "Rival groups prepare for the rumble.",
         "timestamp": "~01:08:00"
       }
     ]
@@ -50368,7 +50368,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Jets and Sharks meet at the dance",
+        "scene": "Jets and Sharks collide at the dance.",
         "timestamp": "~00:21:00"
       }
     ]
@@ -50379,7 +50379,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Jets and Sharks fatal confrontation",
+        "scene": "A fatal confrontation erupts.",
         "timestamp": "~01:13:00"
       }
     ]
@@ -50390,7 +50390,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Tony’s death and aftermath",
+        "scene": "Tony’s death and its aftermath.",
         "timestamp": "~01:38:00"
       }
     ]
@@ -50401,7 +50401,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Tony and Maria’s secret meeting",
+        "scene": "Tony and Maria meet in secret.",
         "timestamp": "~00:36:00"
       }
     ]
@@ -50412,7 +50412,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Closing orchestration after fade to black",
+        "scene": "Music carries the story to black.",
         "timestamp": "~01:45:00"
       }
     ]
@@ -50423,7 +50423,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Maria walks with Tony’s body",
+        "scene": "Maria walks beside Tony’s body.",
         "timestamp": "~01:41:00"
       }
     ]
@@ -50434,7 +50434,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Jets harass Anita at Doc’s store",
+        "scene": "Anita is harassed at Doc’s store.",
         "timestamp": "~01:33:00"
       }
     ]
@@ -50445,7 +50445,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Opening street sequence introducing the Jets and Sharks",
+        "scene": "The film opens with rival gangs staking their territory.",
         "timestamp": "~00:01:00"
       }
     ]
@@ -50456,7 +50456,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Maria gets ready after falling in love",
+        "scene": "Maria prepares herself, newly in love.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -50467,7 +50467,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Balcony scene between Tony and Maria",
+        "scene": "The iconic balcony scene.",
         "timestamp": "~00:38:00"
       }
     ]
@@ -50478,7 +50478,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Tony and Maria dream of a peaceful life",
+        "scene": "Tony and Maria dream of peace.",
         "timestamp": "~01:18:00"
       }
     ]
@@ -50489,7 +50489,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Tony senses a big change coming",
+        "scene": "Tony senses change on the horizon.",
         "timestamp": "~00:14:00"
       }
     ]
@@ -50500,7 +50500,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Tony sings after meeting Maria",
+        "scene": "Tony sings after meeting Maria.",
         "timestamp": "~00:28:00"
       }
     ]
@@ -50511,7 +50511,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Tony and Maria imagine a wedding",
+        "scene": "Tony and Maria imagine marriage.",
         "timestamp": "~01:02:00"
       }
     ]
@@ -50522,7 +50522,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Anita confronts Maria about Tony",
+        "scene": "Anita confronts Maria over Tony.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -50533,7 +50533,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Sharks’ girlfriends debate life in the U.S.",
+        "scene": "The Sharks’ girlfriends debate life in America.",
         "timestamp": "~00:33:00"
       }
     ]
@@ -50544,7 +50544,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Jets talk about loyalty and identity",
+        "scene": "The Jets discuss loyalty and identity.",
         "timestamp": "~00:05:00"
       }
     ]
@@ -50555,7 +50555,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Jets mock authority and societal explanations",
+        "scene": "The Jets mock authority and society.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -50566,7 +50566,7 @@
     "movies": [
       {
         "name": "West Side Story",
-        "scene": "Jets calm themselves before showdown",
+        "scene": "The Jets steady themselves before the showdown.",
         "timestamp": "~01:24:00"
       }
     ]
@@ -50577,7 +50577,7 @@
     "movies": [
       {
         "name": "Wet Hot American Summer",
-        "scene": "Closing wrap-up scene",
+        "scene": "A final wrap-up scene.",
         "timestamp": "~01:32:00"
       }
     ]
@@ -50588,7 +50588,7 @@
     "movies": [
       {
         "name": "Wet Hot American Summer",
-        "scene": "Romantic subplot moment",
+        "scene": "A romantic subplot moment.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -50599,7 +50599,7 @@
     "movies": [
       {
         "name": "Wet Hot American Summer",
-        "scene": "Children’s activity montage",
+        "scene": "A children’s activity montage.",
         "timestamp": "~00:25:00"
       }
     ]
@@ -50610,7 +50610,7 @@
     "movies": [
       {
         "name": "Wet Hot American Summer",
-        "scene": "NASA satellite sequence",
+        "scene": "A NASA satellite sequence.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -50621,7 +50621,7 @@
     "movies": [
       {
         "name": "Wet Hot American Summer",
-        "scene": "J.J. and Susie connect",
+        "scene": "J.J. and Susie connect.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -50632,7 +50632,7 @@
     "movies": [
       {
         "name": "Wet Hot American Summer",
-        "scene": "Montage of camp activities",
+        "scene": "A montage of camp activities.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -50643,7 +50643,7 @@
     "movies": [
       {
         "name": "Wet Hot American Summer",
-        "scene": "Camp meeting announcement",
+        "scene": "A camp meeting announcement.",
         "timestamp": "~00:10:00"
       }
     ]
@@ -50654,7 +50654,7 @@
     "movies": [
       {
         "name": "Wet Hot American Summer",
-        "scene": "Opening credits as campers arrive",
+        "scene": "Opening credits as campers arrive.",
         "timestamp": "~00:01:00"
       }
     ]
@@ -50665,7 +50665,7 @@
     "movies": [
       {
         "name": "Wet Hot American Summer",
-        "scene": "Campers head to town",
+        "scene": "Campers head into town.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -50676,7 +50676,7 @@
     "movies": [
       {
         "name": "Wet Hot American Summer",
-        "scene": "Beth reflects alone",
+        "scene": "Beth reflects alone.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -50687,7 +50687,7 @@
     "movies": [
       {
         "name": "Wet Hot American Summer",
-        "scene": "Victor drives off to meet Abby",
+        "scene": "Victor drives off to meet Abby.",
         "timestamp": "~00:34:00"
       }
     ]
@@ -50698,7 +50698,7 @@
     "movies": [
       {
         "name": "Wet Hot American Summer",
-        "scene": "Camp showdown begins",
+        "scene": "The camp showdown begins.",
         "timestamp": "~01:25:00"
       }
     ]
@@ -50709,7 +50709,7 @@
     "movies": [
       {
         "name": "Wet Hot American Summer",
-        "scene": "Victor cries in the rain",
+        "scene": "Victor breaks down in the rain.",
         "timestamp": "~00:48:00"
       }
     ]
@@ -50720,7 +50720,7 @@
     "movies": [
       {
         "name": "Wet Hot American Summer",
-        "scene": "Flashback to first day of camp",
+        "scene": "Flashback to the first day of camp.",
         "timestamp": "~01:02:00"
       }
     ]
@@ -50731,7 +50731,7 @@
     "movies": [
       {
         "name": "Wet Hot American Summer",
-        "scene": "Love triangle standoff",
+        "scene": "A love triangle reaches a standoff.",
         "timestamp": "~00:38:00"
       }
     ]
@@ -50742,7 +50742,7 @@
     "movies": [
       {
         "name": "Wet Hot American Summer",
-        "scene": "Campers party at night",
+        "scene": "Campers party after dark.",
         "timestamp": "~00:58:00"
       }
     ]
@@ -50753,7 +50753,7 @@
     "movies": [
       {
         "name": "What a Girl Wants",
-        "scene": "Daphne runs through London to her dad.",
+        "scene": "Daphne runs through London toward her father.",
         "timestamp": "~01:25:00"
       }
     ]
@@ -50775,7 +50775,7 @@
     "movies": [
       {
         "name": "What's Going On: Marvin Gaye (documentary scene)",
-        "scene": "Focus on writing the track.",
+        "scene": "Focus shifts to writing the track.",
         "timestamp": "Various"
       }
     ]
@@ -50786,7 +50786,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "The band plays a classic swing tune during rehearsal",
+        "scene": "The band rehearses a classic swing tune.",
         "timestamp": "~00:22:00"
       }
     ]
@@ -50797,7 +50797,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "Andrew reflects on his music and future",
+        "scene": "Andrew questions his future in music.",
         "timestamp": "~01:05:30"
       }
     ]
@@ -50808,7 +50808,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "The band rehearses the song for the first time",
+        "scene": "The band rehearses the piece for the first time.",
         "timestamp": "~00:40:30"
       }
     ]
@@ -50819,7 +50819,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "The band prepares to perform a challenging piece",
+        "scene": "They prepare for a brutal performance.",
         "timestamp": "~01:02:00"
       }
     ]
@@ -50830,7 +50830,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "The final drum battle between Andrew and Fletcher",
+        "scene": "The final drum duel between Andrew and Fletcher.",
         "timestamp": "~01:45:00"
       }
     ]
@@ -50841,7 +50841,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "Fletcher criticizes Andrew’s performance and pushes him beyond his limits",
+        "scene": "Fletcher pushes Andrew past his breaking point.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -50852,7 +50852,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "Andrew plays in the band for the first time under Fletcher’s demanding direction",
+        "scene": "Andrew plays under Fletcher’s rule for the first time.",
         "timestamp": "~00:15:30"
       }
     ]
@@ -50863,7 +50863,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "Andrew plays a challenging piece with the band",
+        "scene": "Andrew tackles a brutally difficult piece.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -50874,7 +50874,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "Andrew plays at the school jazz band",
+        "scene": "Andrew performs with the school jazz band.",
         "timestamp": "~00:08:00"
       }
     ]
@@ -50885,7 +50885,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "Fletcher enters the practice room and sets the tone for the rehearsal",
+        "scene": "Fletcher storms into rehearsal and asserts control.",
         "timestamp": "~00:10:00"
       }
     ]
@@ -50896,7 +50896,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "Andrew’s breakdown after Fletcher’s critique",
+        "scene": "Andrew breaks down after harsh criticism.",
         "timestamp": "~01:15:10"
       }
     ]
@@ -50907,7 +50907,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "Andrew pushes himself further in the final showdown with Fletcher",
+        "scene": "Andrew pushes himself beyond limits in the finale.",
         "timestamp": "~01:40:20"
       }
     ]
@@ -50918,7 +50918,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "Andrew’s triumphant moment in the band",
+        "scene": "Andrew claims a triumphant moment.",
         "timestamp": "~01:10:30"
       }
     ]
@@ -50929,7 +50929,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "The jazz ensemble plays during practice",
+        "scene": "The jazz ensemble rehearses.",
         "timestamp": "~00:28:10"
       }
     ]
@@ -50940,7 +50940,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "Andrew plays an impossibly fast drum solo",
+        "scene": "Andrew unleashes an impossibly fast solo.",
         "timestamp": "~01:25:40"
       }
     ]
@@ -50951,7 +50951,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "The intimate moment between Andrew and his love interest",
+        "scene": "An intimate moment with Andrew’s love interest.",
         "timestamp": "~00:50:20"
       }
     ]
@@ -50962,7 +50962,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "Andrew practices drumming in the studio",
+        "scene": "Andrew practices alone in the studio.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -50973,7 +50973,7 @@
     "movies": [
       {
         "name": "Whiplash",
-        "scene": "The band rehearses under Fletcher’s scrutiny",
+        "scene": "Rehearsal continues under Fletcher’s glare.",
         "timestamp": "~00:30:20"
       }
     ]
@@ -50995,7 +50995,7 @@
     "movies": [
       {
         "name": "White Noise",
-        "scene": "College campus montage of chaos.",
+        "scene": "A college campus spirals into chaos.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -51006,7 +51006,7 @@
     "movies": [
       {
         "name": "White Squall",
-        "scene": "Chuck mourns the loss of his shipmates.",
+        "scene": "Chuck mourns fallen shipmates.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -51017,7 +51017,7 @@
     "movies": [
       {
         "name": "Who'll Stop the Rain",
-        "scene": "Opening credits with Vietnam-era imagery.",
+        "scene": "Opening credits unfold with Vietnam-era imagery.",
         "timestamp": "~00:01:00"
       }
     ]
@@ -51028,7 +51028,7 @@
     "movies": [
       {
         "name": "Wild",
-        "scene": "Cheryl hikes through the fog in silence.",
+        "scene": "Cheryl hikes silently through fog.",
         "timestamp": "~00:20:00"
       }
     ]
@@ -51039,7 +51039,7 @@
     "movies": [
       {
         "name": "Wild",
-        "scene": "Cheryl summits after emotional turmoil.",
+        "scene": "Cheryl reaches the summit after emotional struggle.",
         "timestamp": "~01:40:00"
       }
     ]
@@ -51050,7 +51050,7 @@
     "movies": [
       {
         "name": "Wild Wild West",
-        "scene": "Closing credits dance sequence.",
+        "scene": "Credits roll over a dance sequence.",
         "timestamp": "~01:40:00"
       }
     ]
@@ -51061,7 +51061,7 @@
     "movies": [
       {
         "name": "Willy Wonka & the Chocolate Factory",
-        "scene": "Willy welcomes children into the factory.",
+        "scene": "Willy welcomes children into his factory.",
         "timestamp": "~00:25:00"
       }
     ]
@@ -51072,7 +51072,7 @@
     "movies": [
       {
         "name": "Won't Back Down",
-        "scene": "Supportive montage for education reform",
+        "scene": "A supportive montage for education reform.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -51083,7 +51083,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "Introduction to Sugar Rush game world",
+        "scene": "The Sugar Rush game world is introduced.",
         "timestamp": "~00:28:00"
       }
     ]
@@ -51094,7 +51094,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "Game intro for Fix-It Felix",
+        "scene": "Fix-It Felix’s game intro.",
         "timestamp": "~00:05:00"
       }
     ]
@@ -51105,7 +51105,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "Opening arcade montage",
+        "scene": "An opening arcade montage.",
         "timestamp": "~00:02:00"
       }
     ]
@@ -51116,7 +51116,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "Final scenes and wrap-up",
+        "scene": "Final scenes and wrap-up.",
         "timestamp": "~01:30:00"
       }
     ]
@@ -51127,7 +51127,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "Climax battle at Sugar Rush",
+        "scene": "A climactic battle in Sugar Rush.",
         "timestamp": "~01:17:00"
       }
     ]
@@ -51138,7 +51138,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "First arrival at the hub",
+        "scene": "First arrival at the central hub.",
         "timestamp": "~00:12:00"
       }
     ]
@@ -51149,7 +51149,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "Felix and Calhoun escape the vines",
+        "scene": "Felix and Calhoun escape the vines.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -51160,7 +51160,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "Final race countdown",
+        "scene": "The final race countdown.",
         "timestamp": "~01:15:00"
       }
     ]
@@ -51171,7 +51171,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "Vanellope and Ralph build the kart",
+        "scene": "Vanellope and Ralph build the kart.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -51182,7 +51182,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "Ralph is celebrated at the end",
+        "scene": "Ralph is celebrated.",
         "timestamp": "~01:33:00"
       }
     ]
@@ -51193,7 +51193,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "Vanellope opens up to Ralph",
+        "scene": "Vanellope opens up to Ralph.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -51204,7 +51204,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "Backstory of Turbo's betrayal",
+        "scene": "Turbo’s betrayal is revealed.",
         "timestamp": "~00:48:00"
       }
     ]
@@ -51215,7 +51215,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "King Candy's transformation",
+        "scene": "King Candy transforms.",
         "timestamp": "~01:16:00"
       }
     ]
@@ -51226,7 +51226,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "She crosses the finish line",
+        "scene": "Vanellope crosses the finish line.",
         "timestamp": "~01:25:00"
       }
     ]
@@ -51237,7 +51237,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "Ralph sacrifices himself",
+        "scene": "Ralph sacrifices himself.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -51248,7 +51248,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "Closing credits",
+        "scene": "Closing credits roll.",
         "timestamp": "~01:35:00"
       }
     ]
@@ -51259,7 +51259,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "Vanellope races in Sugar Rush",
+        "scene": "Vanellope races through Sugar Rush.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -51270,7 +51270,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "Ralph walks alone after being rejected",
+        "scene": "Ralph walks alone after rejection.",
         "timestamp": "~00:40:00"
       }
     ]
@@ -51281,7 +51281,7 @@
     "movies": [
       {
         "name": "Wreck-It Ralph",
-        "scene": "Hero's Duty gameplay sequence",
+        "scene": "A Hero’s Duty gameplay sequence.",
         "timestamp": "~00:18:00"
       }
     ]
@@ -51292,19 +51292,8 @@
     "movies": [
       {
         "name": "Yes Man",
-        "scene": "Carl goes on an impulsive road trip.",
+        "scene": "Carl impulsively agrees to a road trip.",
         "timestamp": "~00:40:00"
-      }
-    ]
-  },
-  {
-    "title": "You May Be Right",
-    "artist": "Billy Joel",
-    "movies": [
-      {
-        "name": "Yes Man",
-        "scene": "Carl agrees to take a spontaneous road trip.",
-        "timestamp": "~00:45:00"
       }
     ]
   },
@@ -51314,7 +51303,7 @@
     "movies": [
       {
         "name": "Yes Man",
-        "scene": "Carl says yes to a spontaneous road trip.",
+        "scene": "Carl commits to the spontaneous journey.",
         "timestamp": "~00:45:00"
       }
     ]
@@ -51325,7 +51314,7 @@
     "movies": [
       {
         "name": "You Got Served",
-        "scene": "David and Liyah get close after rehearsal.",
+        "scene": "David and Liyah grow closer after rehearsal.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -51336,7 +51325,7 @@
     "movies": [
       {
         "name": "You Got Served",
-        "scene": "Dance battle warm-up montage.",
+        "scene": "A dance battle warm-up montage.",
         "timestamp": "~00:30:00"
       }
     ]
@@ -51347,7 +51336,7 @@
     "movies": [
       {
         "name": "You People",
-        "scene": "Ezra dances in his room.",
+        "scene": "Ezra dances alone in his room.",
         "timestamp": "~00:12:00"
       }
     ]
@@ -51358,7 +51347,7 @@
     "movies": [
       {
         "name": "Your Place or Mine",
-        "scene": "Debbie prepares for her trip to New York.",
+        "scene": "Debbie prepares for her New York trip.",
         "timestamp": "~00:18:00"
       }
     ]
@@ -51369,7 +51358,7 @@
     "movies": [
       {
         "name": "Youth",
-        "scene": "Mick rehearses with the pop star.",
+        "scene": "Mick rehearses with a pop star.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -51380,7 +51369,7 @@
     "movies": [
       {
         "name": "Youth in Revolt",
-        "scene": "Nick hatches his plan to win Sheeni.",
+        "scene": "Nick plots to win Sheeni back.",
         "timestamp": "~00:25:00"
       }
     ]
@@ -51391,7 +51380,7 @@
     "movies": [
       {
         "name": "Zack and Miri Make a Porno",
-        "scene": "Zack realizes feelings for Miri.",
+        "scene": "Zack realizes his feelings for Miri.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -51402,7 +51391,7 @@
     "movies": [
       {
         "name": "Zathura",
-        "scene": "Kids escape a meteor storm in their house.",
+        "scene": "Kids survive a meteor storm at home.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -51424,7 +51413,7 @@
     "movies": [
       {
         "name": "Zodiac",
-        "scene": "City streets bustle during a key investigation phase.",
+        "scene": "City streets bustle during a crucial investigation.",
         "timestamp": "~01:00:00"
       }
     ]
@@ -51446,7 +51435,7 @@
     "movies": [
       {
         "name": "Zombieland",
-        "scene": "Opening credits introduce each character.",
+        "scene": "Opening credits introduce the survivors.",
         "timestamp": "~00:03:00"
       }
     ]
@@ -51457,7 +51446,7 @@
     "movies": [
       {
         "name": "Zombieland",
-        "scene": "Road trip montage with Tallahassee leading the way.",
+        "scene": "A road trip montage with Tallahassee leading.",
         "timestamp": "~00:50:00"
       }
     ]
@@ -51479,7 +51468,7 @@
     "movies": [
       {
         "name": "Zoolander",
-        "scene": "Fashion montage with surreal poses.",
+        "scene": "Surreal fashion poses dominate the screen.",
         "timestamp": "~00:35:00"
       }
     ]
@@ -51495,7 +51484,7 @@
       },
       {
         "name": "Zoolander 2",
-        "scene": "Fashion montage during the Interpol briefing.",
+        "scene": "Fashion imagery punctuates the Interpol briefing.",
         "timestamp": "~00:25:00"
       }
     ]
@@ -51506,7 +51495,7 @@
     "movies": [
       {
         "name": "Zoolander",
-        "scene": "Opening montage of Derek’s magazine covers.",
+        "scene": "An opening montage of magazine covers.",
         "timestamp": "~00:02:00"
       }
     ]
@@ -51517,7 +51506,7 @@
     "movies": [
       {
         "name": "Zoolander 2",
-        "scene": "Fashion world rallies behind Derek and Hansel.",
+        "scene": "The fashion world rallies behind its stars.",
         "timestamp": "~01:15:00"
       }
     ]
@@ -51528,7 +51517,7 @@
     "movies": [
       {
         "name": "Zoolander 2",
-        "scene": "Derek and Hansel charge the villain lair.",
+        "scene": "Derek and Hansel storm the villain’s lair.",
         "timestamp": "~01:10:00"
       }
     ]
@@ -51539,7 +51528,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "Nick forgives Judy at the bridge",
+        "scene": "Nick forgives Judy on the bridge.",
         "timestamp": "~01:14:30"
       }
     ]
@@ -51550,7 +51539,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "Chase through the Rainforest District",
+        "scene": "A chase tears through the Rainforest District.",
         "timestamp": "~00:52:00"
       }
     ]
@@ -51561,7 +51550,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "Press conference with Judy's controversial speech",
+        "scene": "Judy delivers a controversial press speech.",
         "timestamp": "~01:05:00"
       }
     ]
@@ -51572,7 +51561,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "Judy recalls childhood prejudice",
+        "scene": "Judy recalls childhood prejudice.",
         "timestamp": "~00:28:45"
       }
     ]
@@ -51583,7 +51572,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "Judy resigns from the police force",
+        "scene": "Judy resigns from the force.",
         "timestamp": "~01:10:10"
       }
     ]
@@ -51594,7 +51583,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "Nick and Finnick con the elephant vendor",
+        "scene": "Nick and Finnick con an elephant vendor.",
         "timestamp": "~00:20:40"
       }
     ]
@@ -51605,7 +51594,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "Meeting the tiny crime boss at Tundratown",
+        "scene": "The tiny crime boss is revealed in Tundratown.",
         "timestamp": "~00:47:30"
       }
     ]
@@ -51616,7 +51605,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "Nick mocks Judy for being overly serious",
+        "scene": "Nick mocks Judy’s seriousness.",
         "timestamp": "~00:23:00"
       }
     ]
@@ -51627,7 +51616,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "Mayor Leodore Lionheart in his office",
+        "scene": "Mayor Lionheart in his office.",
         "timestamp": "~00:35:30"
       }
     ]
@@ -51638,7 +51627,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "Finding the missing mammals at Cliffside Asylum",
+        "scene": "Missing mammals are found at Cliffside Asylum.",
         "timestamp": "~01:03:40"
       }
     ]
@@ -51649,7 +51638,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "Nick talks about his childhood experience",
+        "scene": "Nick opens up about his past.",
         "timestamp": "~00:55:00"
       }
     ]
@@ -51660,7 +51649,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "Opening sequence and young Judy’s school play",
+        "scene": "Opening sequence with young Judy’s play.",
         "timestamp": "~00:01:30"
       }
     ]
@@ -51671,7 +51660,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "Judy and Nick visit the Mystic Springs Oasis",
+        "scene": "Judy and Nick visit Mystic Springs Oasis.",
         "timestamp": "~00:42:15"
       }
     ]
@@ -51682,7 +51671,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "Judy writing parking tickets on her first day",
+        "scene": "Judy writes parking tickets on her first day.",
         "timestamp": "~00:18:40"
       }
     ]
@@ -51693,7 +51682,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "DMV scene with Flash the sloth",
+        "scene": "The DMV scene with Flash.",
         "timestamp": "~00:25:00"
       }
     ]
@@ -51704,7 +51693,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "Bellwether reveals her true plan",
+        "scene": "Bellwether reveals her plan.",
         "timestamp": "~01:20:00"
       }
     ]
@@ -51715,7 +51704,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "Climactic chase scene with Bellwether",
+        "scene": "A climactic chase ensues.",
         "timestamp": "~01:24:00"
       }
     ]
@@ -51726,7 +51715,7 @@
     "movies": [
       {
         "name": "Zootopia",
-        "scene": "Plays during Judy's journey to the city.",
+        "scene": "The theme plays as Judy journeys to the city.",
         "timestamp": "~00:10:00"
       }
     ]
