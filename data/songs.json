@@ -1136,7 +1136,7 @@
     "movies": [
       {
         "name": "21 Jump Street",
-        "scene": "Explosive drug bust finale.",
+        "scene": "Explosive drug bust ending.",
         "timestamp": "~01:25:00"
       },
       {
@@ -1152,7 +1152,7 @@
     "movies": [
       {
         "name": "21 Jump Street",
-        "scene": "First song.",
+        "scene": "Movie's first song",
         "timestamp": "~00:01:00"
       }
     ]
@@ -2167,7 +2167,7 @@
     "movies": [
       {
         "name": "50 First Dates",
-        "scene": "The third song which can be heard in the credits.",
+        "scene": "Third song in the credits",
         "timestamp": "~01:34:00"
       }
     ]
@@ -2565,7 +2565,7 @@
     "movies": [
       {
         "name": "500 Days Of Summer",
-        "scene": "Day 8: Millie's engagement party begins.",
+        "scene": "Day 8: the beginning of Millie's engagement party.",
         "timestamp": "~00:10:00"
       }
     ]
@@ -3551,7 +3551,7 @@
     "movies": [
       {
         "name": "A Beautiful Mind",
-        "scene": "Nash begins to form his theories",
+        "scene": "Nash begins forming his theories",
         "timestamp": "~00:18:00"
       }
     ]
@@ -4143,7 +4143,7 @@
     "movies": [
       {
         "name": "A Knight's Tale",
-        "scene": "Training montage",
+        "scene": "Training montage scene",
         "timestamp": "~00:22:00"
       }
     ]
@@ -4508,7 +4508,7 @@
     "movies": [
       {
         "name": "A League of Their Own",
-        "scene": "Opening scene with older Dottie preparing to travel",
+        "scene": "Opening scene with older Dottie getting ready to travel",
         "timestamp": "~00:01:20"
       }
     ]
@@ -4848,7 +4848,7 @@
     "movies": [
       {
         "name": "A Night at the Roxbury",
-        "scene": "Steve and Doug reflect on their nightclub experiences",
+        "scene": "Steve and Doug reflect on their experiences in the nightclub",
         "timestamp": "~01:22:00"
       },
       {
@@ -5517,7 +5517,7 @@
     "movies": [
       {
         "name": "About Time",
-        "scene": "Tim and his father’s last walk on the beach",
+        "scene": "Tim and his father’s final walk on the beach",
         "timestamp": "~01:47:00"
       }
     ]
@@ -6459,6 +6459,11 @@
         "timestamp": "~00:45:00"
       },
       {
+        "name": "One Battle After Another",
+        "scene": "",
+        "timestamp": ""
+      },
+      {
         "name": "Rocky III",
         "scene": "Training montage for rematch with Clubber Lang.",
         "timestamp": "~00:45:00"
@@ -6673,6 +6678,11 @@
         "name": "Almost Famous",
         "scene": "Party moment",
         "timestamp": "~00:49:00"
+      },
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -7885,6 +7895,11 @@
         "name": "American Hustle",
         "scene": "Opening scene with Irving fixing his hair",
         "timestamp": "~00:02:10"
+      },
+      {
+        "name": "One Battle After Another",
+        "scene": "Willa does karate",
+        "timestamp": "~00:00:34"
       }
     ]
   },
@@ -29867,6 +29882,330 @@
     ]
   },
   {
+    "title": "Doctor's Orders",
+    "artist": "Carol Douglas",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Let's All Chant",
+    "artist": "Michael Zager Band",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "He's the Greatest Dancer",
+    "artist": "Sister Sledge",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Shame",
+    "artist": "Evelyn King",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Le Freak",
+    "artist": "Chic",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Everybody Dance",
+    "artist": "Chic",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "More, More, More (Pt. 1)",
+    "artist": "Andrea True Connection",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "The Love I Lost",
+    "artist": "Harold Melvin & The Blue Notes",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "The Tide Is High",
+    "artist": "Blondie",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "I'm Coming Out",
+    "artist": "Diana Ross",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Knock on Wood",
+    "artist": "Amii Stewart",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Got to Be Real",
+    "artist": "Cheryl Lynn",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      },
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "Pat and Tiffany’s dance rehearsal",
+        "timestamp": "~01:15:30"
+      }
+    ]
+  },
+  {
+    "title": "Hearts of Stone",
+    "artist": "Norma Jean",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Minstrel and Queen",
+    "artist": "The Techniques",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Opportunity",
+    "artist": "The Jewels",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Here I Am",
+    "artist": "The Chi-Lites",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Turn the Beat Around",
+    "artist": "Vicki Sue Robinson",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Rockin' Chair",
+    "artist": "Gwen McCrae",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Heart of Glass",
+    "artist": "Blondie",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "I Don't Know If It's Right",
+    "artist": "Evelyn King",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Got to Have Loving",
+    "artist": "Raymond Donnez",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "I Love the Nightlife (Disco 'Round)",
+    "artist": "Alicia Bridges",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Everybody Loves Somebody",
+    "artist": "Dean Martin",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Good Times",
+    "artist": "Chic",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Carry Go Bring Come",
+    "artist": "Justin Hines and The Dominoes",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Dolce Vita",
+    "artist": "Ryan Paris",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "I Love the Nightlife (Disco 'Round)",
+    "artist": "India and NuYorican Soul",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Love Train",
+    "artist": "The O'Jays",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Amazing Grace",
+    "artist": "Kate Beckinsale",
+    "movies": [
+      {
+        "name": "Last Days of Disco",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
     "title": "Die With A Smile",
     "artist": "Lady Gaga & Bruno Mars",
     "movies": [
@@ -34570,6 +34909,187 @@
         "name": "Once Upon a Time in Hollywood (Leo cameo edition)",
         "scene": "Rick drinks alone watching his scenes.",
         "timestamp": "~01:20:00"
+      }
+    ]
+  },
+  {
+    "title": "Bunker Bumper",
+    "artist": "Jon Brion",
+    "movies": [
+      {
+        "name": "One Battle After Another",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Mean Alley",
+    "artist": "Jonny Greenwood",
+    "movies": [
+      {
+        "name": "One Battle After Another",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Soldier Boy",
+    "artist": "The Shirelles",
+    "movies": [
+      {
+        "name": "One Battle After Another",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "What Are You Doing New Year's Eve",
+    "artist": "Ramsey Lewis Trio",
+    "movies": [
+      {
+        "name": "One Battle After Another",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Mo Bamba",
+    "artist": "Sheck Wes",
+    "movies": [
+      {
+        "name": "One Battle After Another",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Goosebumps",
+    "artist": "Travis Scott",
+    "movies": [
+      {
+        "name": "One Battle After Another",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Shut Up and Dance",
+    "artist": "Walk the Moon",
+    "movies": [
+      {
+        "name": "One Battle After Another",
+        "scene": "",
+        "timestamp": ""
+      },
+      {
+        "name": "Zombieland: Double Tap",
+        "scene": "End credits roll.",
+        "timestamp": "~01:35:00"
+      }
+    ]
+  },
+  {
+    "title": "Vengo a aclarar",
+    "artist": "El Fantasma",
+    "movies": [
+      {
+        "name": "One Battle After Another",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Hark! The Herald Angels Sing",
+    "artist": "Ella Fitzgerald",
+    "movies": [
+      {
+        "name": "One Battle After Another",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Ready or Not Here I Come",
+    "artist": "Jackson 5",
+    "movies": [
+      {
+        "name": "One Battle After Another",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Perfidia",
+    "artist": "Los Panchos",
+    "movies": [
+      {
+        "name": "One Battle After Another",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Global Bully",
+    "artist": "Jon Brion",
+    "movies": [
+      {
+        "name": "One Battle After Another",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "American Girl",
+    "artist": "Tom Petty & The Heartbreakers",
+    "movies": [
+      {
+        "name": "One Battle After Another",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "The Revolution Will Not Be Televised",
+    "artist": "Gil Scott-Heron",
+    "movies": [
+      {
+        "name": "One Battle After Another",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "God Rest Ye Merry Gentlemen",
+    "artist": "Ella Fitzgerald",
+    "movies": [
+      {
+        "name": "One Battle After Another",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Algeri: 1 Novembre 1954",
+    "artist": "Ennio Morricone",
+    "movies": [
+      {
+        "name": "One Battle After Another",
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -39286,17 +39806,6 @@
     ]
   },
   {
-    "title": "Got to Be Real",
-    "artist": "Cheryl Lynn",
-    "movies": [
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "Pat and Tiffany’s dance rehearsal",
-        "timestamp": "~01:15:30"
-      }
-    ]
-  },
-  {
     "title": "Chameleon",
     "artist": "Creedence Clearwater Revival",
     "movies": [
@@ -40038,8 +40547,8 @@
     "movies": [
       {
         "name": "Snatch",
-        "scene": "The opening scene where Turkish and Tommy discuss the diamond deal",
-        "timestamp": "~00:03:00"
+        "scene": "Discussions after Gorgeous George is knocked out",
+        "timestamp": "~00:20:00"
       }
     ]
   },
@@ -51448,17 +51957,6 @@
         "name": "Zombieland",
         "scene": "A road trip montage with Tallahassee leading.",
         "timestamp": "~00:50:00"
-      }
-    ]
-  },
-  {
-    "title": "Shut Up and Dance",
-    "artist": "WALK THE MOON",
-    "movies": [
-      {
-        "name": "Zombieland: Double Tap",
-        "scene": "End credits roll.",
-        "timestamp": "~01:35:00"
       }
     ]
   },
