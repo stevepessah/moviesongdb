@@ -10,6 +10,7 @@ import {
 } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 import songsData from '../data/songs.json';
+import Footer from '../components/Footer';
 
 export default function HomeScreen() {
   const navigation = useNavigation();
@@ -50,59 +51,62 @@ export default function HomeScreen() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.header}>🎬 Movie Song Database</Text>
-      <Text style={styles.subheader}>Search every movie song. Ever.</Text>
+      <View style={styles.content}>
+        <Text style={styles.header}>🎬 Movie Song Database</Text>
+        <Text style={styles.subheader}>Search every movie song. Ever.</Text>
 
-      <TouchableOpacity
-        style={styles.quizButton}
-        onPress={() => navigation.navigate('Quiz')}
-      >
-        <Text style={styles.quizButtonText}>🎮 Play Quiz</Text>
-      </TouchableOpacity>
-
-      <TextInput
-        style={styles.searchInput}
-        placeholder="Search by song or artist..."
-        placeholderTextColor="#888"
-        value={query}
-        onChangeText={handleSearch}
-        onSubmitEditing={() => handleSearch(query)}
-      />
-
-      {query.length > 0 && (
-        <TouchableOpacity style={styles.clearButton} onPress={() => {
-          setQuery('');
-          setFiltered([]);
-      }}>
-        <Text style={styles.clearButtonText}>Clear</Text>
+        <TouchableOpacity
+          style={styles.quizButton}
+          onPress={() => navigation.navigate('Quiz')}
+        >
+          <Text style={styles.quizButtonText}>🎮 Play Quiz</Text>
         </TouchableOpacity>
-      )}
 
-      {query.length > 0 && filtered.length === 0 && (
-        <View style={styles.noResultsContainer}>
-          <Text style={styles.noResultsText}>No results found</Text>
-        </View>
-      )}
-
-      {filtered.length > 0 && (
-        <FlatList
-          data={filtered}
-          keyExtractor={(item, index) => `${item.title}-${item.artist}-${index}`}
-          renderItem={({ item }) => (
-            <TouchableOpacity
-              style={styles.resultItem}
-              onPress={() => goToResults(item)}
-            >
-              <Text style={styles.resultText}>
-                {item.title} - {item.artist}
-              </Text>
-            </TouchableOpacity>
-          )}
-          style={styles.resultsList}
-          contentContainerStyle={styles.resultsListContent}
-          keyboardShouldPersistTaps="handled"
+        <TextInput
+          style={styles.searchInput}
+          placeholder="Search by song or artist..."
+          placeholderTextColor="#888"
+          value={query}
+          onChangeText={handleSearch}
+          onSubmitEditing={() => handleSearch(query)}
         />
-      )}
+
+        {query.length > 0 && (
+          <TouchableOpacity style={styles.clearButton} onPress={() => {
+            setQuery('');
+            setFiltered([]);
+        }}>
+          <Text style={styles.clearButtonText}>Clear</Text>
+          </TouchableOpacity>
+        )}
+
+        {query.length > 0 && filtered.length === 0 && (
+          <View style={styles.noResultsContainer}>
+            <Text style={styles.noResultsText}>No results found</Text>
+          </View>
+        )}
+
+        {filtered.length > 0 && (
+          <FlatList
+            data={filtered}
+            keyExtractor={(item, index) => `${item.title}-${item.artist}-${index}`}
+            renderItem={({ item }) => (
+              <TouchableOpacity
+                style={styles.resultItem}
+                onPress={() => goToResults(item)}
+              >
+                <Text style={styles.resultText}>
+                  {item.title} - {item.artist}
+                </Text>
+              </TouchableOpacity>
+            )}
+            style={styles.resultsList}
+            contentContainerStyle={styles.resultsListContent}
+            keyboardShouldPersistTaps="handled"
+          />
+        )}
+      </View>
+      <Footer />
     </View>
   );
 }
@@ -111,6 +115,9 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#121212',
+  },
+  content: {
+    flex: 1,
     paddingTop: 60,
     paddingHorizontal: 20,
   },

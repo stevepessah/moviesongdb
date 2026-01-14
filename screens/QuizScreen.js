@@ -6,8 +6,10 @@ import {
   StyleSheet,
   Platform,
   ActivityIndicator,
+  ScrollView,
 } from 'react-native';
 import songsData from '../data/songs.json';
+import Footer from '../components/Footer';
 
 export default function QuizScreen() {
   const [currentQuestion, setCurrentQuestion] = useState(null);
@@ -114,66 +116,69 @@ export default function QuizScreen() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.header}>🎮 Movie Song Quiz</Text>
-      <Text style={styles.subheader}>Guess which movie features this song!</Text>
+      <ScrollView style={styles.scrollView} contentContainerStyle={styles.scrollContent}>
+        <Text style={styles.header}>🎮 Movie Song Quiz</Text>
+        <Text style={styles.subheader}>Guess which movie features this song!</Text>
 
-      <View style={styles.scoreContainer}>
-        <Text style={styles.scoreText}>Score: {score} / {answeredCount}</Text>
-        <Text style={styles.questionNumber}>Question #{questionNumber}</Text>
-      </View>
-
-      <View style={styles.questionCard}>
-        <Text style={styles.songTitle}>{currentQuestion.song.title}</Text>
-        <Text style={styles.songArtist}>by {currentQuestion.song.artist}</Text>
-      </View>
-
-      <Text style={styles.promptText}>Which movie features this song?</Text>
-
-      <View style={styles.optionsContainer}>
-        {options.map((option, index) => {
-          let buttonStyle = styles.optionButton;
-          let textStyle = styles.optionText;
-
-          if (showResult) {
-            if (option === currentQuestion.correctAnswer) {
-              buttonStyle = [styles.optionButton, styles.correctAnswer];
-              textStyle = [styles.optionText, styles.correctText];
-            } else if (option === selectedAnswer && option !== currentQuestion.correctAnswer) {
-              buttonStyle = [styles.optionButton, styles.wrongAnswer];
-              textStyle = [styles.optionText, styles.wrongText];
-            } else {
-              buttonStyle = [styles.optionButton, styles.disabledButton];
-              textStyle = [styles.optionText, styles.disabledText];
-            }
-          }
-
-          return (
-            <TouchableOpacity
-              key={index}
-              style={buttonStyle}
-              onPress={() => handleAnswer(option)}
-              disabled={showResult}
-            >
-              <Text style={textStyle}>{option}</Text>
-            </TouchableOpacity>
-          );
-        })}
-      </View>
-
-      {showResult && (
-        <View style={styles.resultContainer}>
-          {selectedAnswer === currentQuestion.correctAnswer ? (
-            <Text style={styles.correctMessage}>✅ Correct! Well done!</Text>
-          ) : (
-            <Text style={styles.wrongMessage}>
-              ❌ Wrong! The correct answer is: {currentQuestion.correctAnswer}
-            </Text>
-          )}
-          <TouchableOpacity style={styles.nextButton} onPress={handleNext}>
-            <Text style={styles.nextButtonText}>Next Question →</Text>
-          </TouchableOpacity>
+        <View style={styles.scoreContainer}>
+          <Text style={styles.scoreText}>Score: {score} / {answeredCount}</Text>
+          <Text style={styles.questionNumber}>Question #{questionNumber}</Text>
         </View>
-      )}
+
+        <View style={styles.questionCard}>
+          <Text style={styles.songTitle}>{currentQuestion.song.title}</Text>
+          <Text style={styles.songArtist}>by {currentQuestion.song.artist}</Text>
+        </View>
+
+        <Text style={styles.promptText}>Which movie features this song?</Text>
+
+        <View style={styles.optionsContainer}>
+          {options.map((option, index) => {
+            let buttonStyle = styles.optionButton;
+            let textStyle = styles.optionText;
+
+            if (showResult) {
+              if (option === currentQuestion.correctAnswer) {
+                buttonStyle = [styles.optionButton, styles.correctAnswer];
+                textStyle = [styles.optionText, styles.correctText];
+              } else if (option === selectedAnswer && option !== currentQuestion.correctAnswer) {
+                buttonStyle = [styles.optionButton, styles.wrongAnswer];
+                textStyle = [styles.optionText, styles.wrongText];
+              } else {
+                buttonStyle = [styles.optionButton, styles.disabledButton];
+                textStyle = [styles.optionText, styles.disabledText];
+              }
+            }
+
+            return (
+              <TouchableOpacity
+                key={index}
+                style={buttonStyle}
+                onPress={() => handleAnswer(option)}
+                disabled={showResult}
+              >
+                <Text style={textStyle}>{option}</Text>
+              </TouchableOpacity>
+            );
+          })}
+        </View>
+
+        {showResult && (
+          <View style={styles.resultContainer}>
+            {selectedAnswer === currentQuestion.correctAnswer ? (
+              <Text style={styles.correctMessage}>✅ Correct! Well done!</Text>
+            ) : (
+              <Text style={styles.wrongMessage}>
+                ❌ Wrong! The correct answer is: {currentQuestion.correctAnswer}
+              </Text>
+            )}
+            <TouchableOpacity style={styles.nextButton} onPress={handleNext}>
+              <Text style={styles.nextButtonText}>Next Question →</Text>
+            </TouchableOpacity>
+          </View>
+        )}
+      </ScrollView>
+      <Footer />
     </View>
   );
 }
@@ -182,8 +187,14 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#121212',
+  },
+  scrollView: {
+    flex: 1,
+  },
+  scrollContent: {
     paddingTop: 60,
     paddingHorizontal: 20,
+    paddingBottom: 20,
   },
   header: {
     fontSize: 26,
