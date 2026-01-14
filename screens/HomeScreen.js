@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import {
   View,
   Text,
@@ -11,16 +11,25 @@ import {
 import { useNavigation } from '@react-navigation/native';
 import songsData from '../data/songs.json';
 import Footer from '../components/Footer';
+import { trackSearch, trackSearchResultClick } from '../utils/analytics';
 
 export default function HomeScreen() {
   const navigation = useNavigation();
   const [query, setQuery] = useState('');
   const [filtered, setFiltered] = useState([]);
+  const searchTimeoutRef = useRef(null);
 
   useEffect(() => {
     if (Platform.OS === 'web') {
       document.title = 'Movie Song Database';
     }
+    
+    // Cleanup timeout on unmount
+    return () => {
+      if (searchTimeoutRef.current) {
+        clearTimeout(searchTimeoutRef.current);
+      }
+    };
   }, []);
   
   const handleSearch = (text) => {
@@ -41,9 +50,23 @@ export default function HomeScreen() {
         normalizeText(item.artist).includes(normalizedQuery)
     );
     setFiltered(results);
+
+    // Track search queries in GA4 (debounced to avoid too many events)
+    if (text.trim().length > 0) {
+      // Clear existing timeout
+      if (searchTimeoutRef.current) {
+        clearTimeout(searchTimeoutRef.current);
+      }
+      // Track search after user stops typing for 500ms
+      searchTimeoutRef.current = setTimeout(() => {
+        trackSearch(text.trim());
+      }, 500);
+    }
   };
 
   const goToResults = (song) => {
+    // Track when user clicks on a search result
+    trackSearchResultClick(song.title, song.artist);
     navigation.navigate('Results', { song });
   };
 
@@ -91,6 +114,10 @@ export default function HomeScreen() {
           <TouchableOpacity style={styles.clearButton} onPress={() => {
             setQuery('');
             setFiltered([]);
+            // Clear any pending search tracking
+            if (searchTimeoutRef.current) {
+              clearTimeout(searchTimeoutRef.current);
+            }
         }}>
           <Text style={styles.clearButtonText}>Clear</Text>
           </TouchableOpacity>
