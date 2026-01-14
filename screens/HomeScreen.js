@@ -47,10 +47,26 @@ export default function HomeScreen() {
     navigation.navigate('Results', { song });
   };
 
+  const handleFeedback = () => {
+    const email = 'stevepessah@gmail.com';
+    const subject = encodeURIComponent('Feedback on Movie Song Database');
+    const gmailUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=${email}&su=${subject}`;
+    
+    if (Platform.OS === 'web') {
+      window.open(gmailUrl, '_blank');
+    }
+  };
+
   console.log('Query:', query);
 
   return (
     <View style={styles.container}>
+      <TouchableOpacity
+        style={styles.feedbackButton}
+        onPress={handleFeedback}
+      >
+        <Text style={styles.feedbackButtonText}>Feedback</Text>
+      </TouchableOpacity>
       <View style={styles.content}>
         <Text style={styles.header}>🎬 Movie Song Database</Text>
         <Text style={styles.subheader}>Search every movie song. Ever.</Text>
@@ -192,5 +208,21 @@ const styles = StyleSheet.create({
   noResultsText: {
     color: '#888',
     fontSize: 16,
+  },
+  feedbackButton: {
+    position: 'absolute',
+    top: Platform.OS === 'web' ? 20 : 40,
+    right: 20,
+    zIndex: 10,
+    paddingVertical: 8,
+    paddingHorizontal: 12,
+    backgroundColor: 'rgba(255, 255, 255, 0.1)',
+    borderRadius: 6,
+    borderWidth: 1,
+    borderColor: 'rgba(255, 255, 255, 0.2)',
+  },
+  feedbackButtonText: {
+    color: '#aaa',
+    fontSize: 14,
   },
 });
