@@ -720,9 +720,9 @@
         "timestamp": "~01:20:00"
       },
       {
-        "name": "Silver Linings Playbook",
-        "scene": "The characters reflect on their relationships and lives",
-        "timestamp": "~00:58:40"
+        "name": "The Big Chill",
+        "scene": "",
+        "timestamp": ""
       },
       {
         "name": "The Irishman",
@@ -2425,6 +2425,11 @@
         "name": "Shampoo",
         "scene": "Montage set in luxury homes",
         "timestamp": "~00:20:00"
+      },
+      {
+        "name": "The Big Chill",
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -2912,27 +2917,6 @@
     ]
   },
   {
-    "title": "Get Up",
-    "artist": "50 Cent",
-    "movies": [
-      {
-        "name": "8 Mile",
-        "scene": "Scene with Rabbit at diner",
-        "timestamp": "~00:12:00"
-      },
-      {
-        "name": "The Great Debaters",
-        "scene": "Samantha gets ready for the final round.",
-        "timestamp": "~01:15:00"
-      },
-      {
-        "name": "The Italian Job",
-        "scene": "The crew tests the Mini Coopers",
-        "timestamp": "~00:50:00"
-      }
-    ]
-  },
-  {
     "title": "Places to Go",
     "artist": "50 Cent",
     "movies": [
@@ -2965,13 +2949,24 @@
     ]
   },
   {
-    "title": "Patiently Waiting",
-    "artist": "50 Cent ft. Eminem",
+    "title": "I Love You",
+    "artist": "Barney",
     "movies": [
       {
         "name": "8 Mile",
-        "scene": "Jimmy prepares before his final rap battle.",
-        "timestamp": "~01:30:00"
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Insane In the Brain",
+    "artist": "Cypress Hill",
+    "movies": [
+      {
+        "name": "8 Mile",
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -2983,17 +2978,6 @@
         "name": "8 Mile",
         "scene": "Background track during battle prep",
         "timestamp": "~00:58:00"
-      }
-    ]
-  },
-  {
-    "title": "Pain",
-    "artist": "DMX",
-    "movies": [
-      {
-        "name": "8 Mile",
-        "scene": "Jimmy walks alone before the final rap battle.",
-        "timestamp": "~01:25:00"
       }
     ]
   },
@@ -3058,28 +3042,6 @@
         "name": "8 Mile",
         "scene": "Bus ride with headphones",
         "timestamp": "~01:16:00"
-      }
-    ]
-  },
-  {
-    "title": "Don’t Push Me",
-    "artist": "Eminem ft. Lloyd Banks & 50 Cent",
-    "movies": [
-      {
-        "name": "8 Mile",
-        "scene": "Background in rehearsal scenes",
-        "timestamp": "~01:14:00"
-      }
-    ]
-  },
-  {
-    "title": "Shake That",
-    "artist": "Eminem ft. Nate Dogg",
-    "movies": [
-      {
-        "name": "8 Mile",
-        "scene": "Strip club background music",
-        "timestamp": "~00:48:00"
       }
     ]
   },
@@ -3171,7 +3133,7 @@
   },
   {
     "title": "Gotta Get Mine (feat. 2Pac)",
-    "artist": "Mc Breed",
+    "artist": "M.C. Breed",
     "movies": [
       {
         "name": "8 Mile",
@@ -3327,17 +3289,6 @@
     ]
   },
   {
-    "title": "Boom",
-    "artist": "Royce Da 5’9”",
-    "movies": [
-      {
-        "name": "8 Mile",
-        "scene": "Used in lunch truck scene",
-        "timestamp": "~00:17:00"
-      }
-    ]
-  },
-  {
     "title": "Next Level",
     "artist": "Showbiz and AG",
     "movies": [
@@ -3411,17 +3362,6 @@
         "name": "8 Mile",
         "scene": "Rabbit practices with Cheddar just before the Rap Battle starts. They are laughed at by a guy coming into the room.",
         "timestamp": "~01:22:00"
-      }
-    ]
-  },
-  {
-    "title": "Keepin’ It Real",
-    "artist": "Xzibit",
-    "movies": [
-      {
-        "name": "8 Mile",
-        "scene": "Party sequence outside club",
-        "timestamp": "~00:35:00"
       }
     ]
   },
@@ -3734,6 +3674,11 @@
         "name": "Bridge of Spies",
         "scene": "Donovan contemplates Rudolf Abel’s fate.",
         "timestamp": "~00:45:00"
+      },
+      {
+        "name": "The Big Chill",
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -4850,11 +4795,6 @@
         "name": "A Night at the Roxbury",
         "scene": "Steve and Doug reflect on their experiences in the nightclub",
         "timestamp": "~01:22:00"
-      },
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Stephanie dresses for club",
-        "timestamp": "~00:29:00"
       }
     ]
   },
@@ -5046,11 +4986,6 @@
         "name": "Robots",
         "scene": "Robots dance after upgrade party.",
         "timestamp": "~00:50:00"
-      },
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Dance contest crowd warm-up",
-        "timestamp": "~01:27:00"
       },
       {
         "name": "Stuck on You",
@@ -8138,6 +8073,11 @@
         "name": "Raising Arizona",
         "scene": "H.I. dreams of apocalypse.",
         "timestamp": "~01:10:00"
+      },
+      {
+        "name": "The Big Chill",
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -8945,6 +8885,11 @@
         "name": "Heavyweights",
         "scene": "Secret candy stash reveal",
         "timestamp": "~00:30:00"
+      },
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -11176,11 +11121,6 @@
         "name": "Ready Player One",
         "scene": "Parzival and Art3mis in the OASIS arcade",
         "timestamp": "~00:45:50"
-      },
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "Tiffany and Pat share a quiet, romantic moment",
-        "timestamp": "~01:12:00"
       },
       {
         "name": "The Secret Life of Walter Mitty",
@@ -13725,11 +13665,6 @@
         "name": "Blue Chips",
         "scene": "Bell and ex-wife have a tense dinner",
         "timestamp": "~00:45:00"
-      },
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "The characters’ emotions come to a head at a family gathering",
-        "timestamp": "~01:10:10"
       }
     ]
   },
@@ -14068,11 +14003,6 @@
       {
         "name": "Blue Valentine",
         "scene": "Dean and Cindy part ways quietly.",
-        "timestamp": "~01:45:00"
-      },
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "Pat and Tiffany wait for the dance scores.",
         "timestamp": "~01:45:00"
       }
     ]
@@ -17531,11 +17461,6 @@
         "timestamp": "~01:50:00"
       },
       {
-        "name": "Silver Linings Playbook",
-        "scene": "Pat and Tiffany work together on their dance routine",
-        "timestamp": "~01:10:00"
-      },
-      {
         "name": "Thor: Ragnarok",
         "scene": "Hela unleashes her full power in Asgard.",
         "timestamp": "~00:35:00"
@@ -18141,35 +18066,57 @@
     ]
   },
   {
-    "title": "Masquerade",
-    "artist": "Backstreet Boys",
+    "title": "Every You Every Me",
+    "artist": "Placebo",
     "movies": [
       {
         "name": "Cruel Intentions",
-        "scene": "Kathryn adjusts her lipstick in the mirror.",
-        "timestamp": "~00:10:00"
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
   {
-    "title": "Colorblind",
-    "artist": "Counting Crows",
+    "title": "You Blew Me Off",
+    "artist": "Bobby Bare",
     "movies": [
       {
         "name": "Cruel Intentions",
-        "scene": "Annette and Sebastian’s bedroom scene.",
-        "timestamp": "~00:55:00"
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
   {
-    "title": "Round Here",
-    "artist": "Counting Crows",
+    "title": "Money Hungry",
+    "artist": "Marc Ferrari",
     "movies": [
       {
         "name": "Cruel Intentions",
-        "scene": "Kathryn walks through the mansion, reflecting alone.",
-        "timestamp": "~00:45:00"
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Coffee & TV",
+    "artist": "Blur",
+    "movies": [
+      {
+        "name": "Cruel Intentions",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Symphony #9 in D Minor, Op. 125, 'Choral'",
+    "artist": "Beethoven",
+    "movies": [
+      {
+        "name": "Cruel Intentions",
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -18195,12 +18142,137 @@
     ]
   },
   {
+    "title": "Ordinary Life",
+    "artist": "Kristen Barry",
+    "movies": [
+      {
+        "name": "Cruel Intentions",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Comin' Up From Behind",
+    "artist": "Marcy Playground",
+    "movies": [
+      {
+        "name": "Cruel Intentions",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Addictive",
+    "artist": "Faithless",
+    "movies": [
+      {
+        "name": "Cruel Intentions",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Trip on Love",
+    "artist": "Aba Moore",
+    "movies": [
+      {
+        "name": "Cruel Intentions",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Like the 40's",
+    "artist": "William Loose",
+    "movies": [
+      {
+        "name": "Cruel Intentions",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Brandenburg Concerto #4 in G Major",
+    "artist": "Johann Sebastian Bach",
+    "movies": [
+      {
+        "name": "Cruel Intentions",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Bedroom Dancing",
+    "artist": "Day One",
+    "movies": [
+      {
+        "name": "Cruel Intentions",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Praise You",
+    "artist": "Fatboy Slim",
+    "movies": [
+      {
+        "name": "Cruel Intentions",
+        "scene": "",
+        "timestamp": ""
+      },
+      {
+        "name": "Cruel Intentions (trailer)",
+        "scene": "Stylized shots of rebellion.",
+        "timestamp": "Trailer"
+      },
+      {
+        "name": "Greenberg",
+        "scene": "Roger sends a heartfelt email to Florence.",
+        "timestamp": "~01:20:00"
+      },
+      {
+        "name": "Sex and Other Drugs",
+        "scene": "Party at Jamie’s office",
+        "timestamp": "~00:45:00"
+      }
+    ]
+  },
+  {
+    "title": "This Love",
+    "artist": "Craig Armstrong",
+    "movies": [
+      {
+        "name": "Cruel Intentions",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Colorblind",
+    "artist": "Counting Crows",
+    "movies": [
+      {
+        "name": "Cruel Intentions",
+        "scene": "Annette and Sebastian’s bedroom scene.",
+        "timestamp": "~00:55:00"
+      }
+    ]
+  },
+  {
     "title": "Bittersweet Symphony",
     "artist": "The Verve",
     "movies": [
       {
         "name": "Cruel Intentions",
-        "scene": "Sebastian’s funeral montage.",
+        "scene": "Sebastian’s funeral.",
         "timestamp": "~01:35:00"
       },
       {
@@ -18246,23 +18318,24 @@
     ]
   },
   {
-    "title": "Praise You",
-    "artist": "Fatboy Slim",
+    "title": "You Could Make a Killing",
+    "artist": "Aimee Mann",
     "movies": [
       {
-        "name": "Cruel Intentions (trailer)",
-        "scene": "Stylized shots of rebellion.",
-        "timestamp": "Trailer"
-      },
+        "name": "Cruel Intentions",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Secretly",
+    "artist": "Skunk Anansie",
+    "movies": [
       {
-        "name": "Greenberg",
-        "scene": "Roger sends a heartfelt email to Florence.",
-        "timestamp": "~01:20:00"
-      },
-      {
-        "name": "Sex and Other Drugs",
-        "scene": "Party at Jamie’s office",
-        "timestamp": "~00:45:00"
+        "name": "Cruel Intentions",
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -19047,11 +19120,6 @@
         "name": "Rush",
         "scene": "James Hunt prepares for a race",
         "timestamp": "~00:12:20"
-      },
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "Tiffany confronts Pat at a family event",
-        "timestamp": "~00:40:10"
       }
     ]
   },
@@ -20619,6 +20687,11 @@
         "name": "Reality Bites",
         "scene": "Michael tries to impress Lelaina at work",
         "timestamp": "~00:32:15"
+      },
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -22866,6 +22939,11 @@
         "name": "Forrest Gump",
         "scene": "Forrest celebrates football win",
         "timestamp": "~00:30:00"
+      },
+      {
+        "name": "The Big Chill",
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -26176,24 +26254,513 @@
     ]
   },
   {
-    "title": "That's What She Said",
-    "artist": "Backstreet Boys",
+    "title": "You're Gonna Miss Me",
+    "artist": "13th Floor Elevators",
     "movies": [
       {
         "name": "High Fidelity",
-        "scene": "Rob composes his final mixtape.",
-        "timestamp": "~01:35:00"
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
   {
-    "title": "Success Story",
-    "artist": "The Who",
+    "title": "Title of Song",
+    "artist": "Lovescandal",
     "movies": [
       {
         "name": "High Fidelity",
-        "scene": "Rob organizes records by personal memory.",
-        "timestamp": "~00:30:00"
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Crocodile Rock",
+    "artist": "Elton John",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Crimson and Clover",
+    "artist": "Joan Jett & The Blackhearts",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Seymour Stein",
+    "artist": "Belle & Sebastian",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Baby Got Going",
+    "artist": "Liz Phair",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Little Did I Know",
+    "artist": "Brother JT 3",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "I'm Wrong About Everything",
+    "artist": "John Wesley Harding",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "I Can't Stand The Rain",
+    "artist": "Ann Peebles",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "The River",
+    "artist": "Bruce Springsteen",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      },
+      {
+        "name": "Into the Wild",
+        "scene": "Chris walks along the riverbank.",
+        "timestamp": "~00:45:00"
+      }
+    ]
+  },
+  {
+    "title": "Baby, I Love Your Way",
+    "artist": "Peter Frampton",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Jesus Wants Me for a Sunbeam",
+    "artist": "The Vaselines",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Cold Blooded Old Times",
+    "artist": "Bill Callahan",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "On Hold",
+    "artist": "Edith Frost",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Hyena 1",
+    "artist": "Goldie",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "I'm Gonna Love You Just A Little More, Babe",
+    "artist": "Barry White",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Always See Your Face",
+    "artist": "Love",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Soaring and Boring",
+    "artist": "Liam Hayes",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Leave Home",
+    "artist": "The Chemical Brothers",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Four to the Floor",
+    "artist": "John Etkin-Bell",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Loopfest",
+    "artist": "Toby Bricheno",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Who Loves The Sun",
+    "artist": "The Velvet Underground",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Robbin's Nest",
+    "artist": "Illinois Jacquet",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Rock Steady",
+    "artist": "Aretha Franklin",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Suspect Device",
+    "artist": "Stiff Little Fingers",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Dry The Rain",
+    "artist": "The Beta Band",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "We Are The Champions",
+    "artist": "Queen",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "I'm Glad You're Mine",
+    "artist": "Al Green",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Your Friend and Mine",
+    "artist": "Love",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Shipbuilding",
+    "artist": "Elvis Costello and The Attractions",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Tonight I'll Be Staying Here With You",
+    "artist": "Bob Dylan",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Get It Together",
+    "artist": "Grand Funk Railroad",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Fallen For You",
+    "artist": "Sheila Nicholls",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Oh! Sweet Nuthin'",
+    "artist": "The Velvet Underground",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "This India",
+    "artist": "Harbhajhn Singh",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Tread Water",
+    "artist": "De La Soul",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "The Moonbeam Song",
+    "artist": "Harry Nilsson",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Juice (Know the Ledge)",
+    "artist": "Eric B, and Rakim",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Doing It Anyway",
+    "artist": "Apartment 26",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "What's On Your Mind",
+    "artist": "Eric B. and Rakim",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Good and Strong",
+    "artist": "Sy Smith",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Mendocino",
+    "artist": "Sir Douglas Quintet",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "The Inside Game",
+    "artist": "Royal Trux",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Chapel of Rest",
+    "artist": "Dick Walter",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Most of the Time",
+    "artist": "Bob Dylan",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "I Get The Sweetest Feeling",
+    "artist": "Jackie Wilson",
+    "movies": [
+      {
+        "name": "High Fidelity",
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -26276,11 +26843,6 @@
         "name": "Old Dogs",
         "scene": "Charlie and Dan crash a karaoke party.",
         "timestamp": "~01:00:00"
-      },
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Mid-club vibe",
-        "timestamp": "~00:42:00"
       },
       {
         "name": "The Emoji Movie",
@@ -27914,17 +28476,6 @@
     ]
   },
   {
-    "title": "The River",
-    "artist": "Bruce Springsteen",
-    "movies": [
-      {
-        "name": "Into the Wild",
-        "scene": "Chris walks along the riverbank.",
-        "timestamp": "~00:45:00"
-      }
-    ]
-  },
-  {
     "title": "Friend of the Devil",
     "artist": "Counting Crows",
     "movies": [
@@ -28462,11 +29013,6 @@
         "name": "Music of the Heart",
         "scene": "Kids rehearse in the classroom.",
         "timestamp": "~00:40:00"
-      },
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "The characters get ready for the big dance",
-        "timestamp": "~01:32:00"
       }
     ]
   },
@@ -30010,11 +30556,6 @@
         "name": "Last Days of Disco",
         "scene": "",
         "timestamp": ""
-      },
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "Pat and Tiffany’s dance rehearsal",
-        "timestamp": "~01:15:30"
       }
     ]
   },
@@ -31549,11 +32090,6 @@
         "name": "Love and Other Drugs",
         "scene": "Jamie and Maggie on their romantic dinner date",
         "timestamp": "~00:55:40"
-      },
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "Tiffany and Pat share an intimate moment at the diner",
-        "timestamp": "~01:02:30"
       }
     ]
   },
@@ -35783,6 +36319,11 @@
         "name": "Pirate Radio",
         "scene": "The crew faces a setback but continues pushing forward",
         "timestamp": "~01:10:00"
+      },
+      {
+        "name": "The Big Chill",
+        "scene": "Post-trial reflection (not literal courtroom)",
+        "timestamp": "~01:40:00"
       }
     ]
   },
@@ -35794,6 +36335,11 @@
         "name": "Pirate Radio",
         "scene": "The energetic broadcast scene where the crew hits its stride",
         "timestamp": "~00:45:00"
+      },
+      {
+        "name": "The Big Chill",
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -38032,11 +38578,6 @@
         "name": "Rush",
         "scene": "James Hunt and his team celebrate a key victory",
         "timestamp": "~01:35:10"
-      },
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "Pat and Tiffany come together at the end of the film",
-        "timestamp": "~01:44:00"
       }
     ]
   },
@@ -38332,39 +38873,6 @@
     ]
   },
   {
-    "title": "Fling Thing",
-    "artist": "AC/DC",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Bar fight interlude",
-        "timestamp": "~01:18:00"
-      }
-    ]
-  },
-  {
-    "title": "Tryin' to Get the Feeling Again",
-    "artist": "Barry Manilow",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Post-dance competition fallout",
-        "timestamp": "~01:36:00"
-      }
-    ]
-  },
-  {
-    "title": "Down the Road",
-    "artist": "Bee Gees",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Stephanie narrates her past",
-        "timestamp": "~01:12:00"
-      }
-    ]
-  },
-  {
     "title": "How Deep Is Your Love",
     "artist": "Bee Gees",
     "movies": [
@@ -38387,6 +38895,17 @@
     ]
   },
   {
+    "title": "More Than a Woman",
+    "artist": "Bee Gees",
+    "movies": [
+      {
+        "name": "Saturday Night Fever",
+        "scene": "Tony and Stephanie dance at the club",
+        "timestamp": "~01:02:00"
+      }
+    ]
+  },
+  {
     "title": "Night Fever",
     "artist": "Bee Gees",
     "movies": [
@@ -38394,17 +38913,6 @@
         "name": "Saturday Night Fever",
         "scene": "Intro montage of the disco scene.",
         "timestamp": "~00:10:00"
-      }
-    ]
-  },
-  {
-    "title": "Rest Your Love on Me",
-    "artist": "Bee Gees",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Tony and family scene",
-        "timestamp": "~00:12:00"
       }
     ]
   },
@@ -38420,17 +38928,6 @@
     ]
   },
   {
-    "title": "Wind of Change",
-    "artist": "Bee Gees",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Stephanie looks out at city",
-        "timestamp": "~01:25:00"
-      }
-    ]
-  },
-  {
     "title": "You Should Be Dancing",
     "artist": "Bee Gees",
     "movies": [
@@ -38438,61 +38935,6 @@
         "name": "Saturday Night Fever",
         "scene": "Tony’s solo dance performance",
         "timestamp": "~01:15:00"
-      }
-    ]
-  },
-  {
-    "title": "Yours",
-    "artist": "Bee Gees",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Stephanie reflects on ambitions",
-        "timestamp": "~01:20:00"
-      }
-    ]
-  },
-  {
-    "title": "Rivers of Babylon",
-    "artist": "Boney M.",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Tony and friends on subway",
-        "timestamp": "~00:08:00"
-      }
-    ]
-  },
-  {
-    "title": "Young Hearts Run Free",
-    "artist": "Candi Staton",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Stephanie’s solo dance",
-        "timestamp": "~01:03:00"
-      }
-    ]
-  },
-  {
-    "title": "Supernature",
-    "artist": "Cerrone",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Alternate club scene",
-        "timestamp": "~00:48:00"
-      }
-    ]
-  },
-  {
-    "title": "Dance, Dance, Dance",
-    "artist": "Chic",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Opening club energy",
-        "timestamp": "~00:15:00"
       }
     ]
   },
@@ -38519,6 +38961,17 @@
     ]
   },
   {
+    "title": "Barracuda Hangout",
+    "artist": "David Shire",
+    "movies": [
+      {
+        "name": "Saturday Night Fever",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
     "title": "Salsation",
     "artist": "David Shire",
     "movies": [
@@ -38526,50 +38979,6 @@
         "name": "Saturday Night Fever",
         "scene": "Club transition scene",
         "timestamp": "~00:25:00"
-      }
-    ]
-  },
-  {
-    "title": "Toccata and Funk in D Minor",
-    "artist": "David Shire",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Tony contemplates decisions",
-        "timestamp": "~01:40:00"
-      }
-    ]
-  },
-  {
-    "title": "Could It Be Magic",
-    "artist": "Donna Summer",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Tony watches Stephanie",
-        "timestamp": "~01:08:00"
-      }
-    ]
-  },
-  {
-    "title": "Rock Your Baby",
-    "artist": "George McCrae",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Tony dances with unknown girl",
-        "timestamp": "~00:35:00"
-      }
-    ]
-  },
-  {
-    "title": "Lights",
-    "artist": "Journey",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Tony on Brooklyn Bridge",
-        "timestamp": "~01:50:00"
       }
     ]
   },
@@ -38590,28 +38999,6 @@
     ]
   },
   {
-    "title": "Get Down Tonight",
-    "artist": "KC and the Sunshine Band",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Dance contest underway.",
-        "timestamp": "~01:20:00"
-      }
-    ]
-  },
-  {
-    "title": "Give It Up",
-    "artist": "KC and the Sunshine Band",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Quick club cutaway",
-        "timestamp": "~00:40:00"
-      }
-    ]
-  },
-  {
     "title": "Open Sesame",
     "artist": "Kool & The Gang",
     "movies": [
@@ -38619,22 +39006,6 @@
         "name": "Saturday Night Fever",
         "scene": "Dance floor background music",
         "timestamp": "~00:32:00"
-      }
-    ]
-  },
-  {
-    "title": "Funkytown",
-    "artist": "Lipps Inc.",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Montage of city club-hopping",
-        "timestamp": "~00:55:00"
-      },
-      {
-        "name": "Shrek 2",
-        "scene": "Shrek, Donkey, and Puss arrive at Far Far Away.",
-        "timestamp": "~00:20:00"
       }
     ]
   },
@@ -38650,17 +39021,6 @@
     ]
   },
   {
-    "title": "Lovers",
-    "artist": "Olivia Newton-John",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Dance floor couples",
-        "timestamp": "~00:36:00"
-      }
-    ]
-  },
-  {
     "title": "Calypso Breakdown",
     "artist": "Ralph MacDonald",
     "movies": [
@@ -38672,46 +39032,24 @@
     ]
   },
   {
-    "title": "Emotion",
-    "artist": "Samantha Sang",
+    "title": "Dr. Disco",
+    "artist": "Rick Dees",
     "movies": [
       {
         "name": "Saturday Night Fever",
-        "scene": "After Tony and Stephanie argue",
-        "timestamp": "~01:35:00"
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
   {
-    "title": "Don’t Let Me Be Misunderstood",
-    "artist": "Santa Esmeralda",
+    "title": "Disco Duck",
+    "artist": "Rick Dees",
     "movies": [
       {
         "name": "Saturday Night Fever",
-        "scene": "Stephanie storms off",
-        "timestamp": "~01:29:00"
-      }
-    ]
-  },
-  {
-    "title": "He’s the Greatest Dancer",
-    "artist": "Sister Sledge",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Admiring Tony from afar",
-        "timestamp": "~00:47:00"
-      }
-    ]
-  },
-  {
-    "title": "You Make Me Feel (Mighty Real)",
-    "artist": "Sylvester",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Drag show scene",
-        "timestamp": "~00:53:00"
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -38721,8 +39059,8 @@
     "movies": [
       {
         "name": "Saturday Night Fever",
-        "scene": "Tony and Stephanie dance at the club",
-        "timestamp": "~01:02:00"
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -38743,17 +39081,6 @@
     ]
   },
   {
-    "title": "What Kind of Fool",
-    "artist": "Yvonne Elliman",
-    "movies": [
-      {
-        "name": "Saturday Night Fever",
-        "scene": "Tony alone in diner",
-        "timestamp": "~01:38:00"
-      }
-    ]
-  },
-  {
     "title": "Ain't Too Proud to Beg",
     "artist": "The Temptations",
     "movies": [
@@ -38761,6 +39088,11 @@
         "name": "Saving Mr. Banks",
         "scene": "Walt charms Mrs. Travers at Disneyland.",
         "timestamp": "~01:10:00"
+      },
+      {
+        "name": "The Big Chill",
+        "scene": "",
+        "timestamp": ""
       },
       {
         "name": "Tootsie",
@@ -39193,11 +39525,6 @@
         "name": "She's All That",
         "scene": "Laney walks down the stairs for prom.",
         "timestamp": "~01:05:00"
-      },
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "The final dance routine at the competition",
-        "timestamp": "~01:35:40"
       }
     ]
   },
@@ -39493,6 +39820,17 @@
     ]
   },
   {
+    "title": "Funkytown",
+    "artist": "Lipps Inc.",
+    "movies": [
+      {
+        "name": "Shrek 2",
+        "scene": "Shrek, Donkey, and Puss arrive at Far Far Away.",
+        "timestamp": "~00:20:00"
+      }
+    ]
+  },
+  {
     "title": "People Ain't No Good",
     "artist": "Nick Cave and the Bad Seeds",
     "movies": [
@@ -39751,94 +40089,6 @@
     ]
   },
   {
-    "title": "Take Me to the River",
-    "artist": "Al Green",
-    "movies": [
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "Pat and Tiffany share a moment of mutual understanding",
-        "timestamp": "~00:58:10"
-      }
-    ]
-  },
-  {
-    "title": "I’ve Had The Time of My Life",
-    "artist": "Bill Medley & Jennifer Warnes",
-    "movies": [
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "Pat and Tiffany perform their final dance",
-        "timestamp": "~01:42:30"
-      }
-    ]
-  },
-  {
-    "title": "Sun Is Shining",
-    "artist": "Bob Marley",
-    "movies": [
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "Pat jogs with renewed optimism.",
-        "timestamp": "~01:00:00"
-      }
-    ]
-  },
-  {
-    "title": "Tougher Than the Rest",
-    "artist": "Bruce Springsteen",
-    "movies": [
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "Pat and Tiffany walk home from the diner.",
-        "timestamp": "~00:55:00"
-      }
-    ]
-  },
-  {
-    "title": "Wild World",
-    "artist": "Cat Stevens",
-    "movies": [
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "Pat and Tiffany talk about their pasts and shared struggles",
-        "timestamp": "~00:50:00"
-      }
-    ]
-  },
-  {
-    "title": "Chameleon",
-    "artist": "Creedence Clearwater Revival",
-    "movies": [
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "Pat goes on a solo run at dusk.",
-        "timestamp": "~00:25:00"
-      }
-    ]
-  },
-  {
-    "title": "Philadelphia Freedom",
-    "artist": "Elton John",
-    "movies": [
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "Pat and Tiffany dance at the wedding reception",
-        "timestamp": "~01:23:20"
-      }
-    ]
-  },
-  {
-    "title": "Love Is Blindness",
-    "artist": "Jack White",
-    "movies": [
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "Pat and Tiffany face personal struggles",
-        "timestamp": "~00:30:40"
-      }
-    ]
-  },
-  {
     "title": "Silver Lining",
     "artist": "Jessie J",
     "movies": [
@@ -39846,17 +40096,6 @@
         "name": "Silver Linings Playbook",
         "scene": "Pat and Tiffany perform a dance routine together",
         "timestamp": "~01:40:00"
-      }
-    ]
-  },
-  {
-    "title": "The Star-Spangled Banner",
-    "artist": "Marvin Gaye",
-    "movies": [
-      {
-        "name": "Silver Linings Playbook",
-        "scene": "Pat's father watches the Eagles game",
-        "timestamp": "~00:10:30"
       }
     ]
   },
@@ -39872,24 +40111,266 @@
     ]
   },
   {
-    "title": "Tighten Up",
-    "artist": "The Black Keys",
+    "title": "Always Alright",
+    "artist": "Alabama Shakes",
     "movies": [
       {
         "name": "Silver Linings Playbook",
-        "scene": "The dance rehearsal intensifies as Tiffany and Pat push through their frustrations",
-        "timestamp": "~01:12:20"
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
   {
-    "title": "Weight of Love",
-    "artist": "The Black Keys",
+    "title": "Rain in My Eyes",
+    "artist": "Joan Shaw",
     "movies": [
       {
         "name": "Silver Linings Playbook",
-        "scene": "Pat reflects on his past relationships and struggles",
-        "timestamp": "~00:47:30"
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Hard to Find",
+    "artist": "William Kimball",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "What Is and What Should Never Be",
+    "artist": "Led Zeppelin",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Buffalo",
+    "artist": "Alt-J",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Unsquare Dance",
+    "artist": "The Dave Brubeck Quartet",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "The Moon of Manakoora",
+    "artist": "Les Paul",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Monster Mash",
+    "artist": "CrabCorps",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Goodnight Moon",
+    "artist": "Ambrosia Parsley",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Now I'm a Fool",
+    "artist": "Eagles Of Death Metal",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Girl from the North Country",
+    "artist": "Bob Dylan and Johnny Cash",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Don't You Worry 'Bout A Thing",
+    "artist": "Stevie Wonder",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Hello Operator",
+    "artist": "The White Stripes",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Hey Big Brother",
+    "artist": "Rare Earth",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Have Yourself a Merry Little Christmas",
+    "artist": "Frank Sinatra",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Amore A Forza",
+    "artist": "Piero Piccioni",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Popeye's Clog",
+    "artist": "Evan Lurie",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Guarapiranga",
+    "artist": "Tomaz Di Cunto",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Cesaroni's Tango",
+    "artist": "Andrea Guerra",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Sway",
+    "artist": "Tribute Beat",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Devil Tango",
+    "artist": "Evan Lurie",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Fell In Love With A Girl",
+    "artist": "The White Stripes",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Maria",
+    "artist": "The Dave Brubeck Quartet",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Misty",
+    "artist": "Johnny Mathis",
+    "movies": [
+      {
+        "name": "Silver Linings Playbook",
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -41894,6 +42375,11 @@
         "timestamp": "~01:15:00"
       },
       {
+        "name": "The Big Chill",
+        "scene": "",
+        "timestamp": ""
+      },
+      {
         "name": "The Irishman",
         "scene": "Frank drives alone after Hoffa’s disappearance.",
         "timestamp": "~02:45:00"
@@ -42862,34 +43348,106 @@
     ]
   },
   {
-    "title": "No Surrender",
-    "artist": "Bruce Springsteen",
+    "title": "I Heard It Through the Grapevine",
+    "artist": "Marvin Gaye",
     "movies": [
       {
         "name": "The Big Chill",
-        "scene": "Old friends reminisce around the fire.",
-        "timestamp": "~01:00:00"
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
   {
-    "title": "You Cant' Always Get What You Want",
-    "artist": "The Rolling Stones",
+    "title": "Tell Him",
+    "artist": "The Exciters",
     "movies": [
       {
         "name": "The Big Chill",
-        "scene": "Post-trial reflection (not literal courtroom)",
-        "timestamp": "~01:40:00"
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Theme from Raiders of the Lost Ark",
+    "artist": "John Williams",
+    "movies": [
+      {
+        "name": "The Big Chill",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Good Lovin'",
+    "artist": "The Rascals",
+    "movies": [
+      {
+        "name": "The Big Chill",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "My Girl",
+    "artist": "The Temptations",
+    "movies": [
+      {
+        "name": "The Big Chill",
+        "scene": "",
+        "timestamp": ""
       },
       {
-        "name": "The Do-Over",
-        "scene": "Max and Charlie fail upward again.",
-        "timestamp": "~01:35:00"
-      },
+        "name": "Toy Story 4 (trailer)",
+        "scene": "A montage of Woody and Forky.",
+        "timestamp": "~Trailer"
+      }
+    ]
+  },
+  {
+    "title": "Quicksilver Girl",
+    "artist": "Steve Miller Band",
+    "movies": [
       {
-        "name": "The Post",
-        "scene": "Reporters react to the Supreme Court ruling.",
-        "timestamp": "~01:55:00"
+        "name": "The Big Chill",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "When a Man Loves a Woman",
+    "artist": "Percy Sledge",
+    "movies": [
+      {
+        "name": "The Big Chill",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "In the Midnight Hour",
+    "artist": "The Rascals",
+    "movies": [
+      {
+        "name": "The Big Chill",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "I Second That Emotion",
+    "artist": "Smokey Robinson & The Miracles",
+    "movies": [
+      {
+        "name": "The Big Chill",
+        "scene": "",
+        "timestamp": ""
       }
     ]
   },
@@ -43572,6 +44130,22 @@
     ]
   },
   {
+    "title": "You Cant' Always Get What You Want",
+    "artist": "The Rolling Stones",
+    "movies": [
+      {
+        "name": "The Do-Over",
+        "scene": "Max and Charlie fail upward again.",
+        "timestamp": "~01:35:00"
+      },
+      {
+        "name": "The Post",
+        "scene": "Reporters react to the Supreme Court ruling.",
+        "timestamp": "~01:55:00"
+      }
+    ]
+  },
+  {
     "title": "Today",
     "artist": "The Smashing Pumpkins",
     "movies": [
@@ -43978,6 +44552,22 @@
         "name": "The Goonies",
         "scene": "Music video tie-in & end credits.",
         "timestamp": "~01:50:00"
+      }
+    ]
+  },
+  {
+    "title": "Get Up",
+    "artist": "50 Cent",
+    "movies": [
+      {
+        "name": "The Great Debaters",
+        "scene": "Samantha gets ready for the final round.",
+        "timestamp": "~01:15:00"
+      },
+      {
+        "name": "The Italian Job",
+        "scene": "The crew tests the Mini Coopers",
+        "timestamp": "~00:50:00"
       }
     ]
   },
@@ -49306,17 +49896,6 @@
     ]
   },
   {
-    "title": "My Girl",
-    "artist": "The Temptations",
-    "movies": [
-      {
-        "name": "Toy Story 4 (trailer)",
-        "scene": "A montage of Woody and Forky.",
-        "timestamp": "~Trailer"
-      }
-    ]
-  },
-  {
     "title": "Many Men (Wish Death)",
     "artist": "50 Cent",
     "movies": [
@@ -52215,6 +52794,534 @@
         "name": "Zootopia",
         "scene": "The theme plays as Judy journeys to the city.",
         "timestamp": "~00:10:00"
+      }
+    ]
+  },
+  {
+    "title": "Til I Hear It from You",
+    "artist": "Gin Blossoms",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Can't Stop Losing Myself",
+    "artist": "The Dirt Clods",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "The Honeymoon is Over",
+    "artist": "The Cruel Sea",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "I Don't Want to Live Today",
+    "artist": "Ape Hangers",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Hey Joe",
+    "artist": "The Dirt Clods",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Video Killed the Radio Star",
+    "artist": "The Buggles",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Dark and Brooding",
+    "artist": "Noah Stone",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Whole Lotta Trouble",
+    "artist": "Cracker",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Ready, Steady, Go",
+    "artist": "The Meices",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Thorn in My Side",
+    "artist": "Quicksand",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Little Bastard",
+    "artist": "Ass Ponys",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "I Don't Know Why",
+    "artist": "Sacrilcious",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Real",
+    "artist": "Real",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "If You Want Blood (You've Got It)",
+    "artist": "AC/DC",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Counting Blue Cars",
+    "artist": "Dishwalla",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Circle of Friends",
+    "artist": "Better Than Ezra",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Crazy Life",
+    "artist": "Toad the Wet Sprocket",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Romeo and Juliet",
+    "artist": "Dire Straits",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "The Ballad of El Goodo",
+    "artist": "Evan Dando",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "What You Are",
+    "artist": "Drill",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Snakeface",
+    "artist": "Throwing Muses",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Candy",
+    "artist": "Full Tilt Gonzo",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "How",
+    "artist": "The Cranberries",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Liar",
+    "artist": "The Cranberries",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Hardlight",
+    "artist": "Pegboy",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Chew Toy",
+    "artist": "Fig Dish",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Bright As Yellow",
+    "artist": "The Innocence Mission",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Rock 'n' Roll/EGA",
+    "artist": "Daniel Johnston",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Power Shack",
+    "artist": "Fitz of Depression",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Saddam A Go-Go",
+    "artist": "Gwar",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Here It Comes Again",
+    "artist": "Please",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Backdown Blues",
+    "artist": "Loose Diamonds",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Tomorrow",
+    "artist": "Mouth Music",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Plowed",
+    "artist": "Sponge",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Surround You",
+    "artist": "Billy White Trio",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "SugarHigh",
+    "artist": "Coyote Shivers",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "L.A. Girl",
+    "artist": "Adolescents",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Seems",
+    "artist": "Queen Sarah Saturday",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Vinyl Advice",
+    "artist": "Dead Hot Workshop",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Nice Overalls",
+    "artist": "Lustre",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "This is the Day",
+    "artist": "The The",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Free",
+    "artist": "The Martinis",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Say No More (Mon Amour)",
+    "artist": "Maxwell Caulfield",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "She Walks",
+    "artist": "Poster Children",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "I Shot the Devil",
+    "artist": "Suicidal Tendencies",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Sorry",
+    "artist": "Sybil Vane",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Infinity",
+    "artist": "Mouth Music",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
+      }
+    ]
+  },
+  {
+    "title": "Money (That's What I Want)",
+    "artist": "The Flying Lizards",
+    "movies": [
+      {
+        "name": "Empire Records",
+        "scene": "",
+        "timestamp": ""
       }
     ]
   }
