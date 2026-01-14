@@ -1,28 +1,32 @@
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, ScrollView } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
+import Footer from '../components/Footer';
 
 export default function ResultsScreen({ route, navigation }) {
   const { song } = route.params;
 
   return (
-    <ScrollView style={styles.container}>
-      {/* Header */}
-        <View style={styles.header}>
+    <View style={styles.container}>
+      <ScrollView style={styles.scrollView} contentContainerStyle={styles.scrollContent}>
+        {/* Header */}
+        <View style={styles.headerContainer}>
           <Text style={styles.header}>🎬 Movie Song Database</Text>
           <Text style={styles.subheader}>Search every movie song. Ever.</Text>
         </View>
 
-          <Text style={styles.title}>Movies featuring "{song.title}"</Text>
+        <Text style={styles.title}>Movies featuring "{song.title}"</Text>
 
-      {song.movies.map((movie, index) => (
-        <View key={index} style={styles.movieCard}>
-          <Text style={styles.movieTitle}>{movie.name}</Text>
-          <Text style={styles.movieScene}>🎬 {movie.scene}</Text>
-          <Text style={styles.movieTimestamp}>⏱ {movie.timestamp}</Text>
-        </View>
-      ))}
-    </ScrollView>
+        {song.movies.map((movie, index) => (
+          <View key={index} style={styles.movieCard}>
+            <Text style={styles.movieTitle}>{movie.name}</Text>
+            <Text style={styles.movieScene}>🎬 {movie.scene}</Text>
+            <Text style={styles.movieTimestamp}>⏱ {movie.timestamp}</Text>
+          </View>
+        ))}
+      </ScrollView>
+      <Footer />
+    </View>
   );
 }
 
@@ -30,8 +34,14 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#121212',
+  },
+  scrollView: {
+    flex: 1,
+  },
+  scrollContent: {
     paddingTop: 60,
     paddingHorizontal: 20,
+    paddingBottom: 20,
   },
   backButton: {
     flexDirection: 'row',
@@ -42,6 +52,9 @@ const styles = StyleSheet.create({
     fontSize: 16,
     color: '#1e40af',
     marginLeft: 8,
+  },
+  headerContainer: {
+    marginBottom: 30,
   },
   header: {
     fontSize: 26,
