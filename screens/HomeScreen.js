@@ -55,12 +55,12 @@ export default function HomeScreen() {
         <Text style={styles.header}>🎬 Movie Song Database</Text>
         <Text style={styles.subheader}>Search every movie song. Ever.</Text>
 
-        <TouchableOpacity
+        {/* <TouchableOpacity
           style={styles.quizButton}
           onPress={() => navigation.navigate('Quiz')}
         >
           <Text style={styles.quizButtonText}>🎮 Play Quiz</Text>
-        </TouchableOpacity>
+        </TouchableOpacity> */}
 
         <TextInput
           style={styles.searchInput}
