@@ -1,10 +1,80 @@
-import React from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, ScrollView } from 'react-native';
+import React, { useMemo } from 'react';
+import { View, Text, StyleSheet, TouchableOpacity, ScrollView, Platform } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import Footer from '../components/Footer';
+import songsData from '../data/songs.json';
 
 export default function ResultsScreen({ route, navigation }) {
-  const { song } = route.params;
+  const { song: songFromParams, search: searchFromParams } = route.params || {};
+
+  // Get search query from route params (React Navigation handles URL parsing)
+  const searchQuery = searchFromParams || '';
+
+  // Find song from search query if not provided in params
+  const song = useMemo(() => {
+    if (songFromParams) {
+      return songFromParams;
+    }
+    
+    if (searchQuery) {
+      const decodedSearch = decodeURIComponent(searchQuery);
+      // Try to match by "title - artist" format
+      // Split on the LAST occurrence of ' - ' to handle titles that contain ' - '
+      const lastSeparatorIndex = decodedSearch.lastIndexOf(' - ');
+      let title, artist;
+      if (lastSeparatorIndex !== -1) {
+        title = decodedSearch.substring(0, lastSeparatorIndex).trim();
+        artist = decodedSearch.substring(lastSeparatorIndex + 3).trim(); // +3 to skip ' - '
+      }
+      
+      if (title && artist) {
+        const found = songsData.find(
+          s => s.title === title && s.artist === artist
+        );
+        if (found) return found;
+      }
+      
+      // Fallback: search by title or artist
+      const normalizeText = (str) => {
+        return str
+          .toLowerCase()
+          .normalize('NFD')
+          .replace(/[\u0300-\u036f]/g, '')
+          .replace(/[''']/g, "'");
+      };
+      
+      const normalizedSearch = normalizeText(decodedSearch);
+      return songsData.find(
+        s => normalizeText(s.title).includes(normalizedSearch) ||
+             normalizeText(s.artist).includes(normalizedSearch) ||
+             normalizeText(`${s.title} - ${s.artist}`).includes(normalizedSearch)
+      );
+    }
+    
+    return null;
+  }, [songFromParams, searchQuery]);
+
+  // Update document title on web
+  React.useEffect(() => {
+    if (Platform.OS === 'web' && song) {
+      document.title = `"${song.title}" - Movie Song Database`;
+    }
+  }, [song]);
+
+  if (!song) {
+    return (
+      <View style={styles.container}>
+        <ScrollView style={styles.scrollView} contentContainerStyle={styles.scrollContent}>
+          <View style={styles.headerContainer}>
+            <Text style={styles.header}>🎬 Movie Song Database</Text>
+            <Text style={styles.subheader}>Search every movie song. Ever.</Text>
+          </View>
+          <Text style={styles.errorText}>Song not found</Text>
+        </ScrollView>
+        <Footer />
+      </View>
+    );
+  }
 
   return (
     <View style={styles.container}>
@@ -116,5 +186,11 @@ navTitle: {
   fontSize: 22,
   fontWeight: 'bold',
   color: '#1e40af',
+},
+errorText: {
+  color: '#ef4444',
+  fontSize: 18,
+  textAlign: 'center',
+  marginTop: 20,
 },
 });
