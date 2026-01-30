@@ -67,7 +67,10 @@ export default function HomeScreen() {
   const goToResults = (song) => {
     // Track when user clicks on a search result
     trackSearchResultClick(song.title, song.artist);
-    navigation.navigate('Results', { song });
+    // Create search query string from song title and artist (unencoded - linking config will encode for URL)
+    const searchQuery = `${song.title} - ${song.artist}`;
+    // Navigate with search query - React Navigation will handle URL encoding on web
+    navigation.navigate('Results', { song, search: searchQuery });
   };
 
   const handleFeedback = () => {
